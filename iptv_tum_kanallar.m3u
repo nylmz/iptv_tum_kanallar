@@ -1,9 +1,3 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YZG9MRS/turktv.png",itasli.github.io/TURKTV
-https://i.ibb.co/YZG9MRS/turktv.png
-
-
 # * » TRT « * #
 #EXTINF:-1 tvg-name="TRT 1" tvg-language="Turkish" tvg-country="TR" tvg-id="TRT_1" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/10660277.png" group-title="TRT",TRT 1
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?app=web
