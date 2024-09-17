@@ -350,12 +350,6 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa
 #EXTINF:-1 tvg-name="Tatlıses TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Muzik_TatlisesTV" tvg-logo="https://canlitv.center/channels/tatlises-tv.png" group-title="Müzik",Tatlıses TV
 https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="MTV Biggest Pop" tvg-language="English" tvg-country="USA" tvg-id="Muzik_MTVBiggestPop" tvg-logo="https://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG.png" group-title="Müzik",MTV Biggest Pop
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e1509fb7809fd000949e39b/master.m3u8?advertisingId=&appName=rokuchannel&appVersion=1.0&deviceDNT=1&deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel
-
-#EXTINF:-1 tvg-name="Vevo Pop" tvg-language="English" tvg-country="USA" tvg-id="Muzik_VevoPop" tvg-logo="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/colorLogoPNG.png" group-title="Müzik",Vevo Pop
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?advertisingId=&appName=rokuchannel&appVersion=1.0&deviceDNT=1&deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel
-
 
 # * » İçerik « * #
 #EXTINF:-1 tvg-name="Yeşil Çam" tvg-language="Turkish" tvg-country="TR" tvg-id="icerik_YesilCam" tvg-logo="https://i.ytimg.com/vi/li4kIJdyxs4/hqdefault.jpg" group-title="İçerik",Yeşil Çam
@@ -402,41 +396,50 @@ https://ythls.kekikakademi.org/youtube/channel/UCtkp8YehDHBNJ63CS9xwIQg.m3u8
 
 
 # * » Rahatlatıcı+18 « * #
-#EXTINF:1 tvg-name="MYCAM TV" tvg-language="Turkish" tvg-country="TR" tvg-id="MYCAM TV" tvg-logo='https://cloudtv.akamaized.net/futuretech/images/Futuretech/713982fb-7208-4818-b1f8-c7fde7ac2869_180x180_AdultChannel.de.png' group-title='Rahatlatıcı+18',MYCAM TV
+#EXTINF:1 tvg-name="MYCAM TV" tvg-language="English" tvg-country="USA" tvg-id="MYCAM TV" tvg-logo='https://mycamtv.net/templates/default_v2/images/logo_trans.png' group-title='Rahatlatıcı+18',MYCAM TV
 https://11streamt11.akamaized.net/FTX3_XXX_ADULT_1/index.mpd
 
-#EXTINF:1 tvg-name="PORN BOX" tvg-language="Turkish" tvg-country="TR" tvg-id="PORN BOX" tvg-logo='https://cloudtv.akamaized.net/futuretech/images/Futuretech/713982fb-7208-4818-b1f8-c7fde7ac2869_180x180_AdultChannel.de.png' group-title='Rahatlatıcı+18',PORN BOX
+#EXTINF:1 tvg-name="PORN BOX" tvg-language="English" tvg-country="USA" tvg-id="PORN BOX" tvg-logo='https://pornbox.com/images/pb-logo_dark.png' group-title='Rahatlatıcı+18',PORN BOX
 https://11streamt11.akamaized.net/FTX3_XXX_ADULT_2/index.mpd
 
-#EXTINF:1 tvg-name="PORNBOX BRAZZERS" tvg-language="Turkish" tvg-country="TR" tvg-id="PORNBOX BRAZZERS" tvg-logo='https://cloudtv.akamaized.net/futuretech/images/Futuretech/713982fb-7208-4818-b1f8-c7fde7ac2869_180x180_AdultChannel.de.png' group-title='Rahatlatıcı+18',PORNBOX BRAZZERS
+#EXTINF:1 tvg-name="PORNBOX BRAZZERS" tvg-language="English" tvg-country="USA" tvg-id="PORNBOX BRAZZERS" tvg-logo='https://pornbox.com/images/pb-logo_dark.png' group-title='Rahatlatıcı+18',PORNBOX BRAZZERS
 https://11streamt11.akamaized.net/FTX3_XXX_ADULT_13/index.mpd
 
-#EXTINF:1 tvg-name="PORNBOX BRATTYSIS" tvg-language="Turkish" tvg-country="TR" tvg-id="PORNBOX BRATTYSIS" tvg-logo='https://cloudtv.akamaized.net/futuretech/images/Futuretech/713982fb-7208-4818-b1f8-c7fde7ac2869_180x180_AdultChannel.de.png' group-title='Rahatlatıcı+18',PORNBOX BRATTYSIS
+#EXTINF:1 tvg-name="PORNBOX BRATTYSIS" tvg-language="English" tvg-country="USA" tvg-id="PORNBOX BRATTYSIS" tvg-logo='https://pornbox.com/images/pb-logo_dark.png' group-title='Rahatlatıcı+18',PORNBOX BRATTYSIS
 https://11streamt11.akamaized.net/FTX3_XXX_ADULT_14/index.mpd
 
-#EXTINF:1 tvg-name="PORNBOX CUM4K" tvg-language="Turkish" tvg-country="TR" tvg-id="PORNBOX CUM4K" tvg-logo='https://cloudtv.akamaized.net/futuretech/images/Futuretech/713982fb-7208-4818-b1f8-c7fde7ac2869_180x180_AdultChannel.de.png' group-title='Rahatlatıcı+18',PORNBOX CUM4K
+#EXTINF:1 tvg-name="PORNBOX CUM4K" tvg-language="English" tvg-country="USA" tvg-id="PORNBOX CUM4K" tvg-logo='https://pornbox.com/images/pb-logo_dark.png' group-title='Rahatlatıcı+18',PORNBOX CUM4K
 https://11streamt11.akamaized.net/FTX3_XXX_ADULT_15/index.mpd
 
-#EXTINF:1 tvg-name="PORN HUB" tvg-language="Turkish" tvg-country="TR" tvg-id="PORN HUB" tvg-logo='https://cloudtv.akamaized.net/futuretech/images/Futuretech/713982fb-7208-4818-b1f8-c7fde7ac2869_180x180_AdultChannel.de.png' group-title='Rahatlatıcı+18',PORN HUB
+#EXTINF:1 tvg-name="PORN HUB" tvg-language="English" tvg-country="USA" tvg-id="PORN HUB" tvg-logo='https://ei.phncdn.com/www-static/images/pornhub_logo_straight.svg' group-title='Rahatlatıcı+18',PORN HUB
 https://11streamt11.akamaized.net/FTX3_XXX_ADULT_3/index.mpd
 
-#EXTINF:1 tvg-name="PORN HUB 2" tvg-language="Turkish" tvg-country="TR" tvg-id="PORN HUB 2" tvg-logo='https://cloudtv.akamaized.net/futuretech/images/Futuretech/713982fb-7208-4818-b1f8-c7fde7ac2869_180x180_AdultChannel.de.png' group-title='Rahatlatıcı+18',PORN HUB 2
+#EXTINF:1 tvg-name="PORN HUB 2" tvg-language="English" tvg-country="USA" tvg-id="PORN HUB 2" tvg-logo='https://ei.phncdn.com/www-static/images/pornhub_logo_straight.svg' group-title='Rahatlatıcı+18',PORN HUB 2
 https://11streamt11.akamaized.net/FTX3_XXX_ADULT_9/index.mpd
 
-#EXTINF:1 tvg-name="PORN HUB 3" tvg-language="Turkish" tvg-country="TR" tvg-id="PORN HUB 3" tvg-logo='https://cloudtv.akamaized.net/futuretech/images/Futuretech/713982fb-7208-4818-b1f8-c7fde7ac2869_180x180_AdultChannel.de.png' group-title='Rahatlatıcı+18',PORN HUB 3
+#EXTINF:1 tvg-name="PORN HUB 3" tvg-language="English" tvg-country="USA" tvg-id="PORN HUB 3" tvg-logo='https://ei.phncdn.com/www-static/images/pornhub_logo_straight.svg' group-title='Rahatlatıcı+18',PORN HUB 3
 https://11streamt11.akamaized.net/FTX3_XXX_ADULT_10/index.mpd
 
-#EXTINF:1 tvg-name="PORN HUB 4" tvg-language="Turkish" tvg-country="TR" tvg-id="PORN HUB 4" tvg-logo='https://cloudtv.akamaized.net/futuretech/images/Futuretech/713982fb-7208-4818-b1f8-c7fde7ac2869_180x180_AdultChannel.de.png' group-title='Rahatlatıcı+18',PORN HUB 4
+#EXTINF:1 tvg-name="PORN HUB 4" tvg-language="English" tvg-country="USA" tvg-id="PORN HUB 4" tvg-logo='https://ei.phncdn.com/www-static/images/pornhub_logo_straight.svg' group-title='Rahatlatıcı+18',PORN HUB 4
 https://11streamt11.akamaized.net/FTX3_XXX_ADULT_12/index.mpd
 
-#EXTINF:1 tvg-name="HUSTLER HD" tvg-language="Turkish" tvg-country="TR" tvg-id="HUSTLER HD" tvg-logo='https://cloudtv.akamaized.net/futuretech/images/Futuretech/713982fb-7208-4818-b1f8-c7fde7ac2869_180x180_AdultChannel.de.png' group-title='Rahatlatıcı+18',HUSTLER HD
+#EXTINF:1 tvg-name="HUSTLER HD" tvg-language="English" tvg-country="USA" tvg-id="HUSTLER HD" tvg-logo='https://adult-tv-channels.com/wp-content/uploads/2021/09/hustler-hd-official-logo.png' group-title='Rahatlatıcı+18',HUSTLER HD
 https://11streamt11.akamaized.net/FTX3_XXX_ADULT_4/index.mpd
 
-#EXTINF:1 tvg-name="BRAZZERS TV" tvg-language="Turkish" tvg-country="TR" tvg-id="BRAZZERS TV" tvg-logo='https://cloudtv.akamaized.net/futuretech/images/Futuretech/713982fb-7208-4818-b1f8-c7fde7ac2869_180x180_AdultChannel.de.png' group-title='Rahatlatıcı+18',BRAZZERS TV
+#EXTINF:1 tvg-name="HUSTLER TV" tvg-language="English" tvg-country="USA" tvg-id="HUSTLER TV" tvg-logo='https://adult-tv-channels.com/wp-content/uploads/2024/02/hustlertv.png' group-title='Rahatlatıcı+18',HUSTLER TV
+https://w2.btstream.xyz:16077/tv/hustlertv/chunks.m3u8
+
+#EXTINF:1 tvg-name="PENTHOUSE TV" tvg-language="English" tvg-country="USA" tvg-id="PENTHOUSE TV" tvg-logo='https://adult-tv-channels.com/wp-content/uploads/2021/09/penthouse-hd-tv.png' group-title='Rahatlatıcı+18',PENTHOUSE TV
+https://w2.btstream.xyz:16077/tv/penthouse/chunks.m3u8
+
+#EXTINF:1 tvg-name="PENTHOUSE PANSSION TV" tvg-language="English" tvg-country="USA" tvg-id="PENTHOUSE PANSSION TV" tvg-logo='https://adult-tv-channels.com/wp-content/uploads/2024/02/penthousepassion.png' group-title='Rahatlatıcı+18',PENTHOUSE PANSSION TV
+https://w2.btstream.xyz:16077/tv/penthousepassion/chunks.m3u8
+
+#EXTINF:1 tvg-name="PENTHOUSE GOLD TV" tvg-language="English" tvg-country="USA" tvg-id="PENTHOUSE PANSSION TV" tvg-logo='https://adult-tv-channels.com/wp-content/uploads/2021/09/penthouse-hd-tv.png' group-title='Rahatlatıcı+18',PENTHOUSE GOLD TV
+https://w2.btstream.xyz:16077/tv/penthouse/chunks.m3u8
+
+#EXTINF:1 tvg-name="BRAZZERS TV" tvg-language="English" tvg-country="USA" tvg-id="BRAZZERS TV" tvg-logo='https://adult-tv-channels.com/wp-content/uploads/2021/09/brazzers-tv-official-logo.png' group-title='Rahatlatıcı+18',BRAZZERS TV
 https://11streamt11.akamaized.net/FTX3_XXX_ADULT_8/index.mpd
 
-#EXTINF:1 tvg-name="CHERRY PIMPS" tvg-language="Turkish" tvg-country="TR" tvg-id="CHERRY PIMPS" tvg-logo='https://cloudtv.akamaized.net/futuretech/images/Futuretech/713982fb-7208-4818-b1f8-c7fde7ac2869_180x180_AdultChannel.de.png' group-title='Rahatlatıcı+18',CHERRY PIMPS
-https://11streamt11.akamaized.net/FTX3_XXX_ADULT_11/index.mpd
-
-#EXTINF:1 tvg-name="GAY TV HD" tvg-language="Turkish" tvg-country="TR" tvg-id="GAY TV HD" tvg-logo='https://cloudtv.akamaized.net/futuretech/images/Futuretech/713982fb-7208-4818-b1f8-c7fde7ac2869_180x180_AdultChannel.de.png' group-title='Rahatlatıcı+18',GAY TV HD
-https://11streamt11.akamaized.net/FTX3_XXX_ADULT_17/index.mpd
+#EXTINF:1 tvg-name="REDLIGHT HD TV" tvg-language="English" tvg-country="USA" tvg-id="REDLIGHT HD TV" tvg-logo='https://adult-tv-channels.com/wp-content/uploads/2021/09/redlight-hd-logo.png' group-title='Rahatlatıcı+18',REDLIGHT HD TV
+https://w2.btstream.xyz:16077/tv/redlight/chunks.m3u8
