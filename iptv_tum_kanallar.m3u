@@ -70,21 +70,55 @@ https://bloomberght2dvr.blutv.com/blutv_bloomberght_dvr/live.m3u8
 #EXTINF:-1 tvg-name="Meclis TV" tvg-language="Turkish" tvg-country="TR" tvg-id="TBMM" tvg-logo="https://seeklogo.com/images/T/tbmm-logo-9FB0F2818C-seeklogo.com.png" group-title="TRT",Meclis TV
 https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
 
+
 # * » Belgesel « * #
-#EXTINF:-1 tvg-name="TRT Belgesel" tvg-language="Turkish" tvg-country="TR" tvg-id="Belgesel_TRT" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/8114410.png" group-title="Belgesel",TRT Belgesel
+#EXTINF:-1 tvg-name="TRT Belgesel"tvg-id="Belgesel_TRT"tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/8114410.png"group-title="Belgesel":http-referrer="":http-user-agent="",TRT-Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-name="TLC" tvg-language="Turkish" tvg-country="TR" tvg-id="Belgesel_TLC" tvg-logo="https://img-tlctv.mncdn.com/logo.png" group-title="Belgesel",TLC
+#EXTINF:-1 tvg-name="TLC"tvg-id="Belgesel_TLC"tvg-logo="https://img-tlctv.mncdn.com/logo.png"group-title="Belgesel":http-referrer="":http-user-agent="",TLC
 https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
 
-#EXTINF:-1 tvg-name="DMax" tvg-language="Turkish" tvg-country="TR" tvg-id="Belgesel_DMax" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/604a04ef866ac32574736ef6" group-title="Belgesel",DMax
+#EXTINF:-1 tvg-name="DMax"tvg-id="Belgesel_DMax"tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/604a04ef866ac32574736ef6"group-title="Belgesel":http-referrer="":http-user-agent="",DMax
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 
-#EXTINF:-1 tvg-name="TGRT Belgesel" tvg-language="Turkish" tvg-country="TR" tvg-id="Belgesel_TGRT" tvg-logo="https://www.tgrtbelgesel.com.tr/wp-content/uploads/2021/08/TGRT_Belgesel_Logo.png" group-title="Belgesel",TGRT Belgesel
-https://canli.ihlasdigitalassets.com/tgrtbelgesel.m3u8
+#EXTINF:-1 tvg-name="Bbc Earth [ HD ]"tvg-id=""tvg-logo="https://i.hizliresim.com/5oxynyz.png"group-title="Belgesel":http-referrer="":http-user-agent="",Bbc Earth [ HD ]
+http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/258
 
-#EXTINF:-1 tvg-name="Çiftçi TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Belgesel_CiftciTV" tvg-logo="https://www.ciftcitv.com/wp-content/uploads/2021/02/favicon.png" group-title="Belgesel",Çiftçi TV
-https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
+#EXTINF:-1 tvg-name="Discovery Channel [ HD ]"tvg-id=""tvg-logo="https://i.hizliresim.com/848h7ka.png"group-title="Belgesel":http-referrer="":http-user-agent="",Discovery Channel [ HD ]
+https://lives.anystreamrectv3.live/live/discovery.m3u8?token=_r-dsxsAKmCc9fzAINBDBA&tms=1730748913
+
+#EXTINF:-1 tvg-name="National Geoprafic [ HD ]"tvg-id=""tvg-logo="https://i.hizliresim.com/llrmfx3.png"group-title="Belgesel":http-referrer="":http-user-agent="",National Geoprafic [ HD ]
+http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/286
+
+#EXTINF:-1 tvg-name="National Geoprafic Wild [ HD ]"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png"group-title="Belgesel":http-referrer="":http-user-agent="",National Geoprafic Wild [ HD ]
+https://lives.anystreamrectv3.live/live/natgeowild.m3u8?token=_r-dsxsAKmCc9fzAINBDBA&tms=1730748913
+
+#EXTINF:-1 tvg-name="beIN Gurme [ HD ]"tvg-id=""tvg-logo="https://i.hizliresim.com/qlqk5fm.png"group-title="Belgesel":http-referrer="":http-user-agent="",beIN Gurme [ HD ]
+http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/271
+
+#EXTINF:-1 tvg-name="Viasat History [ HD ]"tvg-id=""tvg-logo="https://i.hizliresim.com/4b3cx0n.png"group-title="Belgesel":http-referrer="":http-user-agent="",Viasat History [ HD ]
+https://lives.anystreamrectv3.live/live/viasathistory.m3u8?token=vCIq-C2bpJQpJA3ChjgpsA&tms=1730749183
+
+#EXTINF:-1 tvg-name="Da Vinci Learning [ HD ]"tvg-id=""tvg-logo="https://i.hizliresim.com/3yrq7xt.png"group-title="Belgesel":http-referrer="":http-user-agent="",Da Vinci Learning [ HD ]
+http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/230551
+
+#EXTINF:-1 tvg-name="Love Nature [ HD ]"tvg-id=""tvg-logo="https://i.hizliresim.com/adihb3b.png"group-title="Belgesel":http-referrer="":http-user-agent="",Love Nature [ HD ]
+https://lives.anystreamrectv3.live/live/lovenature.m3u8?token=vCIq-C2bpJQpJA3ChjgpsA&tms=1730749183
+
+#EXTINF:-1 tvg-name="beIN IZ [ HD ]"tvg-id=""tvg-logo="https://i.hizliresim.com/5es6vau.png"group-title="Belgesel":http-referrer="":http-user-agent="",beIN IZ [ HD ]
+http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/270
+
+#EXTINF:-1 tvg-name="History Channel"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/1200px-History_%282021%29.svg.png"group-title="Belgesel":http-referrer="":http-user-agent="",History Channel
+https://lives.anystreamrectv3.live/live/history.m3u8?token=_r-dsxsAKmCc9fzAINBDBA&tms=1730748913
+
+#EXTINF:-1 tvg-name="Tarih TV "tvg-id=""tvg-logo="https://yt3.googleusercontent.com/YzOSo8ALy6M5SaP9ofLQaNIqIgv9aYkkH4qMhMmi9CLfZrAfvqEL2ObnjOwsGEYEiLoXcWLKzg=s900-c-k-c0x00ffffff-no-rj"group-title="Belgesel":http-referrer="":http-user-agent="",Tarih TV 
+https://lives.anystreamrectv3.live/live/tarihtv.m3u8?token=_r-dsxsAKmCc9fzAINBDBA&tms=1730748913
+
+#EXTINF:-1 tvg-name="Docubox"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzEja-nr7PIdrNMz_cq-CPyWGtHHFfy58EmA&s"group-title="Belgesel":http-referrer="":http-user-agent="",Docubox
+http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/229370
+
+#EXTINF:-1 tvg-name="Dmax"tvg-id=""tvg-logo="https://d2v9mhsiek5lbq.cloudfront.net/eyJidWNrZXQiOiJsb21hLW1lZGlhLWRlIiwia2V5IjoiZG1heC1pbWFnZS1lODg0NmVhNy02YWNkLTRiMjYtOTMxMi1kYmQ1Y2EyMjk0OGEuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE5MjAsImhlaWdodCI6MTA4MH0sImpwZWciOnsicXVhbGl0eSI6NTUsInByb2dyZXNzaXZlIjp0cnVlfX19"group-title="Belgesel":http-referrer="":http-user-agent="",Dmax
+https://lives.anystreamrectv3.live/live/dmax.m3u8?token=_r-dsxsAKmCc9fzAINBDBA&tms=1730748913
 
 
 # * » Genel « * #
@@ -143,15 +177,51 @@ https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 
 
-# * » EBA « * #
-#EXTINF:-1 tvg-name="EBA İlkOkul" tvg-language="Turkish" tvg-country="TR" tvg-id="EBA_IlkOkul" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/8886648.png" group-title="EBA",EBA İlkOkul
-https://tv-e-okul00.medya.trt.com.tr/master_720.m3u8
+# * » Sinema « * #
+#EXTINF:-1 tvg-name=" beIN Movies Action 2"tvg-id=""tvg-logo="https://media0058.elcinema.com/tvguide/1323_1.png"group-title="Sinema":http-referrer="":http-user-agent="", beIN Movies Action 2
+http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/233074
 
-#EXTINF:-1 tvg-name="EBA OrtaOkul" tvg-language="Turkish" tvg-country="TR" tvg-id="EBA_OrtaOkul" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/8886647.png" group-title="EBA",EBA OrtaOkul
-https://tv-e-okul01.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-name="Bein Movies Family "tvg-id=""tvg-logo="https://media0058.elcinema.com/tvguide/1325_1.png"group-title="Sinema":http-referrer="":http-user-agent="",Bein Movies Family 
+https://lives.anystreamrectv3.live/live/bsfamily.m3u8?token=_r-dsxsAKmCc9fzAINBDBA&tms=1730748913
 
-#EXTINF:-1 tvg-name="EBA Lise" tvg-language="Turkish" tvg-country="TR" tvg-id="EBA_Lise" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/8886628.png" group-title="EBA",EBA Lise
-https://tv-e-okul02.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-name="Bein Movies Stars"tvg-id=""tvg-logo="https://tvprofil.com/img/kanali-logo/beIN_Movies_Stars_TR_logo.png?1630931265"group-title="Sinema":http-referrer="":http-user-agent="",Bein Movies Stars
+https://lives.anystreamrectv3.live/live/bsstars.m3u8?token=SHPIhHzvrpfRX_LKwLY0zA&tms=1730748937
+
+#EXTINF:-1 tvg-name="Bein Movies Premier"tvg-id=""tvg-logo="https://media0058.elcinema.com/tvguide/1322_1.png"group-title="Sinema":http-referrer="":http-user-agent="",Bein Movies Premier
+https://lives.anystreamrectv3.live/live/bspremier1.m3u8?token=SHPIhHzvrpfRX_LKwLY0zA&tms=1730748937
+
+#EXTINF:-1 tvg-name="Bein Movies turk"tvg-id=""tvg-logo="https://digiturkkibris.com/public/upload/kanal/6film.png"group-title="Sinema":http-referrer="":http-user-agent="",Bein Movies turk
+https://lives.anystreamrectv3.live/live/bsturk.m3u8?token=SHPIhHzvrpfRX_LKwLY0zA&tms=1730748937
+
+#EXTINF:-1 tvg-name="Moviesmart Turk"tvg-id=""tvg-logo="https://www.yuksekovaguncel.com.tr/images/haberler/d_smartin_hd_kanal_sayisi_artiyor_h55683.jpg"group-title="Sinema":http-referrer="":http-user-agent="",Moviesmart Turk
+https://lives.anystreamrectv3.live/live/mvturk.m3u8?token=SHPIhHzvrpfRX_LKwLY0zA&tms=1730748937
+
+#EXTINF:-1 tvg-name="Epic Drama"tvg-id=""tvg-logo="https://epicdrama.eu/uploads/cache/opti/bundles/app/images/main/logo.png"group-title="Sinema":http-referrer="":http-user-agent="",Epic Drama
+https://lives.anystreamrectv3.live/live/epicdrama.m3u8?token=SHPIhHzvrpfRX_LKwLY0zA&tms=1730748937
+
+#EXTINF:-1 tvg-name="Sinema TV"tvg-id=""tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_ljYVTA1S2PxzgFAm5d56__EnculIbLcsfTm42oJAt9fdc=s900-c-k-c0x00ffffff-no-rj"group-title="Sinema ":http-referrer="":http-user-agent="",Sinema TV
+https://lives.anystreamrectv3.live/live/sinema.m3u8?token=SHPIhHzvrpfRX_LKwLY0zA&tms=1730748937
+
+#EXTINF:-1 tvg-name="Sinema TV 2"tvg-id=""tvg-logo="https://tvprofil.com/img/kanali-logo/SINEMATV-2_logo.png?1583004645"group-title="Sinema ":http-referrer="":http-user-agent="",Sinema TV 2
+https://lives.anystreamrectv3.live/live/sinema2.m3u8?token=SHPIhHzvrpfRX_LKwLY0zA&tms=1730748937
+
+#EXTINF:-1 tvg-name="Sinema TV 1001"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB68TamcvGJ67uFDj6UgS-lii8G7PBQxfc6w&s"group-title="Sinema ":http-referrer="":http-user-agent="",Sinema TV 1001
+https://lives.anystreamrectv3.live/live/sinema1001.m3u8?token=SHPIhHzvrpfRX_LKwLY0zA&tms=1730748937
+
+#EXTINF:-1 tvg-name="Sinema TV 1002"tvg-id=""tvg-logo="https://tvprofil.com/img/kanali-logo/SINEMATV-1002_logo.png?1583261398"group-title="Sinema ":http-referrer="":http-user-agent="",Sinema TV 1002
+https://lives.anystreamrectv3.live/live/sinema1002.m3u8?token=SHPIhHzvrpfRX_LKwLY0zA&tms=1730748937
+
+#EXTINF:-1 tvg-name="Sinema TV Aksiyon"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPAcm0fLwFlXa7YvhTphxCc5UoJWWDhkQ4IA&s"group-title="Sinema ":http-referrer="":http-user-agent="",Sinema TV Aksiyon
+https://lives.anystreamrectv3.live/live/sinemaaksiyon.m3u8?token=SHPIhHzvrpfRX_LKwLY0zA&tms=1730748937
+
+#EXTINF:-1 tvg-name="Sinema TV Komedi"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2cU5aas0_6iqHbW13dvds24w6SmRTherHpA&s"group-title="Sinema ":http-referrer="":http-user-agent="",Sinema TV Komedi
+https://lives.anystreamrectv3.live/live/sinemakomedi.m3u8?token=SHPIhHzvrpfRX_LKwLY0zA&tms=1730748937
+
+#EXTINF:-1 tvg-name="Sinema TV Yerli"tvg-id=""tvg-logo="https://i.ytimg.com/vi/fbetAjE1_KM/maxresdefault.jpg"group-title="Sinema ":http-referrer="":http-user-agent="",Sinema TV Yerli
+https://lives.anystreamrectv3.live/live/sinemayerli.m3u8?token=SHPIhHzvrpfRX_LKwLY0zA&tms=1730748937
+
+#EXTINF:-1 tvg-name="Sinema TV Aile"tvg-id=""tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinemaaile.png"group-title="Sinema ":http-referrer="":http-user-agent="",Sinema TV Aile
+https://lives.anystreamrectv3.live/live/sinemaaile.m3u8?token=SHPIhHzvrpfRX_LKwLY0zA&tms=1730748937
 
 
 # * » ÇizgiFilm « * #
@@ -203,99 +273,134 @@ http://stream.tvcdn.net/spor/fb-tv.m3u8
 
 #EXTINF:-1 tvg-name="NBA TV" tvg-language="English" tvg-country="USA" tvg-id="Spor_NBATV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/89/Nbatv.png" group-title="Spor",NBA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals918.xyz/
-https://t.trgoalshls20.shop/yayinnbatv.m3u8
+#EXTVLCOPT:http-referrer=https://trgoals1014.xyz/
+https://t.trgoalshls91.shop/yayinnbatv.m3u8
 
 #EXTINF:-1 tvg-name="Euro Sport" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_EuroSport" tvg-logo="https://w7.pngwing.com/pngs/350/883/png-transparent-eurosport-1-eurosport-2-television-channel-1-euro-television-blue-angle.png" group-title="Spor",Euro Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals918.xyz/
-https://t.trgoalshls20.shop/yayineu1.m3u8
+#EXTVLCOPT:http-referrer=https://trgoals1014.xyz/
+https://t.trgoalshls91.shop/yayineu1.m3u8
 # ? https://eurosport1.blutv.com/blutv_eurosport1/eurosport1_hd.smil/index.m3u8
 
 #EXTINF:-1 tvg-name="Euro Sport 2" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_EuroSport2" tvg-logo="https://w7.pngwing.com/pngs/327/493/png-transparent-eurosport-1-television-channel-logo-eurosport-2-others-miscellaneous-television-text.png" group-title="Spor",Euro Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals918.xyz/
-https://t.trgoalshls20.shop/yayineu2.m3u8
+#EXTVLCOPT:http-referrer=https://trgoals1014.xyz/
+https://t.trgoalshls91.shop/yayineu2.m3u8
 
 #EXTINF:-1 tvg-name="Tivibu Spor 1" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TivibuSpor1" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/qadnsi1642604437.png" group-title="Spor",Tivibu Spor 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals918.xyz/
-https://t.trgoalshls20.shop/yayint1.m3u8
+#EXTVLCOPT:http-referrer=https://trgoals1014.xyz/
+https://t.trgoalshls91.shop/yayint1.m3u8
 
 #EXTINF:-1 tvg-name="Tivibu Spor 2" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TivibuSpor2" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/kuasdm1642604455.png" group-title="Spor",Tivibu Spor 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals918.xyz/
-https://t.trgoalshls20.shop/yayint2.m3u8
+#EXTVLCOPT:http-referrer=https://trgoals1014.xyz/
+https://t.trgoalshls91.shop/yayint2.m3u8
 
 #EXTINF:-1 tvg-name="Tivibu Spor 3" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TivibuSpor3" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/slwrz41642604502.png" group-title="Spor",Tivibu Spor 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals918.xyz/
-https://t.trgoalshls20.shop/yayint3.m3u8
+#EXTVLCOPT:http-referrer=https://trgoals1014.xyz/
+https://t.trgoalshls91.shop/yayint3.m3u8
 
 #EXTINF:-1 tvg-name="Tivibu Spor 4" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TivibuSpor4" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/59bqi81642604517.png" group-title="Spor",Tivibu Spor 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals918.xyz/
-https://t.trgoalshls20.shop/yayint4.m3u8
+#EXTVLCOPT:http-referrer=https://trgoals1014.xyz/
+https://t.trgoalshls91.shop/yayint4.m3u8
 
 #EXTINF:-1 tvg-name="Spor Smart" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_SporSmart" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/p/el/11909/Thumbnail.png" group-title="Spor",Spor Smart
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals918.xyz/
-https://t.trgoalshls20.shop/yayinsmarts.m3u8
+#EXTVLCOPT:http-referrer=https://trgoals1014.xyz/
+https://t.trgoalshls91.shop/yayinsmarts.m3u8
 
 #EXTINF:-1 tvg-name="Spor Smart 2" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_SporSmart2" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/SPORSMART2-gri.png" group-title="Spor",Spor Smart 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals918.xyz/
-https://t.trgoalshls20.shop/yayinsms2.m3u8
+#EXTVLCOPT:http-referrer=https://trgoals1014.xyz/
+https://t.trgoalshls91.shop/yayinsms2.m3u8
 
 #EXTINF:-1 tvg-name="S SPORT" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_SSPORT" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230302923239.png" group-title="Spor",S SPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals918.xyz/
-https://t.trgoalshls20.shop/yayinss.m3u8
+#EXTVLCOPT:http-referrer=https://trgoals1014.xyz/
+https://t.trgoalshls91.shop/yayinss.m3u8
 
 #EXTINF:-1 tvg-name="S SPORT 2" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_SSPORT2" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230302923321.png" group-title="Spor",S SPORT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals918.xyz/
-https://t.trgoalshls20.shop/yayinss2.m3u8
+#EXTVLCOPT:http-referrer=https://trgoals1014.xyz/
+https://t.trgoalshls91.shop/yayinss2.m3u8
 
 #EXTINF:-1 tvg-name="beIN SPORTS" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals918.xyz/
-https://t.trgoalshls20.shop/yayin1.m3u8
+#EXTVLCOPT:http-referrer=https://trgoals1014.xyz/
+https://t.trgoalshls91.shop/yayinzirve.m3u8
 
 #EXTINF:-1 tvg-name="beIN SPORTS 2" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS2" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/7uv6x71628799003.png" group-title="Spor",beIN SPORTS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals918.xyz/
-https://t.trgoalshls20.shop/yayinb2.m3u8
+#EXTVLCOPT:http-referrer=https://trgoals1014.xyz/
+https://t.trgoalshls91.shop/yayinb2.m3u8
 
 #EXTINF:-1 tvg-name="beIN SPORTS 3" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS3" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/u3117i1628798857.png" group-title="Spor",beIN SPORTS 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals918.xyz/
-https://t.trgoalshls20.shop/yayinb3.m3u8
+#EXTVLCOPT:http-referrer=https://trgoals1014.xyz/
+https://t.trgoalshls91.shop/yayinb3.m3u8
 
 #EXTINF:-1 tvg-name="beIN SPORTS 4" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS4" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/2ktmcp1628798841.png" group-title="Spor",beIN SPORTS 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals918.xyz/
-https://t.trgoalshls20.shop/yayinb4.m3u8
+#EXTVLCOPT:http-referrer=https://trgoals1014.xyz/
+https://t.trgoalshls91.shop/yayinb4.m3u8
 
 #EXTINF:-1 tvg-name="beIN SPORTS 5" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS5" tvg-logo="https://i.imgur.com/iRKfaee.png" group-title="Spor",beIN SPORTS 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals918.xyz/
-https://t.trgoalshls20.shop/yayinb5.m3u8
+#EXTVLCOPT:http-referrer=https://trgoals1014.xyz/
+https://t.trgoalshls91.shop/yayinb5.m3u8
 
 #EXTINF:-1 tvg-name="beIN SPORTS Max" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTSMax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/BeIN_Sports_MAX.png" group-title="Spor",beIN SPORTS Max
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals918.xyz/
-https://t.trgoalshls20.shop/yayinbm1.m3u8
+#EXTVLCOPT:http-referrer=https://trgoals1014.xyz/
+https://t.trgoalshls91.shop/yayinbm1.m3u8
 
 #EXTINF:-1 tvg-name="beIN SPORTS Max 2" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTSMax2" tvg-logo="https://i.imgur.com/t7U20yR.png" group-title="Spor",beIN SPORTS Max 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals918.xyz/
-https://t.trgoalshls20.shop/yayinbm2.m3u8
+#EXTVLCOPT:http-referrer=https://trgoals1014.xyz/
+https://t.trgoalshls91.shop/yayinbm2.m3u8
 
 #EXTINF:-1 tvg-name="EXXEN" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_EXXEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="Spor",EXXEN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals918.xyz/
-https://t.trgoalshls20.shop/yayinex1.m3u8
+#EXTVLCOPT:http-referrer=https://trgoals1014.xyz/
+https://t.trgoalshls91.shop/yayinex1.m3u8
+
+#EXTINF:-1 tvg-name="Tabii Spor" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TABII" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43023.jpeg" group-title="Spor",Tabii Spor
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1014.xyz/
+https://t.trgoalshls91.shop/yayinex7.m3u8
+
+#EXTINF:-1 tvg-name="Tabii Spor 1" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TABII1" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43005.jpeg" group-title="Spor",Tabii Spor 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1014.xyz/
+https://t.trgoalshls91.shop/yayinex1.m3u8
+
+#EXTINF:-1 tvg-name="Tabii Spor 2" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TABII2" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43008.jpeg" group-title="Spor",Tabii Spor 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1014.xyz/
+https://t.trgoalshls91.shop/yayinex2.m3u8
+
+#EXTINF:-1 tvg-name="Tabii Spor 3" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TABII3" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43011.jpeg" group-title="Spor",Tabii Spor 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1014.xyz/
+https://t.trgoalshls91.shop/yayinex3.m3u8
+
+#EXTINF:-1 tvg-name="Tabii Spor 4" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TABII4" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43014.jpeg" group-title="Spor",Tabii Spor 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1014.xyz/
+https://t.trgoalshls91.shop/yayinex4.m3u8
+
+#EXTINF:-1 tvg-name="Tabii Spor 5" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TABII5" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43017.jpeg" group-title="Spor",Tabii Spor 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1014.xyz/
+https://t.trgoalshls91.shop/yayinex5.m3u8
+
+#EXTINF:-1 tvg-name="Tabii Spor 6" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TABII6" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43020.jpeg" group-title="Spor",Tabii Spor 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1014.xyz/
+https://t.trgoalshls91.shop/yayinex6.m3u8
 
 
 # * » Müzik « * #
