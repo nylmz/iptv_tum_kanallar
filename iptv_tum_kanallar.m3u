@@ -117,9 +117,6 @@ https://lives.anystreamrectv3.live/live/tarihtv.m3u8?token=_r-dsxsAKmCc9fzAINBDB
 #EXTINF:-1 tvg-name="Docubox"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzEja-nr7PIdrNMz_cq-CPyWGtHHFfy58EmA&s"group-title="Belgesel":http-referrer="":http-user-agent="",Docubox
 http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/229370
 
-#EXTINF:-1 tvg-name="Dmax"tvg-id=""tvg-logo="https://d2v9mhsiek5lbq.cloudfront.net/eyJidWNrZXQiOiJsb21hLW1lZGlhLWRlIiwia2V5IjoiZG1heC1pbWFnZS1lODg0NmVhNy02YWNkLTRiMjYtOTMxMi1kYmQ1Y2EyMjk0OGEuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE5MjAsImhlaWdodCI6MTA4MH0sImpwZWciOnsicXVhbGl0eSI6NTUsInByb2dyZXNzaXZlIjp0cnVlfX19"group-title="Belgesel":http-referrer="":http-user-agent="",Dmax
-https://lives.anystreamrectv3.live/live/dmax.m3u8?token=_r-dsxsAKmCc9fzAINBDBA&tms=1730748913
-
 
 # * » Genel « * #
 #EXTINF:-1 tvg-name="Star TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_StarTV" tvg-logo="https://tvakisi.com/public/resimler/kanallar/star-tv-886.webp" group-title="Genel",Star TV
@@ -327,30 +324,25 @@ https://t.trgoalshls91.shop/yayinss.m3u8
 #EXTVLCOPT:http-referrer=https://trgoals1014.xyz/
 https://t.trgoalshls91.shop/yayinss2.m3u8
 
-#EXTINF:-1 tvg-name="beIN SPORTS" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1014.xyz/
-https://t.trgoalshls91.shop/yayinzirve.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORTS 1 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein5.png" group-title="Alternatif3",BEINSPORTS 1 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+https://faptok.site/streamcast/stream.m3u8?id=62
 
-#EXTINF:-1 tvg-name="beIN SPORTS 2" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS2" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/7uv6x71628799003.png" group-title="Spor",beIN SPORTS 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1014.xyz/
-https://t.trgoalshls91.shop/yayinb2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORTS 2 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein5.png" group-title="Alternatif3",BEINSPORTS 2 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+https://faptok.site/streamcast/stream.m3u8?id=63
 
-#EXTINF:-1 tvg-name="beIN SPORTS 3" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS3" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/u3117i1628798857.png" group-title="Spor",beIN SPORTS 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1014.xyz/
-https://t.trgoalshls91.shop/yayinb3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORTS 3 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein5.png" group-title="Alternatif3",BEINSPORTS 3 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+https://faptok.site/streamcast/stream.m3u8?id=64
 
-#EXTINF:-1 tvg-name="beIN SPORTS 4" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS4" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/2ktmcp1628798841.png" group-title="Spor",beIN SPORTS 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1014.xyz/
-https://t.trgoalshls91.shop/yayinb4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORTS 4 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein5.png" group-title="Alternatif3",BEINSPORTS 4 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+https://faptok.site/streamcast/stream.m3u8?id=65
 
-#EXTINF:-1 tvg-name="beIN SPORTS 5" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS5" tvg-logo="https://i.imgur.com/iRKfaee.png" group-title="Spor",beIN SPORTS 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1014.xyz/
-https://t.trgoalshls91.shop/yayinb5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORTS 5 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein5.png" group-title="Alternatif3",BEINSPORTS 5 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
+https://faptok.site/streamcast/stream.m3u8?id=66
 
 #EXTINF:-1 tvg-name="beIN SPORTS Max" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTSMax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/BeIN_Sports_MAX.png" group-title="Spor",beIN SPORTS Max
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
