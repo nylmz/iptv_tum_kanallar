@@ -72,8 +72,8 @@ https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
 
 
 # * » Belgesel « * #
-#EXTINF:-1 tvg-name="TRT Belgesel"tvg-id="Belgesel_TRT"tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/8114410.png"group-title="Belgesel":http-referrer="":http-user-agent="",TRT-Belgesel
-https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-name="TRT Belgesel"tvg-id="Belgesel_TRT"tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/8114410.png"group-title="Belgesel":http-referrer="":http-user-agent="",TRT Belgesel
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/97923
 
 #EXTINF:-1 tvg-name="TLC"tvg-id="Belgesel_TLC"tvg-logo="https://img-tlctv.mncdn.com/logo.png"group-title="Belgesel":http-referrer="":http-user-agent="",TLC
 https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
@@ -81,41 +81,104 @@ https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
 #EXTINF:-1 tvg-name="DMax"tvg-id="Belgesel_DMax"tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/604a04ef866ac32574736ef6"group-title="Belgesel":http-referrer="":http-user-agent="",DMax
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 
-#EXTINF:-1 tvg-name="Bbc Earth [ HD ]"tvg-id=""tvg-logo="https://i.hizliresim.com/5oxynyz.png"group-title="Belgesel":http-referrer="":http-user-agent="",Bbc Earth [ HD ]
-http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/258
+#EXTINF:-1 tvg-name="National Geographic"tvg-id="natgeo.tr"tvg-logo="https://www.bresser.de/media/e3/af/9c/1724938192/banner-category-brands-national-geographic_530x320px_BRESSER_v082024a.webp"group-title="Belgesel":http-referrer="":http-user-agent="",National Geographic
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/17121
 
-#EXTINF:-1 tvg-name="Discovery Channel [ HD ]"tvg-id=""tvg-logo="https://i.hizliresim.com/848h7ka.png"group-title="Belgesel":http-referrer="":http-user-agent="",Discovery Channel [ HD ]
-https://lives.anystreamrectv3.live/live/discovery.m3u8?token=_r-dsxsAKmCc9fzAINBDBA&tms=1730748913
+#EXTINF:-1 tvg-name="Nat Geo Wild"tvg-id="natgeowild.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ--wfW2_Q5bKwwwdDO2MA5f5MLd7mGhAoFvw&s"group-title="Belgesel":http-referrer="":http-user-agent="",Nat Geo Wild
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/486
 
-#EXTINF:-1 tvg-name="National Geoprafic [ HD ]"tvg-id=""tvg-logo="https://i.hizliresim.com/llrmfx3.png"group-title="Belgesel":http-referrer="":http-user-agent="",National Geoprafic [ HD ]
-http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/286
+#EXTINF:-1 tvg-name="History Channel "tvg-id="viasathistory.tr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg"group-title="Belgesel":http-referrer="":http-user-agent="",History Channel
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/362973
 
-#EXTINF:-1 tvg-name="National Geoprafic Wild [ HD ]"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png"group-title="Belgesel":http-referrer="":http-user-agent="",National Geoprafic Wild [ HD ]
-https://lives.anystreamrectv3.live/live/natgeowild.m3u8?token=_r-dsxsAKmCc9fzAINBDBA&tms=1730748913
+#EXTINF:-1 tvg-name="BBC Earth"tvg-id="bbcearth.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNXOrjX8auopIAAKFRHx1Y-KLi8Ync-CWUfw&s"group-title="Belgesel":http-referrer="":http-user-agent="",BBC Earth
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/110608
 
-#EXTINF:-1 tvg-name="beIN Gurme [ HD ]"tvg-id=""tvg-logo="https://i.hizliresim.com/qlqk5fm.png"group-title="Belgesel":http-referrer="":http-user-agent="",beIN Gurme [ HD ]
-http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/271
+#EXTINF:-1 tvg-name="TR: DISCOVERY CHANNEL HD+"tvg-id="discoverychannel.tr"tvg-logo="https://begenal.shop//resim/galeri_MTY0M_419.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR: DISCOVERY CHANNEL HD+
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/488
 
-#EXTINF:-1 tvg-name="Viasat History [ HD ]"tvg-id=""tvg-logo="https://i.hizliresim.com/4b3cx0n.png"group-title="Belgesel":http-referrer="":http-user-agent="",Viasat History [ HD ]
-https://lives.anystreamrectv3.live/live/viasathistory.m3u8?token=vCIq-C2bpJQpJA3ChjgpsA&tms=1730749183
+#EXTINF:-1 tvg-name="TR: DISCOVERY CHANNEL HD"tvg-id=""tvg-logo="https://begenal.shop//resim/galeri_MTY0M_424.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR: DISCOVERY CHANNEL HD
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/110611
 
-#EXTINF:-1 tvg-name="Da Vinci Learning [ HD ]"tvg-id=""tvg-logo="https://i.hizliresim.com/3yrq7xt.png"group-title="Belgesel":http-referrer="":http-user-agent="",Da Vinci Learning [ HD ]
-http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/230551
+#EXTINF:-1 tvg-name="TR: DISCOVERY SCIENCE HD+"tvg-id=""tvg-logo="https://begenal.shop//resim/galeri_MTY0M_417.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR: DISCOVERY SCIENCE HD+
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/489
 
-#EXTINF:-1 tvg-name="Love Nature [ HD ]"tvg-id=""tvg-logo="https://i.hizliresim.com/adihb3b.png"group-title="Belgesel":http-referrer="":http-user-agent="",Love Nature [ HD ]
-https://lives.anystreamrectv3.live/live/lovenature.m3u8?token=vCIq-C2bpJQpJA3ChjgpsA&tms=1730749183
+#EXTINF:-1 tvg-name="TR: DISCOVERY SCIENCE HD"tvg-id=""tvg-logo="https://begenal.shop//resim/galeri_MTY0M_423.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR: DISCOVERY SCIENCE HD
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/110612
 
-#EXTINF:-1 tvg-name="beIN IZ [ HD ]"tvg-id=""tvg-logo="https://i.hizliresim.com/5es6vau.png"group-title="Belgesel":http-referrer="":http-user-agent="",beIN IZ [ HD ]
-http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/270
+#EXTINF:-1 tvg-name="TR: DISCOVERY ID"tvg-id="24.tr"tvg-logo="https://begenal.shop//resim/galeri_MTY0M_413.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR: DISCOVERY ID
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/490
 
-#EXTINF:-1 tvg-name="History Channel"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/1200px-History_%282021%29.svg.png"group-title="Belgesel":http-referrer="":http-user-agent="",History Channel
-https://lives.anystreamrectv3.live/live/history.m3u8?token=_r-dsxsAKmCc9fzAINBDBA&tms=1730748913
+#EXTINF:-1 tvg-name="TR: DISCOVERY IDX HD"tvg-id="discoverychannel.tr"tvg-logo="https://begenal.shop//resim/galeri_MTY0M_414.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR: DISCOVERY IDX HD
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/496
 
-#EXTINF:-1 tvg-name="Tarih TV "tvg-id=""tvg-logo="https://yt3.googleusercontent.com/YzOSo8ALy6M5SaP9ofLQaNIqIgv9aYkkH4qMhMmi9CLfZrAfvqEL2ObnjOwsGEYEiLoXcWLKzg=s900-c-k-c0x00ffffff-no-rj"group-title="Belgesel":http-referrer="":http-user-agent="",Tarih TV 
-https://lives.anystreamrectv3.live/live/tarihtv.m3u8?token=_r-dsxsAKmCc9fzAINBDBA&tms=1730748913
+#EXTINF:-1 tvg-name="TR: bieN GuRME HD+"tvg-id="beingurme.tr"tvg-logo="https://begenal.shop//resim/galeri_MTY0M_395.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR: bieN GuRME HD+
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/493
 
-#EXTINF:-1 tvg-name="Docubox"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzEja-nr7PIdrNMz_cq-CPyWGtHHFfy58EmA&s"group-title="Belgesel":http-referrer="":http-user-agent="",Docubox
-http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/229370
+#EXTINF:-1 tvg-name="TR: bieN IZ HD+"tvg-id="beiniz.tr"tvg-logo="https://begenal.shop//resim/galeri_MTY3N_25.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR: bieN IZ HD+
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/18563
+
+#EXTINF:-1 tvg-name="TR: ViASAT HiSTORY HD+"tvg-id=""tvg-logo="https://begenal.shop//resim/galeri_MTY0M_190.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR: ViASAT HiSTORY HD+
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/494
+
+#EXTINF:-1 tvg-name="TR: ViASAT HiSTORY HD"tvg-id=""tvg-logo="https://begenal.shop//resim/galeri_MTY0M_405.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR: ViASAT HiSTORY HD
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/110614
+
+#EXTINF:-1 tvg-name="TR: YABAN TV HD"tvg-id="yabantv.tr"tvg-logo="https://begenal.shop//resim/galeri_MTY0M_399.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR: YABAN TV HD
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/484
+
+#EXTINF:-1 tvg-name="TR: LOVE NATURE HD"tvg-id=""tvg-logo="https://begenal.shop//resim/galeri_MTY3N_24.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR: LOVE NATURE HD
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/67567
+
+#EXTINF:-1 tvg-name="TR: LOVE NATURE HD+"tvg-id=""tvg-logo="https://begenal.shop//resim/galeri_MTY0M_392.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR: LOVE NATURE HD+
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/110620
+
+#EXTINF:-1 tvg-name="TR: CIFTCI TV HD+"tvg-id="animalplanet.tr"tvg-logo="https://begenal.shop//resim/galeri_MTY3N_26.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR: CIFTCI TV HD+
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/498
+
+#EXTINF:-1 tvg-name="TR: Iz Bırakanlar"tvg-id=""tvg-logo="https://begenal.shop//resim/galeri_MTY3N_40.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR: Iz Bırakanlar
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/434516
+
+#EXTINF:-1 tvg-name="TR: Savasın Efsaneleri"tvg-id=""tvg-logo="https://begenal.shop//resim/galeri_MTY3N_41.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR: Savasın Efsaneleri
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/434515
+
+#EXTINF:-1 tvg-name="TR: Antik Medeniyetler"tvg-id=""tvg-logo="https://begenal.shop//resim/galeri_MTY3N_42.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR: Antik Medeniyetler
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/434514
+
+#EXTINF:-1 tvg-name="TR: Bermuda Şeytan Üçgeni"tvg-id=""tvg-logo="https://begenal.shop//resim/galeri_MTY3N_43.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR: Bermuda Şeytan Üçgeni
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/434513
+
+#EXTINF:-1 tvg-name="TR: Uzay Bilimi"tvg-id=""tvg-logo="https://begenal.shop//resim/galeri_MTY3N_44.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR: Uzay Bilimi
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/434512
+
+#EXTINF:-1 tvg-name="TR: Galaktik Düzen"tvg-id=""tvg-logo="https://begenal.shop//resim/galeri_MTY3N_45.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR: Galaktik Düzen
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/434511
+
+#EXTINF:-1 tvg-name="TR: Evrenin Gizemi"tvg-id=""tvg-logo="https://begenal.shop//resim/galeri_MTY3N_46.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR: Evrenin Gizemi
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/434510
+
+#EXTINF:-1 tvg-name="TR: Dinazorlar Devri"tvg-id=""tvg-logo="https://begenal.shop//resim/galeri_MTY3N_47.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR: Dinazorlar Devri
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/434509
+
+#EXTINF:-1 tvg-name="TR: Shark TV"tvg-id=""tvg-logo="https://begenal.shop//resim/galeri_MTY3N_48.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR: Shark TV
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/434508
+
+#EXTINF:-1 tvg-name="TR: Okyanusun Derinlikleri"tvg-id=""tvg-logo="https://begenal.shop//resim/galeri_MTY3N_49.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR: Okyanusun Derinlikleri
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/434507
+
+#EXTINF:-1 tvg-name="TR: Vahsi Serüvenler"tvg-id=""tvg-logo="https://begenal.shop//resim/galeri_MTY3N_50.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR: Vahsi Serüvenler
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/434506
+
+#EXTINF:-1 tvg-name="TR: Vahsi Doğa"tvg-id=""tvg-logo="https://begenal.shop//resim/galeri_MTY3N_51.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR: Vahsi Doğa
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/434505
+
+#EXTINF:-1 tvg-name="TR: Hayvanlar Alemi"tvg-id=""tvg-logo="https://begenal.shop//resim/galeri_MTY3N_52.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR: Hayvanlar Alemi
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/434504
+
+#EXTINF:-1 tvg-name="TR: Doğa Harikaları"tvg-id=""tvg-logo="https://begenal.shop//resim/galeri_MTY3N_53.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR: Doğa Harikaları
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/434503
+
+#EXTINF:-1 tvg-name="TR: Dünyamız"tvg-id=""tvg-logo="https://begenal.shop//resim/galeri_MTY3N_55.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR: Dünyamız
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/434501
 
 
 # * » Genel « * #
@@ -175,51 +238,394 @@ https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr
 
 
 # * » Sinema « * #
-#EXTINF:-1 tvg-name=" beIN Movies Action 2"tvg-id=""tvg-logo="https://media0058.elcinema.com/tvguide/1323_1.png"group-title="Sinema":http-referrer="":http-user-agent="", beIN Movies Action 2
-http://exm3u.iptvone.eu:80/fatihna/ukj4JYGTKK/233074
+#EXTINF:-1 tvg-name="TR: MOVİESMART TURK HD+"tvg-id="moviesmartturk.tr"tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/moviesmart-turk-tr.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: MOVİESMART TURK HD+
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/349
 
-#EXTINF:-1 tvg-name="Bein Movies Family "tvg-id=""tvg-logo="https://media0058.elcinema.com/tvguide/1325_1.png"group-title="Sinema":http-referrer="":http-user-agent="",Bein Movies Family 
-https://lives.anystreamrectv3.live/live/bsfamily.m3u8?token=_r-dsxsAKmCc9fzAINBDBA&tms=1730748913
+#EXTINF:-1 tvg-name="TR: SINEMA TV HD+"tvg-id="sinematvhd.tr"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-tv-tr.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: SINEMA TV HD+
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/358
 
-#EXTINF:-1 tvg-name="Bein Movies Stars"tvg-id=""tvg-logo="https://tvprofil.com/img/kanali-logo/beIN_Movies_Stars_TR_logo.png?1630931265"group-title="Sinema":http-referrer="":http-user-agent="",Bein Movies Stars
-https://lives.anystreamrectv3.live/live/bsstars.m3u8?token=SHPIhHzvrpfRX_LKwLY0zA&tms=1730748937
+#EXTINF:-1 tvg-name="TR: SINEMA TV 2 HD+"tvg-id="sinema2hd.tr"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-2-tr.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: SINEMA TV 2 HD+
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/359
 
-#EXTINF:-1 tvg-name="Bein Movies Premier"tvg-id=""tvg-logo="https://media0058.elcinema.com/tvguide/1322_1.png"group-title="Sinema":http-referrer="":http-user-agent="",Bein Movies Premier
-https://lives.anystreamrectv3.live/live/bspremier1.m3u8?token=SHPIhHzvrpfRX_LKwLY0zA&tms=1730748937
+#EXTINF:-1 tvg-name="TR: SINEMA TV ACTION HD+"tvg-id="sinemaaksiyonhd.tr"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-aksiyon-tr.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: SINEMA TV ACTION HD+
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/360
 
-#EXTINF:-1 tvg-name="Bein Movies turk"tvg-id=""tvg-logo="https://digiturkkibris.com/public/upload/kanal/6film.png"group-title="Sinema":http-referrer="":http-user-agent="",Bein Movies turk
-https://lives.anystreamrectv3.live/live/bsturk.m3u8?token=SHPIhHzvrpfRX_LKwLY0zA&tms=1730748937
+#EXTINF:-1 tvg-name="TR: SINEMA TV AILE HD+"tvg-id="sinemaailehd.tr"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-aile-tr.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: SINEMA TV AILE HD+
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/362
 
-#EXTINF:-1 tvg-name="Moviesmart Turk"tvg-id=""tvg-logo="https://www.yuksekovaguncel.com.tr/images/haberler/d_smartin_hd_kanal_sayisi_artiyor_h55683.jpg"group-title="Sinema":http-referrer="":http-user-agent="",Moviesmart Turk
-https://lives.anystreamrectv3.live/live/mvturk.m3u8?token=SHPIhHzvrpfRX_LKwLY0zA&tms=1730748937
+#EXTINF:-1 tvg-name="TR: SINEMA TV AILE 2 HD+"tvg-id=""tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-aile-2-tr.png"group-title="Sinema ":http-referrer="":http-user-agent="",TR: SINEMA TV AILE 2 HD+
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/363
 
-#EXTINF:-1 tvg-name="Epic Drama"tvg-id=""tvg-logo="https://epicdrama.eu/uploads/cache/opti/bundles/app/images/main/logo.png"group-title="Sinema":http-referrer="":http-user-agent="",Epic Drama
-https://lives.anystreamrectv3.live/live/epicdrama.m3u8?token=SHPIhHzvrpfRX_LKwLY0zA&tms=1730748937
+#EXTINF:-1 tvg-name="TR: SINEMA TV KOMEDI HD+"tvg-id="sinemakomedihd.tr"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-komedi-tr.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: SINEMA TV KOMEDI HD+
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/364
 
-#EXTINF:-1 tvg-name="Sinema TV"tvg-id=""tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_ljYVTA1S2PxzgFAm5d56__EnculIbLcsfTm42oJAt9fdc=s900-c-k-c0x00ffffff-no-rj"group-title="Sinema ":http-referrer="":http-user-agent="",Sinema TV
-https://lives.anystreamrectv3.live/live/sinema.m3u8?token=SHPIhHzvrpfRX_LKwLY0zA&tms=1730748937
+#EXTINF:-1 tvg-name="TR: SINEMA TV YERLI  HD+"tvg-id="sinemayerli.tr"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-yerli-tr.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: SINEMA TV YERLI  HD+
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/366
 
-#EXTINF:-1 tvg-name="Sinema TV 2"tvg-id=""tvg-logo="https://tvprofil.com/img/kanali-logo/SINEMATV-2_logo.png?1583004645"group-title="Sinema ":http-referrer="":http-user-agent="",Sinema TV 2
-https://lives.anystreamrectv3.live/live/sinema2.m3u8?token=SHPIhHzvrpfRX_LKwLY0zA&tms=1730748937
+#EXTINF:-1 tvg-name="TR: SINEMA TV YERLI 2 HD+"tvg-id="sinemayerli2.tr"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-yerli-2-tr.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: SINEMA TV YERLI 2 HD+
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/367
 
-#EXTINF:-1 tvg-name="Sinema TV 1001"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB68TamcvGJ67uFDj6UgS-lii8G7PBQxfc6w&s"group-title="Sinema ":http-referrer="":http-user-agent="",Sinema TV 1001
-https://lives.anystreamrectv3.live/live/sinema1001.m3u8?token=SHPIhHzvrpfRX_LKwLY0zA&tms=1730748937
+#EXTINF:-1 tvg-name="TR: SINEMA TV 1001 HD+"tvg-id="sinema1001hd.tr"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-1001-tr.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: SINEMA TV 1001 HD+
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/368
 
-#EXTINF:-1 tvg-name="Sinema TV 1002"tvg-id=""tvg-logo="https://tvprofil.com/img/kanali-logo/SINEMATV-1002_logo.png?1583261398"group-title="Sinema ":http-referrer="":http-user-agent="",Sinema TV 1002
-https://lives.anystreamrectv3.live/live/sinema1002.m3u8?token=SHPIhHzvrpfRX_LKwLY0zA&tms=1730748937
+#EXTINF:-1 tvg-name="TR: SINEMA TV 1002 HD+"tvg-id="sinema1002.tr"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-1002-tr.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: SINEMA TV 1002 HD+
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/369
 
-#EXTINF:-1 tvg-name="Sinema TV Aksiyon"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPAcm0fLwFlXa7YvhTphxCc5UoJWWDhkQ4IA&s"group-title="Sinema ":http-referrer="":http-user-agent="",Sinema TV Aksiyon
-https://lives.anystreamrectv3.live/live/sinemaaksiyon.m3u8?token=SHPIhHzvrpfRX_LKwLY0zA&tms=1730748937
+#EXTINF:-1 tvg-name="TR: MOVIESMART COCUK HD+"tvg-id="smartcocuk.tr"tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: MOVIESMART COCUK HD+
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/370
 
-#EXTINF:-1 tvg-name="Sinema TV Komedi"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2cU5aas0_6iqHbW13dvds24w6SmRTherHpA&s"group-title="Sinema ":http-referrer="":http-user-agent="",Sinema TV Komedi
-https://lives.anystreamrectv3.live/live/sinemakomedi.m3u8?token=SHPIhHzvrpfRX_LKwLY0zA&tms=1730748937
+#EXTINF:-1 tvg-name="TR: DİZİ SMART PREMIUM HD+"tvg-id="dizismartpremium.tr"tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dizismart-premium-tr.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: DİZİ SMART PREMIUM HD+
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/351
 
-#EXTINF:-1 tvg-name="Sinema TV Yerli"tvg-id=""tvg-logo="https://i.ytimg.com/vi/fbetAjE1_KM/maxresdefault.jpg"group-title="Sinema ":http-referrer="":http-user-agent="",Sinema TV Yerli
-https://lives.anystreamrectv3.live/live/sinemayerli.m3u8?token=SHPIhHzvrpfRX_LKwLY0zA&tms=1730748937
+#EXTINF:-1 tvg-name="TR: DIZI SMART MAX HD+"tvg-id="dizismartmax.tr"tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dizismart-max-tr.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: DIZI SMART MAX HD+
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/352
 
-#EXTINF:-1 tvg-name="Sinema TV Aile"tvg-id=""tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinemaaile.png"group-title="Sinema ":http-referrer="":http-user-agent="",Sinema TV Aile
-https://lives.anystreamrectv3.live/live/sinemaaile.m3u8?token=SHPIhHzvrpfRX_LKwLY0zA&tms=1730748937
+#EXTINF:-1 tvg-name="TR: DIZI SMART MAX HD"tvg-id="dizismartmax.tr"tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dizismart-max-tr.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: DIZI SMART MAX HD
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/332
 
+#EXTINF:-1 tvg-name="TR: FX HD+"tvg-id="fxnetwork.tr"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fx_us.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: FX HD+
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/354
+
+#EXTINF:-1 tvg-name="TR: FOX CRIME HD+"tvg-id="foxcrime.tr"tvg-logo="https://upload.wikimedia.org/wikipedia/tr/9/97/Foxcrimehd.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: FOX CRIME HD+
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/356
+
+#EXTINF:-1 tvg-name="TR: b**N B0X 0FFİCE 1 HD+"tvg-id="beinboxoffice1.tr"tvg-logo="https://begenal.shop//resim/galeri_MTY3N_93.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: b**N B0X 0FFİCE 1 HD+
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/362968
+
+#EXTINF:-1 tvg-name="TR: b**N B0X 0FFİCE 2 HD+"tvg-id="beinboxoffice2.tr"tvg-logo="https://begenal.shop//resim/galeri_MTY3N_92.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: b**N B0X 0FFİCE 2 HD+
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/362969
+
+#EXTINF:-1 tvg-name="TR: b**N B0X 0FFİCE 3 HD+"tvg-id="beinboxoffice3.tr"tvg-logo="https://begenal.shop//resim/galeri_MTY3N_91.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: b**N B0X 0FFİCE 3 HD+
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/362970
+
+#EXTINF:-1 tvg-name="TR: b**N M0VIES P*EMIER HD+"tvg-id="beinmoviespremier.tr"tvg-logo="https://begenal.shop//resim/galeri_MTY3N_86.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: b**N M0VIES P*EMIER HD+
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/312
+
+#EXTINF:-1 tvg-name="TR: b**N MOVIES P*EMIERE 2 HD+"tvg-id="beinmoviespremiere2.tr"tvg-logo="https://begenal.shop//resim/galeri_MTY3N_84.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: b**N MOVIES P*EMIERE 2 HD+
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/317
+
+#EXTINF:-1 tvg-name="TR: b**N M0VIES STARS HD+"tvg-id="beinmoviesstars.tr"tvg-logo="https://begenal.shop//resim/galeri_MTY3N_82.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: b**N M0VIES STARS HD+
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/319
+
+#EXTINF:-1 tvg-name="TR: b**N M0VIES TURK HD+"tvg-id="beinmoviesturk.tr"tvg-logo="https://begenal.shop//resim/galeri_MTY3N_85.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: b**N M0VIES TURK HD+
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/316
+
+#EXTINF:-1 tvg-name="TR: b**N S*RIES 1 HD+"tvg-id="beinseriescomedy.tr"tvg-logo="https://begenal.shop//resim/galeri_MTY3N_87.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: b**N S*RIES 1 HD+
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/309
+
+#EXTINF:-1 tvg-name="TR: b**N S*RIES 2 HD+"tvg-id="beinseriesscifi.tr"tvg-logo="https://begenal.shop//resim/galeri_MTY3N_88.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: b**N S*RIES 2 HD+
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/308
+
+#EXTINF:-1 tvg-name="TR: b**N MOVIES FAMILY HD+"tvg-id="360.tr"tvg-logo="https://begenal.shop//resim/galeri_MTY3N_81.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: b**N MOVIES FAMILY HD+
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/106621
+
+#EXTINF:-1 tvg-name="TR: b**N MOVIES ACTION HD+"tvg-id="360.tr"tvg-logo="https://begenal.shop//resim/galeri_MTY3N_80.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: b**N MOVIES ACTION HD+
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/106622
+
+#EXTINF:-1 tvg-name="TR: FILMAX HIZLI VE OFKELI"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: FILMAX HIZLI VE OFKELI
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/511494
+#EXTINF:-1 tvg-name="TR: Film BOX Yerli"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Film BOX Yerli
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/436409
+#EXTINF:-1 tvg-name="TR: Film BOX Sci-fi"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Film BOX Sci-fi
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/436408
+#EXTINF:-1 tvg-name="TR: Film BOX Dram"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Film BOX Dram
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/436407
+#EXTINF:-1 tvg-name="TR: Film BOX Comedy"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Film BOX Comedy
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/436406
+#EXTINF:-1 tvg-name="TR: Film BOX Family"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Film BOX Family
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/436404
+#EXTINF:-1 tvg-name="TR: Film BOX Action"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Film BOX Action
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/436402
+#EXTINF:-1 tvg-name="TR: Vizyon HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Vizyon HD
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435906
+#EXTINF:-1 tvg-name="TR: Vizyon 2 HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Vizyon 2 HD
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435907
+#EXTINF:-1 tvg-name="TR: Yerli Vizyon 1 HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Yerli Vizyon 1 HD
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435905
+#EXTINF:-1 tvg-name="TR: Yerli 1 HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Yerli 1 HD
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435908
+#EXTINF:-1 tvg-name="TR: Yerli 2 HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Yerli 2 HD
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435909
+#EXTINF:-1 tvg-name="TR: Yerli 3 HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Yerli 3 HD
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435910
+#EXTINF:-1 tvg-name="TR: Premier 1 HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Premier 1 HD
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435937
+#EXTINF:-1 tvg-name="TR: Premier 2 HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Premier 2 HD
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435938
+#EXTINF:-1 tvg-name="TR: Premier 3 HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Premier 3 HD
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435939
+#EXTINF:-1 tvg-name="TR: Premier 4 HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Premier 4 HD
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435940
+#EXTINF:-1 tvg-name="TR: Premier 5 HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Premier 5 HD
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435941
+#EXTINF:-1 tvg-name="TR: Loca 2 HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Loca 2 HD
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435943
+#EXTINF:-1 tvg-name="TR: Loca 4 HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Loca 4 HD
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435945
+#EXTINF:-1 tvg-name="TR: Loca 5 HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Loca 5 HD
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435946
+#EXTINF:-1 tvg-name="TR: Aksiyon HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Aksiyon HD
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435911
+#EXTINF:-1 tvg-name="TR: Aksiyon 2 HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Aksiyon 2 HD
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435912
+#EXTINF:-1 tvg-name="TR: Nostalji  HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Nostalji  HD
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435936
+#EXTINF:-1 tvg-name="TR: Savaş HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Savaş HD
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435935
+#EXTINF:-1 tvg-name="TR: Western 2 HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Western 2 HD
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435934
+#EXTINF:-1 tvg-name="TR: Uzakdoğu HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Uzakdoğu HD
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435931
+#EXTINF:-1 tvg-name="TR: Uzakdoğu 2 HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Uzakdoğu 2 HD
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435932
+#EXTINF:-1 tvg-name="TR: Dram 2 HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Dram 2 HD
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435930
+#EXTINF:-1 tvg-name="TR: Romantik HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Romantik HD
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435926
+#EXTINF:-1 tvg-name="TR: Romantik 2 HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Romantik 2 HD
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435927
+#EXTINF:-1 tvg-name="TR: Komedi HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Komedi HD
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435924
+#EXTINF:-1 tvg-name="TR: Netflix HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Netflix HD
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435922
+#EXTINF:-1 tvg-name="TR: Netflix 2 HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Netflix 2 HD
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435923
+#EXTINF:-1 tvg-name="TR: Macera HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Macera HD
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435920
+#EXTINF:-1 tvg-name="TR: Macera 2 HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Macera 2 HD
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435921
+#EXTINF:-1 tvg-name="TR: Gerilim HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Gerilim HD
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435919
+#EXTINF:-1 tvg-name="TR: Korku HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Korku HD
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435917
+#EXTINF:-1 tvg-name="TR: Korku 2  HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Korku 2  HD
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435918
+#EXTINF:-1 tvg-name="TR: Bilimkurgu HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Bilimkurgu HD
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435915
+#EXTINF:-1 tvg-name="TR: Bilimkurgu 2 HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Bilimkurgu 2 HD
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435916
+#EXTINF:-1 tvg-name="TR: Fantasy HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Fantasy HD
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435913
+#EXTINF:-1 tvg-name="TR: Fantasy 2 HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Fantasy 2 HD
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435914
+#EXTINF:-1 tvg-name="TR: Animasyon HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Animasyon HD
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435947
+#EXTINF:-1 tvg-name="TR: Fix Cinema Yerli"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Fix Cinema Yerli
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/436440
+#EXTINF:-1 tvg-name="TR: Fix Cinema Action"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Fix Cinema Action
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/436432
+#EXTINF:-1 tvg-name="TR: Fix Cinema Macera"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Fix Cinema Macera
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/436438
+#EXTINF:-1 tvg-name="TR: Fix Cinema Korku"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Fix Cinema Korku
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/436437
+#EXTINF:-1 tvg-name="TR: Fix Cinema Fantastic"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Fix Cinema Fantastic
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/436436
+#EXTINF:-1 tvg-name="TR: Fix Cinema Comedy"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Fix Cinema Comedy
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/436434
+#EXTINF:-1 tvg-name="TR: Fix Cinema Bilimkurgu"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Fix Cinema Bilimkurgu
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/436433
+#EXTINF:-1 tvg-name="TR: Nova Cinema 1"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Nova Cinema 1
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/436426
+#EXTINF:-1 tvg-name="TR: Nova Cinema 5"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Nova Cinema 5
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/436430
+#EXTINF:-1 tvg-name="TR: GHOST BUSTERS"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: GHOST BUSTERS
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435868
+#EXTINF:-1 tvg-name="TR: JUMANJI"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: JUMANJI
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435867
+#EXTINF:-1 tvg-name="TR: HUNGER GAMES"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: HUNGER GAMES
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435864
+#EXTINF:-1 tvg-name="TR: VENOM"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: VENOM
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435860
+#EXTINF:-1 tvg-name="TR: FANTASTIC FOUR"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: FANTASTIC FOUR
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435859
+#EXTINF:-1 tvg-name="TR: IRON MAN"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: IRON MAN
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435858
+#EXTINF:-1 tvg-name="TR: ANT-MAN"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: ANT-MAN
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435855
+#EXTINF:-1 tvg-name="TR: GUARDIAN of GALAXY"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: GUARDIAN of GALAXY
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435854
+#EXTINF:-1 tvg-name="TR: DEADPOOL"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: DEADPOOL
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435851
+#EXTINF:-1 tvg-name="TR: X-MEN"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: X-MEN
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435850
+#EXTINF:-1 tvg-name="TR: JURASSIC WORLD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: JURASSIC WORLD
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435845
+#EXTINF:-1 tvg-name="TR: TRANSFORMERS"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: TRANSFORMERS
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435843
+#EXTINF:-1 tvg-name="TR: TERMINATOR"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: TERMINATOR
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435842
+#EXTINF:-1 tvg-name="TR: BATMAN"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: BATMAN
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435841
+#EXTINF:-1 tvg-name="TR: MATRIX"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: MATRIX
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435839
+#EXTINF:-1 tvg-name="TR: BLADE"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: BLADE
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435838
+#EXTINF:-1 tvg-name="TR: Scarlett Johansson"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Scarlett Johansson
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435836
+#EXTINF:-1 tvg-name="TR: Ryan Reynolds"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Ryan Reynolds
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435835
+#EXTINF:-1 tvg-name="TR: Matthew McConaughey"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Matthew McConaughey
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435833
+#EXTINF:-1 tvg-name="TR: Mark Wahlberg"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Mark Wahlberg
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435832
+#EXTINF:-1 tvg-name="TR: Leonardo DiCaprio"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Leonardo DiCaprio
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435831
+#EXTINF:-1 tvg-name="TR: Keanu Reeves"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Keanu Reeves
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435830
+#EXTINF:-1 tvg-name="TR: Johnny Depp"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Johnny Depp
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435829
+#EXTINF:-1 tvg-name="TR: Dwayne Johnson"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Dwayne Johnson
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435827
+#EXTINF:-1 tvg-name="TR: Christian Bale"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Christian Bale
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435826
+#EXTINF:-1 tvg-name="TR: Bruce  Wills"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Bruce  Wills
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435824
+#EXTINF:-1 tvg-name="TR: Brad Pitt"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Brad Pitt
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435823
+#EXTINF:-1 tvg-name="TR: Arnold Schwarzenegger"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Arnold Schwarzenegger
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435822
+#EXTINF:-1 tvg-name="TR: Angelina Jolie"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Angelina Jolie
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435821
+#EXTINF:-1 tvg-name="TR: FILMAX Netflix HD"tvg-id=""tvg-logo="https://logodix.com/logo/1315967.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: FILMAX Netflix HD
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/185254
+#EXTINF:-1 tvg-name="TR: FILMAX DISNEY"tvg-id=""tvg-logo="https://logodix.com/logo/1315967.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: FILMAX DISNEY
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/259605
+#EXTINF:-1 tvg-name="TR: FILMAX AMAZON PRIME"tvg-id=""tvg-logo="https://logodix.com/logo/1315967.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: FILMAX AMAZON PRIME
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/259606
+#EXTINF:-1 tvg-name="TR: FILMAX MARVEL"tvg-id=""tvg-logo="https://logodix.com/logo/1315967.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: FILMAX MARVEL
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/340368
+#EXTINF:-1 tvg-name="TR: FILMAX GOLD HD"tvg-id=""tvg-logo="https://logodix.com/logo/1315967.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: FILMAX GOLD HD
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/389
+#EXTINF:-1 tvg-name="TR: FILMAX Bilim Kurgu"tvg-id=""tvg-logo="https://logodix.com/logo/1315967.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: FILMAX Bilim Kurgu
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/214621
+#EXTINF:-1 tvg-name="TR: FILMAX Action HD"tvg-id=""tvg-logo="https://logodix.com/logo/1315967.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: FILMAX Action HD
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/385
+#EXTINF:-1 tvg-name="TR:  FILMAX Türk HD"tvg-id=""tvg-logo="https://logodix.com/logo/1315967.png"group-title="Sinema":http-referrer="":http-user-agent="",TR:  FILMAX Türk HD
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/387
+#EXTINF:-1 tvg-name="TR: FILMAX ANIMASYON"tvg-id=""tvg-logo="https://logodix.com/logo/1315967.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: FILMAX ANIMASYON
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/219433
+#EXTINF:-1 tvg-name="TR: FILMAX Aile"tvg-id=""tvg-logo="https://logodix.com/logo/1315967.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: FILMAX Aile
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/214620
+#EXTINF:-1 tvg-name="TR:  FILMAX FANTASTIK HD"tvg-id=""tvg-logo="https://logodix.com/logo/1315967.png"group-title="Sinema":http-referrer="":http-user-agent="",TR:  FILMAX FANTASTIK HD
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/382
+#EXTINF:-1 tvg-name="TR: FILMAX Korku HD"tvg-id=""tvg-logo="https://logodix.com/logo/1315967.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: FILMAX Korku HD
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/383
+#EXTINF:-1 tvg-name="TR:  FILMAX COMEDY HD"tvg-id=""tvg-logo="https://logodix.com/logo/1315967.png"group-title="Sinema":http-referrer="":http-user-agent="",TR:  FILMAX COMEDY HD
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/388
+#EXTINF:-1 tvg-name="TR: FILMAX GERILIM"tvg-id=""tvg-logo="https://logodix.com/logo/1315967.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: FILMAX GERILIM
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/215164
+#EXTINF:-1 tvg-name="TR: FILMAX ROMANTIK"tvg-id=""tvg-logo="https://logodix.com/logo/1315967.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: FILMAX ROMANTIK
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/215165
+#EXTINF:-1 tvg-name="TR: FILMAX Drama"tvg-id=""tvg-logo="https://logodix.com/logo/1315967.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: FILMAX Drama
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/113523
+#EXTINF:-1 tvg-name="TR: FILMAX SAVAS"tvg-id=""tvg-logo="https://logodix.com/logo/1315967.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: FILMAX SAVAS
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/215166
+#EXTINF:-1 tvg-name="TR: NETFLIX Aksiyon 1"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: NETFLIX Aksiyon 1
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/419774
+#EXTINF:-1 tvg-name="TR: NETFLIX Aksiyon 3"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: NETFLIX Aksiyon 3
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/419773
+#EXTINF:-1 tvg-name="TR: NETFLIX Bilimkurgu"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: NETFLIX Bilimkurgu
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/419772
+#EXTINF:-1 tvg-name="TR: NETFLIX Bollywood"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: NETFLIX Bollywood
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/419771
+#EXTINF:-1 tvg-name="TR: NETFLIX Dram 1"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: NETFLIX Dram 1
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/419770
+#EXTINF:-1 tvg-name="TR: NETFLIX Dram 2"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: NETFLIX Dram 2
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/419769
+#EXTINF:-1 tvg-name="TR: NETFLIX Dram 3"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: NETFLIX Dram 3
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/419768
+#EXTINF:-1 tvg-name="TR: NETFLIX Fantastik"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: NETFLIX Fantastik
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/419767
+#EXTINF:-1 tvg-name="TR: NETFLIX Gerilim 1"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: NETFLIX Gerilim 1
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/419766
+#EXTINF:-1 tvg-name="TR: NETFLIX Gerilim 2"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: NETFLIX Gerilim 2
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/419765
+#EXTINF:-1 tvg-name="TR: NETFLIX Gizem"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: NETFLIX Gizem
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/419764
+#EXTINF:-1 tvg-name="TR: NETFLIX Komedi 1"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: NETFLIX Komedi 1
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/419763
+#EXTINF:-1 tvg-name="TR: NETFLIX Komedi 2"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: NETFLIX Komedi 2
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/419762
+#EXTINF:-1 tvg-name="TR: NETFLIX Komedi 3"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: NETFLIX Komedi 3
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/419761
+#EXTINF:-1 tvg-name="TR: NETFLIX Korku"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: NETFLIX Korku
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/419760
+#EXTINF:-1 tvg-name="TR: NETFLIX Macera"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: NETFLIX Macera
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/419759
+#EXTINF:-1 tvg-name="TR: NETFLIX Romantik 1"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: NETFLIX Romantik 1
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/419758
+#EXTINF:-1 tvg-name="TR: NETFLIX Romantik 2"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: NETFLIX Romantik 2
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/419757
+#EXTINF:-1 tvg-name="TR: NETFLIX Romantik 3"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: NETFLIX Romantik 3
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/419756
+#EXTINF:-1 tvg-name="TR: NETFLIX Suc"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: NETFLIX Suc
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/419755
+#EXTINF:-1 tvg-name="TR: NETFLIX Mıx 1"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: NETFLIX Mıx 1
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/419754
+#EXTINF:-1 tvg-name="TR: NETFLIX Mıx 2"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: NETFLIX Mıx 2
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/419753
+#EXTINF:-1 tvg-name="TR: NETFLIX Mıx 4"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: NETFLIX Mıx 4
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/419751
+#EXTINF:-1 tvg-name="TR: NETFLIX Mıx 5"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: NETFLIX Mıx 5
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/419750
+#EXTINF:-1 tvg-name="TR: NETFLIX Mıx 7"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: NETFLIX Mıx 7
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/419748
+#EXTINF:-1 tvg-name="TR: NETFLIX Mıx 8"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: NETFLIX Mıx 8
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/419747
+#EXTINF:-1 tvg-name="TR: NETFLIX Mıx 9"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: NETFLIX Mıx 9
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/419746
+#EXTINF:-1 tvg-name="TR: NETFLIX Mıx 10"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: NETFLIX Mıx 10
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/419745
+#EXTINF:-1 tvg-name="TR: Cinemaximum Aksiyon"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Cinemaximum Aksiyon
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/419716
+#EXTINF:-1 tvg-name="TR: Cinemaximum Animasyon"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Cinemaximum Animasyon
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/419715
+#EXTINF:-1 tvg-name="TR: Cinemaximum Bilim Kurgu"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Cinemaximum Bilim Kurgu
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/419714
+#EXTINF:-1 tvg-name="TR: Cinemaximum Dram"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Cinemaximum Dram
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/419713
+#EXTINF:-1 tvg-name="TR: Cinemaximum Gerilim"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Cinemaximum Gerilim
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/419711
+#EXTINF:-1 tvg-name="TR: Cinemaximum Gizem"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Cinemaximum Gizem
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/419710
+#EXTINF:-1 tvg-name="TR: Cinemaximum Komedi"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Cinemaximum Komedi
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/419709
+#EXTINF:-1 tvg-name="TR: Cinemaximum Korku"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Cinemaximum Korku
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/419708
+#EXTINF:-1 tvg-name="TR: Cinemaximum Macera"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Cinemaximum Macera
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/419707
+#EXTINF:-1 tvg-name="TR: Cinemaximum Romantik"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Cinemaximum Romantik
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/419706
+#EXTINF:-1 tvg-name="TR: b**N B0X 0FFİCE 1 HD"tvg-id="beinboxoffice1.tr"tvg-logo="https://contentlibrary.digiturk.com.tr/Channel/36/Image/box_office1_205x150_2022.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: b**N B0X 0FFİCE 1 HD
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/313
+#EXTINF:-1 tvg-name="TR: b**N B0X 0FFİCE 2 HD"tvg-id="beinboxoffice2.tr"tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/beIN_Box_Office_2_TR_logo.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: b**N B0X 0FFİCE 2 HD
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/314
+#EXTINF:-1 tvg-name="TR: b**N B0X 0FFİCE 3 HD"tvg-id="beinboxoffice3.tr"tvg-logo="https://contentlibrary.digiturk.com.tr/Channel/38/Image/box_office3_205x150_2022.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: b**N B0X 0FFİCE 3 HD
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/315
+#EXTINF:-1 tvg-name="TR:  MAX Aksiyon HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR:  MAX Aksiyon HD
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/10839
+#EXTINF:-1 tvg-name="TR: MAX Aksiyon 2 HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: MAX Aksiyon 2 HD
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/10840
+#EXTINF:-1 tvg-name="TR: MAX Premier HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: MAX Premier HD
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/10841
+#EXTINF:-1 tvg-name="TR: MAX Western HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: MAX Western HD
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/10843
+#EXTINF:-1 tvg-name="TR: MAX Vizyon HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: MAX Vizyon HD
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/10845
+#EXTINF:-1 tvg-name="TR: MAX Vizyon 2 HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: MAX Vizyon 2 HD
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/10846
+#EXTINF:-1 tvg-name="TR: MAX Vizyon 3 HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: MAX Vizyon 3 HD
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/10847
+#EXTINF:-1 tvg-name="TR: MAX 007 HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: MAX 007 HD
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/10849
+#EXTINF:-1 tvg-name="TR: MAX STAR WARS HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: MAX STAR WARS HD
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/10850
+#EXTINF:-1 tvg-name="TR: MAX KİNO COLLECTİON HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: MAX KİNO COLLECTİON HD
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/10852
+#EXTINF:-1 tvg-name="TR: MAX GOLD HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: MAX GOLD HD
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/10853
+#EXTINF:-1 tvg-name="TR: SINEMA AKSIYON HD"tvg-id="sinemaaksiyonhd.tr"tvg-logo=""group-title="Sinema ":http-referrer="":http-user-agent="",TR: SINEMA AKSIYON HD
+http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/335
 
 # * » ÇizgiFilm « * #
 #EXTINF:-1 tvg-name="TRT Çocuk" tvg-language="Turkish" tvg-country="TR" tvg-id="CizgiFilm_TRT" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/13060701.png" group-title="ÇizgiFilm",TRT Çocuk
@@ -421,47 +827,164 @@ https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u
 
 
 # * » İçerik « * #
-#EXTINF:-1 tvg-name="Yeşil Çam" tvg-language="Turkish" tvg-country="TR" tvg-id="icerik_YesilCam" tvg-logo="https://i.ytimg.com/vi/li4kIJdyxs4/hqdefault.jpg" group-title="İçerik",Yeşil Çam
-https://ythls.kekikakademi.org/youtube/channel/UCUALYmnkEmx8vlxIbpr2gmw.m3u8
-
-#EXTINF:-1 tvg-name="Kemal Sunal" tvg-language="Turkish" tvg-country="TR" tvg-id="icerik_KemalSunal" tvg-logo="https://i.ytimg.com/vi/lDI6Lbxhz6Y/hqdefault.jpg" group-title="İçerik",Kemal Sunal
-https://ythls.kekikakademi.org/youtube/channel/UCoIUysIrvGxoDw-GkdOGjRw.m3u8
-
-#EXTINF:-1 tvg-name="Şener Şen" tvg-language="Turkish" tvg-country="TR" tvg-id="icerik_SenerSen" tvg-logo="https://i.ytimg.com/vi/PTp6hmibGSc/hqdefault.jpg" group-title="İçerik",Şener Şen
-https://ythls.kekikakademi.org/youtube/channel/UCulg-mlXf314L1pemPqCVng.m3u8
-
-#EXTINF:-1 tvg-name="Behzat Ç." tvg-language="Turkish" tvg-country="TR" tvg-id="icerik_BehzatC" tvg-logo="https://i.ytimg.com/vi/asbzUzzLwxs/hqdefault.jpg" group-title="İçerik",Behzat Ç.
-https://ythls.kekikakademi.org/youtube/channel/UCH3WnhFSx9r850HJRRs16lQ.m3u8
-
-#EXTINF:-1 tvg-name="Cennet Mahallesi" tvg-language="Turkish" tvg-country="TR" tvg-id="icerik_CennetMahallesi" tvg-logo="https://i.ytimg.com/vi/lf1NxAexRAE/hqdefault.jpg" group-title="İçerik",Cennet Mahallesi
-https://ythls.kekikakademi.org/youtube/channel/UCOqe-z52nnpVSAe8Ds0fxaA.m3u8
-
-#EXTINF:-1 tvg-name="Güldür Güldür" tvg-language="Turkish" tvg-country="TR" tvg-id="icerik_GuldurGuldur" tvg-logo="https://i.ytimg.com/vi/JX5mSkUfxmk/hqdefault.jpg" group-title="İçerik",Güldür Güldür
-https://ythls.kekikakademi.org/youtube/channel/UCdlEXiVLTEvA280oyMvr8Kw.m3u8
-
-#EXTINF:-1 tvg-name="eee Sonra" tvg-language="Turkish" tvg-country="TR" tvg-id="icerik_eeeSonra" tvg-logo="https://i.ytimg.com/vi/vzcV17H4pgk/hqdefault.jpg" group-title="İçerik",eee Sonra
-https://ythls.kekikakademi.org/youtube/channel/UCt28gd-5rh24_UPRwf-dulQ.m3u8
-
-#EXTINF:-1 tvg-name="İşler Güçler" tvg-language="Turkish" tvg-country="TR" tvg-id="icerik_islerGucler" tvg-logo="https://i.ytimg.com/vi/So3gvma5Fmc/hqdefault.jpg" group-title="İçerik",İşler Güçler
-https://ythls.kekikakademi.org/youtube/channel/UCALHvpjqmBwdRwYPc3qVezw.m3u8
-
-#EXTINF:-1 tvg-name="Geniş Aile" tvg-language="Turkish" tvg-country="TR" tvg-id="icerik_GenisAile" tvg-logo="https://i.ytimg.com/vi/A-VMV-mJFiY/hqdefault.jpg" group-title="İçerik",Geniş Aile
-https://ythls.kekikakademi.org/youtube/channel/UC-_QrTM2lCjRhlv4l0vLJmw.m3u8
-
-#EXTINF:-1 tvg-name="Yalan Dünya" tvg-language="Turkish" tvg-country="TR" tvg-id="icerik_YalanDunya" tvg-logo="https://i.ytimg.com/vi/2X5QsM3Z8pQ/hqdefault.jpg" group-title="İçerik",Yalan Dünya
-https://ythls.kekikakademi.org/youtube/channel/UCN2Q-lSzQa7RjrCxQZ8DzbA.m3u8
-
-#EXTINF:-1 tvg-name="Türk Malı" tvg-language="Turkish" tvg-country="TR" tvg-id="icerik_TurkMali" tvg-logo="https://i.ytimg.com/vi/RObRiZDDLEk/hqdefault.jpg" group-title="İçerik",Türk Malı
-https://ythls.kekikakademi.org/youtube/channel/UCpSOc0PBZP3eVjEAhFoq3rg.m3u8
-
-#EXTINF:-1 tvg-name="Sihirli Annem" tvg-language="Turkish" tvg-country="TR" tvg-id="icerik_SihirliAnnem" tvg-logo="https://i.ytimg.com/vi/hzRyv4pyeO0/hqdefault.jpg" group-title="İçerik",Sihirli Annem
-https://ythls.kekikakademi.org/youtube/channel/UCNjRKDlSvo1H38XTkbIrMsA.m3u8
-
-#EXTINF:-1 tvg-name="Çilek Kokusu" tvg-language="Turkish" tvg-country="TR" tvg-id="icerik_CilekKokusu" tvg-logo="https://i.ytimg.com/vi/78sojzQcvgs/hqdefault.jpg" group-title="İçerik",Çilek Kokusu
-https://ythls.kekikakademi.org/youtube/channel/UC3uB257qcHNt-Ri-iPx7uVA.m3u8
-
-#EXTINF:-1 tvg-name="Adını Feriha Koydum" tvg-language="Turkish" tvg-country="TR" tvg-id="icerik_AdiniFerihaKoydum" tvg-logo="https://i.ytimg.com/vi/ESNRjuK9QdU/hqdefault.jpg" group-title="İçerik",Adını Feriha Koydum
-https://ythls.kekikakademi.org/youtube/channel/UCtkp8YehDHBNJ63CS9xwIQg.m3u8
+#EXTINF:-1 tvg-name="Iron Man"tvg-id=""tvg-logo="https://img.fullhdfilmizlesene.de/poster/original/fullhd-demir-adam-1-iron-man-1.jpg"group-title="Marvel":http-referrer="":http-user-agent="",Iron Man
+https://vidrame.pro/vr/get/ef7709d0/1080.txt
+#EXTINF:-1 tvg-name="Inanilmaz Hulk"tvg-id=""tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/722b707472b3d365e66876554b2042875340230dffae36b7aaef021150501fb3.jpg"group-title="Marvel":http-referrer="":http-user-agent="",Inanilmaz Hulk
+https://a3.vidload.lol/2591/1080p.m3u8
+#EXTINF:-1 tvg-name="Iron man 2"tvg-id=""tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/32f814509611966ca9bab737cea7655793429c9641bb1da1cad3ca7aeab0af40.jpg"group-title="Marvel":http-referrer="":http-user-agent="",Iron man 2
+https://cdn.dzen.ru/vod/converted-video/vod-content/70/80/01/29/36/78/99/84/47/1/373d0167-f416-4e75-848b-bc0e44c7611c/kaltura/desc_7f17a82064f40ac877a70695ad7b9346/vtvTSifzK0nA/vw=1280,vh=544,fps=24.00,vbrt=1149762,abrt=129380,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:-1 tvg-name="Thor"tvg-id=""tvg-logo="https://img.fullhdfilmizlesene.de/poster/original/fullhd-thor-turkce-dublaj-izle.jpg"group-title="Marvel":http-referrer="":http-user-agent="",Thor
+https://cdn.dzen.ru/vod/converted-video/vod-content/44/90/09/21/36/02/54/97/46/0/176360d9-c58e-413a-b145-4e8c66417dac/kaltura/desc_1b6c88e745811e07e6a99bada5c94f51/v_bnpOI4PZUM/vw=1280,vh=544,fps=24.00,vbrt=934354,abrt=129380,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:-1 tvg-name="Ilk Yenilmez"tvg-id=""tvg-logo="https://hdfilmcehennemi.so/wp-content/uploads/2023/09/Kaptan-Amerika-Ilk-Yenilmez-180x270.jpg"group-title="Marvel":http-referrer="":http-user-agent="",Ilk Yenilmez
+https://cdn.dzen.ru/vod/converted-video/vod-content/30/84/26/74/68/45/41/47/98/3/bddcff97-67fd-4788-9f2c-c12586f42600/kaltura/desc_f6ec1097d17f698b03ba748aa2c7b7b6/v6GGx0iLnsiQ/vw=1280,vh=544,fps=24.00,vbrt=783951,abrt=129380,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:-1 tvg-name="Avengers"tvg-id=""tvg-logo="https://img.fullhdfilmizlesene.de/poster/original/fullhd-yenilmezler-the-avengers-izle.jpg"group-title="Marvel":http-referrer="":http-user-agent="",Avengers
+https://vidrame.pro/vr/get/9de3d24b/1080.txt
+#EXTINF:-1 tvg-name="Iron Man 3"tvg-id=""tvg-logo="https://www.4kfilmizlesene.org/wp-content/uploads/2020/12/Iron-Man-3-2013.png"group-title="Marvel":http-referrer="":http-user-agent="",Iron Man 3
+https://s3.pixypost.art/mh/ETIgnKVhDJEuoF4mYwRjBQOjYxEIDHjd0zxpTy4rKOip3DhLKW0s0xi3vr1
+#EXTINF:-1 tvg-name="Thor 2"tvg-id=""tvg-logo="https://de.web.img2.acsta.net/c_310_420/pictures/210/384/21038405_20130910100531603.jpg"group-title="Marvel":http-referrer="":http-user-agent="",Thor 2
+https://vidrame.pro/vr/get/5cac84cf/1080.txt
+#EXTINF:-1 tvg-name="Kaptan Amerika 2"tvg-id=""tvg-logo="https://www.4kfilmizlesene.org/wp-content/uploads/2020/12/Captain-America-The-Winter-Soldier-2014.png"group-title="Marvel":http-referrer="":http-user-agent="",Kaptan Amerika 2
+https://hls9.playmix.uno/hls/captainamerica-2-thewintersoldier-2014-trdualmp4-1ZbaS3jutnZ.mp4/master.txt
+#EXTINF:-1 tvg-name="Kaptan Amerika 2"tvg-id=""tvg-logo="https://www.4kfilmizlesene.org/wp-content/uploads/2020/12/Captain-America-The-Winter-Soldier-2014.png"group-title="Marvel":http-referrer="":http-user-agent="",Kaptan Amerika 2
+https://vidrame.pro/vr/get/08b02408/1080.txt
+#EXTINF:-1 tvg-name="Galaksinin Koruyuculari"tvg-id=""tvg-logo="https://lumiere-a.akamaihd.net/v1/images/image_ebd1f16c.jpeg?region=0,0,540,810"group-title="Marvel":http-referrer="":http-user-agent="",Galaksinin Koruyuculari
+https://cdn.dzen.ru/vod/converted-video/vod-content/45/85/57/53/01/82/12/72/15/4/9d74f3d1-585a-4041-a0f8-6489c4a9886e/kaltura/desc_0db591c6af9786fc4cd8bb15ab37c7c1/vW0FnTqhn1BU/vw=1280,vh=534,fps=24.00,vbrt=910952,abrt=129380,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:-1 tvg-name="Avengers 2"tvg-id=""tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/3D27801687E91EC2B9DAA49E927B2E908174809679FA9C251F37837D64376EBC/scale?width=1200&aspectRatio=1.78&format=webp"group-title="Marvel":http-referrer="":http-user-agent="",Avengers 2
+https://cdn.dzen.ru/vod/converted-video/vod-content/61/90/98/57/07/44/69/19/58/ca618471-04c3-45dc-956d-adfe9e7cb10f/kaltura/desc_0bb28014aefcef6907153e375f95d4d6/vHOmnVGHECXw/vw=1280,vh=536,fps=24.00,vbrt=1153873,abrt=129380,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:-1 tvg-name="Karinca Adam"tvg-id=""tvg-logo="https://de.web.img2.acsta.net/pictures/15/07/20/18/06/476503.jpg"group-title="Marvel":http-referrer="":http-user-agent="",Karinca Adam
+https://225517853567582.purpleads.pro/d/h6zi36azo7hvw4m6lwxif62itnylxwhklcmrycjoyun5caeg3x5x2dlh5ijcm4rby5fx6jol/Kar%C3%84%C2%B1nca%20Adam%20-%20Ant-Man%202015%201080p.mkv%20-%20Google%20Drive.mp4
+#EXTINF:-1 tvg-name="Civil War"tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ_HsuaaksL2tF7XBUf3bXDO5nRzTd6zINyg&s"group-title="Marvel":http-referrer="":http-user-agent="",Civil War
+https://cdn.dzen.ru/vod/converted-video/vod-content/91/10/49/94/82/38/47/87/71/3/e75a8e4d-6761-430c-90f8-6fc69f8a7c0a/kaltura/desc_1374991048be5cece18ee2d321510c1b/v7selF-EPCBY/vw=1280,vh=536,fps=24.00,vbrt=959083,abrt=129379,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:-1 tvg-name="Doctor Strange"tvg-id=""tvg-logo="https://de.web.img2.acsta.net/pictures/16/10/18/11/39/193242.jpg"group-title="Marvel":http-referrer="":http-user-agent="",Doctor Strange
+https://cdn.dzen.ru/vod/converted-video/vod-content/58/78/90/47/32/89/20/05/32/5/2871b00c-40c0-4701-aa51-ab2cd3bd43f8/kaltura/desc_8d645b4e8943e8aaba03fd31573b8e93/vwJ_ASJgMugk/vw=1280,vh=536,fps=24.00,vbrt=791262,abrt=129380,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:-1 tvg-name="Galaksinin Koruyuculari 2"tvg-id=""tvg-logo="https://img.fullhdfilmizlesene.de/poster/izle-lg/fullhd-galaksinin-koruyuculari-2-guardians-of-the-galaxy-vol-2.jpg"group-title="Marvel":http-referrer="":http-user-agent="",Galaksinin Koruyuculari 2
+https://cdn.dzen.ru/vod/converted-video/vod-content/80/90/74/72/77/11/64/19/26/0/ab5c28b9-6bac-46f2-864c-42cd2e89b77b/kaltura/desc_49e82e84b3f80e6654f474d46f542843/v92urPrnFJEQ/vw=1280,vh=536,fps=24.00,vbrt=1041839,abrt=129379,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:-1 tvg-name="Spiderman Homecoming"tvg-id=""tvg-logo="https://www.paribucineverse.com/Files/POSTER/OrumcakAdam_EvdenUzakta_AF_S_y.jpg"group-title="Marvel":http-referrer="":http-user-agent="",Spiderman Homecoming
+https://s24.imagehub.pics/mn/H3OcMTIlYH1uov5Vo21yL29gnJ5aYwVjZGphDzk1pzS5YwRjBQOjYxEIDHjd0zxnJ1uM2IbqJVhpTywpjs0xi24vr1
+#EXTINF:-1 tvg-name="Thor 3"tvg-id=""tvg-logo="https://file.macellan.online/images/540/825/80//rzrwtcfvttcn1zpx2xv4j3tsdju--1691413618.jpg"group-title="Marvel":http-referrer="":http-user-agent="",Thor 3
+https://cdn.dzen.ru/vod/converted-video/vod-content/95/16/11/42/94/27/53/31/86/eae39336-3bbb-4c43-a7b2-abaf51a92b74/kaltura/desc_6799424806bc07201bcc338703bd8867/vkmG07isuB3s/vw=1280,vh=536,fps=24.00,vbrt=1239825,abrt=129380,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:-1 tvg-name="Black Panter"tvg-id=""tvg-logo="https://lumiere-a.akamaihd.net/v1/images/p_blackpanther_19754_4ac13f07.jpeg?region=0%2C0%2C540%2C810"group-title="Marvel":http-referrer="":http-user-agent="",Black Panter
+https://s4.imglink.info/ml/DzkuL2fhHTShqTuypv4lZQR4YxWfqKWurF4kZQtjpP5RIHSZd0zxnJ1aoTyhnl5cozMis0xi4vr1
+#EXTINF:-1 tvg-name="Avengers 3"tvg-id=""tvg-logo="https://hdfilmcehennemi.so/wp-content/uploads/2023/09/Yenilmezler-3-Sonsuzluk-Savasi.jpg"group-title="Marvel":http-referrer="":http-user-agent="",Avengers 3
+https://cdn.dzen.ru/vod/converted-video/vod-content/14/53/24/67/93/40/42/32/65/de2d29e9-01df-4438-a466-9b5c57b3c5b7/kaltura/desc_2099a528ca68ef62ac908194342d5894/vxDDUrZMB0g0/vw=1280,vh=536,fps=24.00,vbrt=1143543,abrt=129379,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:-1 tvg-name="karinca Adam 2"tvg-id=""tvg-logo="https://images.justwatch.com/poster/264494138/s332/karinca-adam-ve-yaban-arisi"group-title="Marvel":http-referrer="":http-user-agent="",karinca Adam 2
+https://cdn.dzen.ru/vod/converted-video/vod-content/84/86/20/34/81/33/89/71/94/4/8888c632-ce91-449d-b136-639beb3d281e/kaltura/desc_3da1c214ae761d72eea325b7d5895558/vuSeInrJpgSc/vw=1280,vh=536,fps=24.00,vbrt=783783,abrt=129380,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:-1 tvg-name="Captain Marvel"tvg-id=""tvg-logo="https://images.justwatch.com/poster/96283315/s718/kaptan-marvel.jpg"group-title="Marvel":http-referrer="":http-user-agent="",Captain Marvel
+https://s9.pixypost.art/mc/F2SjqTShYx1OHyMSGP4kZQtjpP5RIHSZd0zxpTy4rKOip3DhLKW0s0xi9vr1
+#EXTINF:-1 tvg-name="Avengers 4"tvg-id=""tvg-logo="https://panel.1kfilm.com/assets/img/filmsimg/avengers-endgame-yenilmezler-son-oyun.png"group-title="Marvel":http-referrer="":http-user-agent="",Avengers 4
+https://cdn.dzen.ru/vod/converted-video/vod-content/15/31/67/44/79/13/21/12/01/2/86ee28a8-d587-4222-a6bc-573b7bd6e2e7/kaltura/desc_a05356342408ab2b56cf6b1cf7076086/vt6eDlcqVkz8/vw=1280,vh=536,fps=24.00,vbrt=792367,abrt=129379,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:-1 tvg-name="Spiderman Far from Home"tvg-id=""tvg-logo="https://www.paribucineverse.com/Files/POSTER/OrumcakAdam_EvdenUzakta_AF_S_y.jpg"group-title="Marvel":http-referrer="":http-user-agent="",Spiderman Far from Home
+https://s4.imagescdns.pics/m6/H3OcMTIlYx1uov5TLKVhMaWioF5Vo21yYwVjZGxhDzk1pzS5YwRjBQOjYxEIDHjd0zxnJ1uM2ImL2Ehpl5jnJAms0xi4vr1
+#EXTINF:-1 tvg-name="Falcon and Winter Soldier  (Dizi)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/I/81sraKkmmlL._AC_UF894,1000_QL80_.jpg"group-title="Marvel":http-referrer="":http-user-agent="",Falcon and Winter Soldier  (Dizi)
+https://www.tekfullfilmizle5.com/search/The+Falcon+and+the+Winter+Soldier
+#EXTINF:-1 tvg-name="Black Widow"tvg-id=""tvg-logo="https://images.justwatch.com/poster/265588420/s718/kara-dul.jpg"group-title="Marvel":http-referrer="":http-user-agent="",Black Widow
+https://vidrame.pro/vr/get/226fe687/1080.txt
+#EXTINF:-1 tvg-name="Shang-Chi"tvg-id=""tvg-logo="https://img.fullhdfilmizlesene.de/poster/izle-lg/shang-chi-ve-on-halka-efsanesi-65118.jpg"group-title="Marvel":http-referrer="":http-user-agent="",Shang-Chi
+https://cdn.txtstream2.xyz/hls/5/cdn8/Movies/ShangChi.mp4/index.m3u8?token=Dxw5l263TTTAh9HyYZ2IIA&tms=1727092723
+#EXTINF:-1 tvg-name="Shang-Chi"tvg-id=""tvg-logo="https://img.fullhdfilmizlesene.de/poster/izle-lg/shang-chi-ve-on-halka-efsanesi-65118.jpg"group-title="Marvel":http-referrer="":http-user-agent="",Shang-Chi
+https://s230.rapidrame.com/hls2/01/00018/m2f6xqjx70oc_,l,n,.urlset/index-f2-v1-a1.m3u8?t=MxOZpd0Gd5TioNLlAgaO-lVEestIkVWXrEIlc8jdvJo&s=1735341296&e=1199998800&f=92684&srv=s385&i=0.0&sp=0&p1=s230&p2=s230
+#EXTINF:-1 tvg-name="Eternals"tvg-id=""tvg-logo="https://img.fullhdfilmizlesene.de/poster/original/fullhd-eternals-film-izle.jpg"group-title="Marvel":http-referrer="":http-user-agent="",Eternals
+https://cdn.txtstream2.xyz/hls/5/cdn17/Film/Eternals.2021.Imax.1080P.Dsnp.Web-Dl.Ddp5.1.Atmos.H.264-Tt.mp4/index.m3u8?token=qZ21dqV06BGtcEFAR9oRFA&tms=1727092887
+#EXTINF:-1 tvg-name="Eternals"tvg-id=""tvg-logo="https://img.fullhdfilmizlesene.de/poster/original/fullhd-eternals-film-izle.jpg"group-title="Marvel":http-referrer="":http-user-agent="",Eternals
+https://a3.vidload.lol/1070/1080p.m3u8
+#EXTINF:-1 tvg-name="Spiderman No  way Home"tvg-id=""tvg-logo="https://img.fullhdfilmizlesene.de/poster/original/orumcek-adam-eve-donus-yok-izle-1-16915.jpg"group-title="Marvel":http-referrer="":http-user-agent="",Spiderman No  way Home
+https://s26.imglink.pro/mv/H3OcMTIlYH1uov5Bol5KLKxhFT9gMF4lZQVkYxWfqKWurF4kZQtjpP5RIHRd0zxnJ1aoTyhnl5jpz8s0xi26vr1b2160
+#EXTINF:-1 tvg-name="Wandavison (Dizi)"tvg-id=""tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/5525675DDD0ADAC6D5527A7E051241B2DB49578C204C32C9C097B67022EABFC8/scale?width=1200&aspectRatio=1.78&format=webp"group-title="Marvel":http-referrer="":http-user-agent="",Wandavison (Dizi)
+https://www.hdfilmcehennemi.nl/dizi/wandavision-dizi-izle-hdf11-6033396/
+#EXTINF:-1 tvg-name="Doctor Strange 2"tvg-id=""tvg-logo="https://www.paribucineverse.com/Files/POSTER/DR-STRANGE.jpg"group-title="Marvel":http-referrer="":http-user-agent="",Doctor Strange 2
+https://s26.pixtures.art/m5/ET9wqT9lYyA0pzShM2HhnJ4hqTuyYx11oUEcqzIlp2Hho2LhGJSxozImpl4lZQVlYxyKEHVgERjhZGN4ZUNhESIOGNd0zxpTy4qUIlMKZhLKW0s0xi26vr1
+#EXTINF:-1 tvg-name="Agatha: Coven of Chaos (Dizi)"tvg-id=""tvg-logo="https://sm.ign.com/ign_tr/cover/a/agatha-cov/agatha-coven-of-chaos_5a3c.jpg"group-title="Marvel":http-referrer="":http-user-agent="",Agatha: Coven of Chaos (Dizi)
+https://www.hdfilmcehennemi.sh/dizi/agatha-all-along-6/
+#EXTINF:-1 tvg-name="Thor 4"tvg-id=""tvg-logo="https://tr.web.img3.acsta.net/pictures/22/07/06/14/47/0142016.jpg"group-title="Marvel":http-referrer="":http-user-agent="",Thor 4
+https://vidrame.pro/vr/get/5cac84cf/1080.txt
+#EXTINF:-1 tvg-name="Black Panter 2"tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/pictures/22/11/07/07/30/1572006.jpg"group-title="Marvel":http-referrer="":http-user-agent="",Black Panter 2
+https://s5.imgmania.org/m1/DzkuL2fhHTShqTuypv5KLJguozEuYxMipzI2MKVhZwNlZv5WI0IPYHEZYwRjBQOjYxEIDHjd0zxnJ1aoJShnJRho3Was0xi5vr1
+#EXTINF:-1 tvg-name="Galaksinin Koruyuculari Special"tvg-id=""tvg-logo="https://images.justwatch.com/poster/301774755/s718/the-guardians-of-the-galaxy-holiday-special.jpg"group-title="Marvel":http-referrer="":http-user-agent="",Galaksinin Koruyuculari Special
+https://s2.photogrids.site/m5/ITuyYxq1LKWxnJShpl5iMv50nTHhE2SfLKu5YxuioTyxLKxhH3OyL2yuoP4lZQVlYyqSDv1RGP4kZQtjpP5RIHSZd0zxpTuiqT9apzyxpl5mnKEys0xi2vr1
+#EXTINF:-1 tvg-name="Werewolf by Night"tvg-id=""tvg-logo="https://image.tmdb.org/t/p/w500/jmv7EbqBuEk4V1U7OoSBaxkwawO.jpg"group-title="Marvel":http-referrer="":http-user-agent="",Werewolf by Night
+https://sithmanifest.com/server/videos/367248/eng/cDdpa2g3eHFoM3I5V25wS1JJeTgwQzFMdit1Y1lvQnlMaEhRbjZGc0ZUREZlbk5mYVJIYkE3K3c4OEVJTk5ldw/1080.m3u8?_=1727725128
+#EXTINF:-1 tvg-name="Loki (Dizi)"tvg-id=""tvg-logo="https://images.justwatch.com/poster/308866909/s718/sezon-1.jpg"group-title="Marvel":http-referrer="":http-user-agent="",Loki (Dizi)
+https://www.hdfilmcehennemi.sh/dizi/loki-izle-hdf10-70333107/
+#EXTINF:-1 tvg-name="What If (Dizi)"tvg-id=""tvg-logo="https://m.media-amazon.com/images/I/81TR9+czWiS.jpg"group-title="Marvel":http-referrer="":http-user-agent="",What If (Dizi)
+https://hdfilmizlesene.org/peki-ya-what-if-dizi-izle/
+#EXTINF:-1 tvg-name="Hawkeye (Dizi)"tvg-id=""tvg-logo="https://images.justwatch.com/poster/258645940/s718/hawkeye.jpg"group-title="Marvel":http-referrer="":http-user-agent="",Hawkeye (Dizi)
+https://www.hdfilmcehennemi.sh/dizi/hawkeye-hdf14-1hdf8011190/
+#EXTINF:-1 tvg-name="Moon Knight (Dizi)"tvg-id=""tvg-logo="https://images.justwatch.com/poster/277939929/s718/moon-knight.jpg"group-title="Marvel":http-referrer="":http-user-agent="",Moon Knight (Dizi)
+https://hdfilmcehennem.net/moon-knight-izle-6/
+#EXTINF:-1 tvg-name="Karinca adam 3"tvg-id=""tvg-logo="https://tr.web.img3.acsta.net/pictures/23/01/25/11/45/2784455.jpg"group-title="Marvel":http-referrer="":http-user-agent="",Karinca adam 3
+https://s18.photogrids.site/md/DJ50Yx1uov5uozDhqTuyYyqup3NhHKIuoaE1oJShnJRhZwNlZl5WI0IPYHEZYwRjBQOjYxEIDHjd0zxpTuiqT9apzyxpl5mnKEys0xi18vr1
+#EXTINF:-1 tvg-name="Galaksinin Koruyuculari  3"tvg-id=""tvg-logo="https://tr.web.img4.acsta.net/pictures/23/05/04/08/22/5434226.jpg"group-title="Marvel":http-referrer="":http-user-agent="",Galaksinin Koruyuculari  3
+https://s230.rapidrame.com/hls2/01/00017/ecwqshhs3aq0_,l,n,.urlset/master.m3u8?t=oO1N8VRujNdEtDAk1ihVXFrxpSwJTB8aZ3OxmH5SMso&s=1727448594&e=1199998800&f=87506&srv=s298&i=0.0&sp=0&p1=s230&p2=s230
+#EXTINF:-1 tvg-name="Ms. Marvel (Dizi)"tvg-id=""tvg-logo="https://images.justwatch.com/poster/283720920/s718/Staffel-1.jpg"group-title="Marvel":http-referrer="":http-user-agent="",Ms. Marvel (Dizi)
+https://yabancidizi.tv/dizi/ms-marvel-izle-3
+#EXTINF:-1 tvg-name="The Marvels"tvg-id=""tvg-logo="https://lumiere-a.akamaihd.net/v1/images/image_167d5a00.jpeg?region=0,0,540,810"group-title="Marvel":http-referrer="":http-user-agent="",The Marvels
+https://vidrame.pro/vr/get/b38c1403/480.txt
+#EXTINF:-1 tvg-name="Secret Invasion (Dizi)"tvg-id=""tvg-logo="https://storage.oyungezer.com.tr/ogz-public/public/content/2023/07/28/content_64c37b9bd54c2_78839.jpg"group-title="Marvel":http-referrer="":http-user-agent="",Secret Invasion (Dizi)
+https://yabancidizi.tv/dizi/secret-invasion-izle-1
+#EXTINF:-1 tvg-name="Echo (Dizi)"tvg-id=""tvg-logo="https://tr.web.img3.acsta.net/pictures/23/11/04/06/16/0911565.jpg"group-title="Marvel":http-referrer="":http-user-agent="",Echo (Dizi)
+https://fullhdfilmizle.cx/echo-izle-22
+#EXTINF:-1 tvg-name="Deadpool 3"tvg-id=""tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/deadpool-3.webp"group-title="Marvel":http-referrer="":http-user-agent="",Deadpool 3
+https://s1.imagesbox.cloud/m9/ETIuMUOio2jhLJ5xYyqioUMypzyhMF4lZQV0YyqSDv1RGP4kZQtjpP5RIHSZd0zxnJ1uM2ImLz94YzAfo3Ixs0xi1vr1
+#EXTINF:-1 tvg-name="Batman The Dark Knight"tvg-id=""tvg-logo="https://hdfilmcehennemi.so/wp-content/themes/filmplus/tm/ll_XGZ_ZF8kk0R829ipVmRfBppmmqfgV8D-WZUpk9txWAliBm9CYXxtUNN.jpg"group-title="DCU":http-referrer="":http-user-agent="",Batman The Dark Knight
+https://vidrame.pro/vr/get/503b6fee/1080.txt
+#EXTINF:-1 tvg-name="Batman the Dark Rises"tvg-id=""tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/784cd10ce5985eb2f3dac50c87f9806e2f23e28c6a5b82f035b3915a302b109e.jpg"group-title="DCU":http-referrer="":http-user-agent="",Batman the Dark Rises
+https://cdn.dzen.ru/vod/converted-video/vod-content/43/90/82/24/92/04/41/93/48/3/036a4860-6294-47a6-bef7-8d6dd72e169e/kaltura/desc_c1241ebcfabdbf16d5c36b6eb999733f/vUh-4o7UgHR0/vw=1280,vh=720,fps=24.00,vbrt=1126151,abrt=129379,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:-1 tvg-name="Hizli ve Ofkeli"tvg-id=""tvg-logo="https://filmkovasi.tv/wp-content/themes/filmplus/tm/Xmp2ZUQDYmLWmCBgPZhZFUVX8wTfZwSZPDblYPgBG3SX18fdFNpN.jpg"group-title="Hizli ve Ofkeli":http-referrer="":http-user-agent="",Hizli ve Ofkeli
+https://vidrame.pro/vr/get/2ab5b9a3/1080.txt
+#EXTINF:-1 tvg-name="Hizli ve Ofkeli 2"tvg-id=""tvg-logo="https://filmkovasi.tv/wp-content/themes/filmplus/tm/ll/XGZ/ZF8kk0Z9kf3N2GfyXADxC8HlXfUNAZ60VvjlZQR2k0ZfdFNpN.jpg"group-title="Hizli ve Ofkeli":http-referrer="":http-user-agent="",Hizli ve Ofkeli 2
+https://cdn.dzen.ru/vod/converted-video/vod-content/38/79/57/04/71/80/84/27/25/8/619271cd-456e-48a8-84e7-9e94c5b3508d/kaltura/desc_6904e4f25421b9f114bf27081a41812b/vgdvhgl6hME4/vw=1280,vh=546,fps=24.00,vbrt=1602756,abrt=129380,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:-1 tvg-name="Hizli ve Ofkeli 3"tvg-id=""tvg-logo="https://filmkovasi.tv/wp-content/themes/filmplus/tm/Xmp2ZUQDA8jbqGVkvvmk9aNZPGL0mvtXQ0jBGKL0800f1ffdFNpN.jpg"group-title="Hizli ve Ofkeli":http-referrer="":http-user-agent="",Hizli ve Ofkeli 3
+https://cdn.dzen.ru/vod/converted-video/vod-content/23/27/24/23/79/09/34/31/77/7/1a91e7b0-e9be-44ec-af30-ab710bd54976/kaltura/desc_93571659f7d3dee47b255fe795aeb143/vJX7sHKeRTB4/vw=1280,vh=536,fps=24.00,vbrt=1206082,abrt=129380,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:-1 tvg-name="Hizli ve Ofkeli 4"tvg-id=""tvg-logo="https://filmkovasi.tv/wp-content/themes/filmplus/tm/ll/XGZ/ZF8kk0Z8ZGiVcF0b2YFtglfxVweYVYbt0pn/0X091qgUYXxtUNN==.jpg"group-title="Hizli ve Ofkeli":http-referrer="":http-user-agent="",Hizli ve Ofkeli 4
+https://vidrame.pro/vr/get/63bc9250/1080.txt
+#EXTINF:-1 tvg-name="Hizli ve Ofkeli 5"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/tr/7/7d/H%C4%B1zl%C4%B1_ve_%C3%96fkeli_5_%28afi%C5%9F%29.jpg"group-title="Hizli ve Ofkeli":http-referrer="":http-user-agent="",Hizli ve Ofkeli 5
+https://vidrame.pro/vr/get/03790982/1080.txt
+#EXTINF:-1 tvg-name="Hizli ve Ofkeli 6"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/43/5444349.jpg"group-title="Hizli ve Ofkeli":http-referrer="":http-user-agent="",Hizli ve Ofkeli 6
+https://vidrame.pro/vr/get/25624c87/1080.txt
+#EXTINF:-1 tvg-name="Hizli ve Ofkeli 7"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/b8/Furious_7_poster.jpg"group-title="Hizli ve Ofkeli":http-referrer="":http-user-agent="",Hizli ve Ofkeli 7
+https://vidrame.pro/vr/get/66988bb7/1080.txt
+#EXTINF:-1 tvg-name="Hizli ve Ofkeli 8"tvg-id=""tvg-logo="https://image.kanald.com.tr/i/kanald/100/0x0/612cba43ebc8302ed043479d.jpg"group-title="Hizli ve Ofkeli":http-referrer="":http-user-agent="",Hizli ve Ofkeli 8
+https://cdn.dzeninfra.com/vod/converted-video/vod-content/31/37/55/31/97/60/30/01/33/a126719c-272a-434b-9b3b-9fdeca466e67/kaltura/desc_1747a38f9a7459425dce36fad9c71a4d/vKzoJbaeGOhU/vw=1920,vh=804,fps=24.00,vbrt=2013306,abrt=129379,vcodec=avc1.640028,acodec=mp4a.40.2,label=1080p/index-f7-v1-a1.m3u8
+#EXTINF:-1 tvg-name="Hizli ve Ofkeli 9"tvg-id=""tvg-logo="https://images.justwatch.com/poster/264337564/s718/hizli-ve-ofkeli-9.jpg"group-title="Hizli ve Ofkeli":http-referrer="":http-user-agent="",Hizli ve Ofkeli 9
+https://cdn.dzen.ru/vod/converted-video/vod-content/79/81/29/86/71/80/06/90/2/e78cb599-9648-4a7a-822b-40ce7105512a/kaltura/desc_2e7114dc4d2a2758dbe3474f8f552565/vYfqJXE65bHE/vw=1280,vh=536,fps=24.00,vbrt=1289442,abrt=129379,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:-1 tvg-name="Hizli ve Ofkeli 10"tvg-id=""tvg-logo="https://images.justwatch.com/poster/320021290/s166/hizli-ve-ofkeli-10"group-title="Hizli ve Ofkeli":http-referrer="":http-user-agent="",Hizli ve Ofkeli 10
+https://s24.seeshare.pics/mv/EzSmqP5LYwVjZwZhDzk1pzS5YwRjBQOjYxEIDHjd0zxp2Iyp2uupzHhpTywpjs0xi24vr1
+#EXTINF:-1 tvg-name="Harry Potter"tvg-id=""tvg-logo="https://static.posters.cz/image/1300/poster/harry-potter-der-stein-der-weisen-i104639.jpg"group-title="Harry Potter":http-referrer="":http-user-agent="",Harry Potter
+https://cdn.dzen.ru/vod/converted-video/vod-content/48/88/60/47/99/32/84/47/19/9/1d77e788-dddb-4585-861f-f13637a225bc/kaltura/desc_632e960777b6e5fe72f21db7dc66019c/vkXobfS4Q0FE/vw=1280,vh=534,fps=24.00,vbrt=1057640,abrt=129380,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:-1 tvg-name="Harry Potter 2"tvg-id=""tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/fff72385d087e1d4bbcbc45052fbafcd69fa2b4cc92dad9eb4d5297d06e0c0af._SX780_.jpg"group-title="Harry Potter":http-referrer="":http-user-agent="",Harry Potter 2
+https://cdn.dzen.ru/vod/converted-video/vod-content/43/39/86/92/16/29/45/98/73/b3ebbf1b-0440-4f5a-ab4f-1665758c2c92/kaltura/desc_86665736235ae6f9572af03ff8ab37ce/vbsc2-Du6BWE/vw=1280,vh=534,fps=24.00,vbrt=986752,abrt=129380,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:-1 tvg-name="Harry Potter 3"tvg-id=""tvg-logo="https://play-lh.googleusercontent.com/lBQTnSIfJAsUilF4SJM-YFsfe-xEsXUcnhpQxurGkj4pWZT9jIsHLqa7XPN3tRjLoGOQCF3nx1FD8dGPtl8"group-title="Harry Potter":http-referrer="":http-user-agent="",Harry Potter 3
+https://cdn.dzen.ru/vod/converted-video/vod-content/30/27/22/51/47/13/14/43/59/8/93881b7a-359c-40a2-ae0f-5a1160603917/kaltura/desc_6f31f1be4ef33899a279caf44b013453/vsY5Ad0y7aFU/vw=1280,vh=534,fps=24.00,vbrt=1364999,abrt=129379,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:-1 tvg-name="Harry Potter 4"tvg-id=""tvg-logo="https://cdn.culture.ru/images/a3e4e9f4-5fbd-5269-8495-4e5103cd2c15"group-title="harry Potter":http-referrer="":http-user-agent="",Harry Potter 4 (Almanca)
+https://delivery-node-50kcbgjki0zzkzns.voe-network.net/engine/hls2/01/11997/mxuuf7d4ysnu_,l,.urlset/index-v1-a1.m3u8?t=b7-NNtYO7OlQMLPvi80DMoVLFUG7ALUQefNNT0JtdRE&s=1736004531&e=14400&f=59985648&node=emFhWynNOGuv3pisMCjfukJkzsCosm5hJLraAZ+l22o=&i=0.1&sp=2500&asn=3209&q=l
+#EXTINF:-1 tvg-name="Harry Potter 4"tvg-id=""tvg-logo="https://cdn.culture.ru/images/a3e4e9f4-5fbd-5269-8495-4e5103cd2c15"group-title="harry Potter":http-referrer="":http-user-agent="",Harry Potter 4
+http://tv390.dynu.net:8080/movie/umran7663/RBXVBschnJ8M/431528.mkv
+#EXTINF:-1 tvg-name="Harry Potter 5"tvg-id=""tvg-logo="https://images.justwatch.com/poster/264875049/s718/harry-potter-ve-zumruduanka-yoldasligi.jpg"group-title="Harry Potter":http-referrer="":http-user-agent="",Harry Potter 5
+https://s24.imageshub.pro/mc/FTSlpaxhHT90qTIlYwHhZwNjAl5PGSIFDIxhZGN4ZUNhESIOGNd0zxnJ1uM2ImnUIvYaOlojs0xi24vr1
+#EXTINF:-1 tvg-name="Harry Potter 6"tvg-id=""tvg-logo="https://www.justwatch.com/images/poster/264900088/s718/harry-potter-ve-melez-prens.jpg"group-title="Harry Potter":http-referrer="":http-user-agent="",Harry Potter 6
+https://cdn.dzen.ru/vod/converted-video/vod-content/89/00/78/12/41/71/20/10/66/6/e9d87728-f42c-4fd4-b2eb-4ec8bc98b5c5/kaltura/desc_f4f5beb7764717c39926764687cc11b5/v2JsATmu7rHM/vw=1280,vh=534,fps=24.00,vbrt=620677,abrt=129380,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:-1 tvg-name="Harry Potter 7"tvg-id=""tvg-logo="https://www.justwatch.com/images/poster/264900069/s718/harry-potter-ve-olum-yadigarlari-bolum-1.jpg"group-title="Harry Potter":http-referrer="":http-user-agent="",Harry Potter 7 ( Almanca)
+https://be7713.rcr82.waw05.cdn255.com/hls2/01/07084/hupxohgkbcg4_x/index-v1-a1.m3u8?t=UgFPtBlfW81ZIO0-bP1BCT4OrkQb--L90aQMwGvcCgM&s=1736004962&e=10800&f=35424117&srv=23&asn=3209&sp=5500&p=
+#EXTINF:-1 tvg-name="Harry Potter 7"tvg-id=""tvg-logo="https://www.justwatch.com/images/poster/264900069/s718/harry-potter-ve-olum-yadigarlari-bolum-1.jpg"group-title="Harry Potter":http-referrer="":http-user-agent="",Harry Potter 7
+https://cdn.prectv2.lat/hls/5/ax61/mp4/b10cd9de3ec26655470bcfa5ccc0bc39.mp4/index.m3u8?token=7gT_dcoNvn4NP3ZxO02QBQ&tms=1731874943
+#EXTINF:-1 tvg-name="Harry Potter 7"tvg-id=""tvg-logo="https://www.justwatch.com/images/poster/264900069/s718/harry-potter-ve-olum-yadigarlari-bolum-1.jpg"group-title="Harry Potter":http-referrer="":http-user-agent="",Harry Potter 7
+https://mp4.prectv2.lat/5/ax61/mp4/b10cd9de3ec26655470bcfa5ccc0bc39.mp4?token=7gT_dcoNvn4NP3ZxO02QBQ&tms=1731874943
+#EXTINF:-1 tvg-name="Harry Potter 8"tvg-id=""tvg-logo="https://image.kanald.com.tr/i/kanald/100/0x0/5f526e5e933ccb22709ecf9d.jpg"group-title="Harry Potter":http-referrer="":http-user-agent="",Harry Potter 8 (Almanca)
+https://be7713.rcr82.waw05.cdn255.com/hls2/01/07084/eu1mqrcsdtbj_x/index-v1-a1.m3u8?t=KviduXsvMb7XPjA8vMEzq5nNipx6uyRs9PsuN1ujhQc&s=1736005169&e=10800&f=35424146&srv=04&asn=3209&sp=5500&p=
+#EXTINF:-1 tvg-name="Harry Potter 8"tvg-id=""tvg-logo="https://image.kanald.com.tr/i/kanald/100/0x0/5f526e5e933ccb22709ecf9d.jpg"group-title="Harry Potter":http-referrer="":http-user-agent="",Harry Potter 8
+http://ww.crzyyng.xyz:8080/movie/kemalataso12141/kSYGPQmM/281854.mkv
+#EXTINF:-1 tvg-name="Venom"tvg-id=""tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/4-venom-hd-film-izle.webp"group-title="Film":http-referrer="":http-user-agent="",Venom
+https://vidrame.pro/vr/get/2e79093d/1080.txt
+#EXTINF:-1 tvg-name="Venom 2"tvg-id=""tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/venom-let-there-be-carnage.webp"group-title="Film":http-referrer="":http-user-agent="",Venom 2
+https://a2.vidload.lol/169/1080p.m3u8
+#EXTINF:-1 tvg-name="Gladyator"tvg-id=""tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/gladyator-izle-hd.webp"group-title="Film":http-referrer="":http-user-agent="",Gladyator
+https://a3.vidload.lol/1322/1080p.m3u8
+#EXTINF:-1 tvg-name="Deadpool"tvg-id=""tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/1-deadpool-1-hd-film-izle.webp"group-title="Film":http-referrer="":http-user-agent="",Deadpool
+https://a2.vidload.lol/176/1080p.m3u8
+#EXTINF:-1 tvg-name="Deadpool 2"tvg-id=""tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/2-hd-film-deadpool-2-super-duper-cut-izle.webp"group-title="Film":http-referrer="":http-user-agent="",Deadpool 2
+https://vidrame.pro/vr/get/b06bb918/1080.txt
+#EXTINF:-1 tvg-name="Deadpool 3"tvg-id=""tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/deadpool-3.webp"group-title="Film":http-referrer="":http-user-agent="",Deadpool 3
+https://a2.vidload.lol/3724/1080p.m3u8
 
 
 # * » Rahatlatıcı+18 « * #
