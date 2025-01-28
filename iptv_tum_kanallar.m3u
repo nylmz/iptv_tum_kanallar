@@ -73,7 +73,7 @@ https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
 
 # * » Belgesel « * #
 #EXTINF:-1 tvg-name="TRT Belgesel"tvg-id="Belgesel_TRT"tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/8114410.png"group-title="Belgesel":http-referrer="":http-user-agent="",TRT Belgesel
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/97923
+https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-name="TLC"tvg-id="Belgesel_TLC"tvg-logo="https://img-tlctv.mncdn.com/logo.png"group-title="Belgesel":http-referrer="":http-user-agent="",TLC
 https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
@@ -81,105 +81,55 @@ https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
 #EXTINF:-1 tvg-name="DMax"tvg-id="Belgesel_DMax"tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/604a04ef866ac32574736ef6"group-title="Belgesel":http-referrer="":http-user-agent="",DMax
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 
-#EXTINF:-1 tvg-name="National Geographic"tvg-id="natgeo.tr"tvg-logo="https://www.bresser.de/media/e3/af/9c/1724938192/banner-category-brands-national-geographic_530x320px_BRESSER_v082024a.webp"group-title="Belgesel":http-referrer="":http-user-agent="",National Geographic
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/17121
+#EXTINF:-1 tvg-name="TGRT Belgesel"tvg-id="24.tr"tvg-logo="https://www.tgrtbelgesel.com.tr/wp-content/uploads/2021/08/TGRT_Belgesel_Logo.png"group-title="Belgesel":http-referrer="":http-user-agent="",TGRT Belgesel
+https://tgn.bozztv.com/dvrfl05/gin-tgrtbelgesel/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Nat Geo HD TR"tvg-id="" tvg-logo=""group-title="Belgesel":http-referrer="":http-user-agent="",Nat Geo HD TR
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432433
 
 #EXTINF:-1 tvg-name="Nat Geo Wild"tvg-id="natgeowild.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ--wfW2_Q5bKwwwdDO2MA5f5MLd7mGhAoFvw&s"group-title="Belgesel":http-referrer="":http-user-agent="",Nat Geo Wild
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/486
+https://tv.prectv5.sbs/live/natgeowild.m3u8
 
 #EXTINF:-1 tvg-name="History Channel "tvg-id="viasathistory.tr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg"group-title="Belgesel":http-referrer="":http-user-agent="",History Channel
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/362973
+https://tv.prectv5.sbs/live/history.m3u8
+
+#EXTINF:-1 tvg-name="Viasat History "tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzh-5cvBD8vZPDAKOXUu0Vm9prOACcibyMFw&s"group-title="Belgesel":http-referrer="":http-user-agent="",Viasat History
+https://tv.prectv5.sbs/live/viasatexplore.m3u8
 
 #EXTINF:-1 tvg-name="BBC Earth"tvg-id="bbcearth.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNXOrjX8auopIAAKFRHx1Y-KLi8Ync-CWUfw&s"group-title="Belgesel":http-referrer="":http-user-agent="",BBC Earth
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/110608
+https://tv.prectv5.sbs/live/bbc.m3u8
 
-#EXTINF:-1 tvg-name="TR: DISCOVERY CHANNEL HD+"tvg-id="discoverychannel.tr"tvg-logo="https://begenal.shop//resim/galeri_MTY0M_419.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR: DISCOVERY CHANNEL HD+
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/488
+#EXTINF:-1 tvg-name="TR | beIN Gurmeⓧ FHD"tvg-id="" tvg-logo="http://platinumxmedia.xyz:8080/images/17a24177c9d3b9f82eb8fc9d6e968123.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR | beIN Gurmeⓧ FHD
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432169
 
-#EXTINF:-1 tvg-name="TR: DISCOVERY CHANNEL HD"tvg-id=""tvg-logo="https://begenal.shop//resim/galeri_MTY0M_424.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR: DISCOVERY CHANNEL HD
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/110611
+#EXTINF:-1 tvg-name="Bein Iz"tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB16OQGYHvmbbeR7ojxAn2dBMRRG6YnMt0ww&s"group-title="Belgesel":http-referrer="https://trgoals1077.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",Bein Iz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1077.xyz/
 
-#EXTINF:-1 tvg-name="TR: DISCOVERY SCIENCE HD+"tvg-id=""tvg-logo="https://begenal.shop//resim/galeri_MTY0M_417.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR: DISCOVERY SCIENCE HD+
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/489
+https://one.fbf1eb5f21ff67.shop/live/beiniz/playlist.m3u8?live=true
+#EXTINF:-1 tvg-name="TR | Animal Planetⓧ SD"tvg-id="" tvg-logo="http://platinumxmedia.xyz:8080/images/b73b36a238c8cf4de7a681241773d20c.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR | Animal Planetⓧ SD
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432152
 
-#EXTINF:-1 tvg-name="TR: DISCOVERY SCIENCE HD"tvg-id=""tvg-logo="https://begenal.shop//resim/galeri_MTY0M_423.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR: DISCOVERY SCIENCE HD
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/110612
+#EXTINF:-1 tvg-name="TR | Da Vinci Learningⓧ HD"tvg-id="" tvg-logo="http://platinumxmedia.xyz:8080/images/e41840efb76abde867f0b2e3b8c55bd4.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR | Da Vinci Learningⓧ HD
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432228
 
-#EXTINF:-1 tvg-name="TR: DISCOVERY ID"tvg-id="24.tr"tvg-logo="https://begenal.shop//resim/galeri_MTY0M_413.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR: DISCOVERY ID
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/490
+#EXTINF:-1 tvg-name="TR | Discovery Channelⓧ HD"tvg-id="" tvg-logo="http://platinumxmedia.xyz:8080/images/813513ce030768aab17b38d54a047587.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR | Discovery Channelⓧ HD
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432233
 
-#EXTINF:-1 tvg-name="TR: DISCOVERY IDX HD"tvg-id="discoverychannel.tr"tvg-logo="https://begenal.shop//resim/galeri_MTY0M_414.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR: DISCOVERY IDX HD
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/496
+#EXTINF:-1 tvg-name="TR | Discovery IDⓧ FHD"tvg-id="" tvg-logo="http://platinumxmedia.xyz:8080/images/c252334e2e045ea52295de41cbefa2b7.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR | Discovery IDⓧ FHD
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432234
 
-#EXTINF:-1 tvg-name="TR: bieN GuRME HD+"tvg-id="beingurme.tr"tvg-logo="https://begenal.shop//resim/galeri_MTY0M_395.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR: bieN GuRME HD+
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/493
+#EXTINF:-1 tvg-name="TR | DocuBoxⓧ FHD"tvg-id="" tvg-logo="http://platinumxmedia.xyz:8080/images/afdf2898c0d833e0a26f3f063b2abcbf.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR | DocuBoxⓧ FHD
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432246
 
-#EXTINF:-1 tvg-name="TR: bieN IZ HD+"tvg-id="beiniz.tr"tvg-logo="https://begenal.shop//resim/galeri_MTY3N_25.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR: bieN IZ HD+
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/18563
+#EXTINF:-1 tvg-name="TR | Fashion Midnightⓧ HD"tvg-id="" tvg-logo="http://platinumxmedia.xyz:8080/images/49a709e3d0ced8b1a6a0f5091cf6e231.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR | Fashion Midnightⓧ HD
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432307
 
-#EXTINF:-1 tvg-name="TR: ViASAT HiSTORY HD+"tvg-id=""tvg-logo="https://begenal.shop//resim/galeri_MTY0M_190.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR: ViASAT HiSTORY HD+
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/494
+#EXTINF:-1 tvg-name="TR | Fashion TVⓧ FHD"tvg-id="" tvg-logo="http://platinumxmedia.xyz:8080/images/49a709e3d0ced8b1a6a0f5091cf6e231.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR | Fashion TVⓧ FHD
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432308
 
-#EXTINF:-1 tvg-name="TR: ViASAT HiSTORY HD"tvg-id=""tvg-logo="https://begenal.shop//resim/galeri_MTY0M_405.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR: ViASAT HiSTORY HD
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/110614
-
-#EXTINF:-1 tvg-name="TR: YABAN TV HD"tvg-id="yabantv.tr"tvg-logo="https://begenal.shop//resim/galeri_MTY0M_399.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR: YABAN TV HD
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/484
-
-#EXTINF:-1 tvg-name="TR: LOVE NATURE HD"tvg-id=""tvg-logo="https://begenal.shop//resim/galeri_MTY3N_24.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR: LOVE NATURE HD
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/67567
-
-#EXTINF:-1 tvg-name="TR: LOVE NATURE HD+"tvg-id=""tvg-logo="https://begenal.shop//resim/galeri_MTY0M_392.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR: LOVE NATURE HD+
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/110620
-
-#EXTINF:-1 tvg-name="TR: CIFTCI TV HD+"tvg-id="animalplanet.tr"tvg-logo="https://begenal.shop//resim/galeri_MTY3N_26.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR: CIFTCI TV HD+
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/498
-
-#EXTINF:-1 tvg-name="TR: Iz Bırakanlar"tvg-id=""tvg-logo="https://begenal.shop//resim/galeri_MTY3N_40.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR: Iz Bırakanlar
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/434516
-
-#EXTINF:-1 tvg-name="TR: Savasın Efsaneleri"tvg-id=""tvg-logo="https://begenal.shop//resim/galeri_MTY3N_41.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR: Savasın Efsaneleri
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/434515
-
-#EXTINF:-1 tvg-name="TR: Antik Medeniyetler"tvg-id=""tvg-logo="https://begenal.shop//resim/galeri_MTY3N_42.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR: Antik Medeniyetler
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/434514
-
-#EXTINF:-1 tvg-name="TR: Bermuda Şeytan Üçgeni"tvg-id=""tvg-logo="https://begenal.shop//resim/galeri_MTY3N_43.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR: Bermuda Şeytan Üçgeni
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/434513
-
-#EXTINF:-1 tvg-name="TR: Uzay Bilimi"tvg-id=""tvg-logo="https://begenal.shop//resim/galeri_MTY3N_44.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR: Uzay Bilimi
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/434512
-
-#EXTINF:-1 tvg-name="TR: Galaktik Düzen"tvg-id=""tvg-logo="https://begenal.shop//resim/galeri_MTY3N_45.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR: Galaktik Düzen
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/434511
-
-#EXTINF:-1 tvg-name="TR: Evrenin Gizemi"tvg-id=""tvg-logo="https://begenal.shop//resim/galeri_MTY3N_46.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR: Evrenin Gizemi
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/434510
-
-#EXTINF:-1 tvg-name="TR: Dinazorlar Devri"tvg-id=""tvg-logo="https://begenal.shop//resim/galeri_MTY3N_47.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR: Dinazorlar Devri
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/434509
-
-#EXTINF:-1 tvg-name="TR: Shark TV"tvg-id=""tvg-logo="https://begenal.shop//resim/galeri_MTY3N_48.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR: Shark TV
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/434508
-
-#EXTINF:-1 tvg-name="TR: Okyanusun Derinlikleri"tvg-id=""tvg-logo="https://begenal.shop//resim/galeri_MTY3N_49.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR: Okyanusun Derinlikleri
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/434507
-
-#EXTINF:-1 tvg-name="TR: Vahsi Serüvenler"tvg-id=""tvg-logo="https://begenal.shop//resim/galeri_MTY3N_50.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR: Vahsi Serüvenler
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/434506
-
-#EXTINF:-1 tvg-name="TR: Vahsi Doğa"tvg-id=""tvg-logo="https://begenal.shop//resim/galeri_MTY3N_51.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR: Vahsi Doğa
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/434505
-
-#EXTINF:-1 tvg-name="TR: Hayvanlar Alemi"tvg-id=""tvg-logo="https://begenal.shop//resim/galeri_MTY3N_52.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR: Hayvanlar Alemi
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/434504
-
-#EXTINF:-1 tvg-name="TR: Doğa Harikaları"tvg-id=""tvg-logo="https://begenal.shop//resim/galeri_MTY3N_53.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR: Doğa Harikaları
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/434503
-
-#EXTINF:-1 tvg-name="TR: Dünyamız"tvg-id=""tvg-logo="https://begenal.shop//resim/galeri_MTY3N_55.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR: Dünyamız
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/434501
-
+#EXTINF:-1 tvg-name="TR | Love Natureⓧ HD"tvg-id="" tvg-logo="http://platinumxmedia.xyz:8080/images/32167cf1f862054f6c6c323d38a1f2f2.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR | Love Natureⓧ HD
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432398
 
 # * » Genel « * #
 #EXTINF:-1 tvg-name="Star TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_StarTV" tvg-logo="https://tvakisi.com/public/resimler/kanallar/star-tv-886.webp" group-title="Genel",Star TV
@@ -238,394 +188,78 @@ https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr
 
 
 # * » Sinema « * #
-#EXTINF:-1 tvg-name="TR: MOVİESMART TURK HD+"tvg-id="moviesmartturk.tr"tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/moviesmart-turk-tr.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: MOVİESMART TURK HD+
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/349
-
-#EXTINF:-1 tvg-name="TR: SINEMA TV HD+"tvg-id="sinematvhd.tr"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-tv-tr.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: SINEMA TV HD+
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/358
-
-#EXTINF:-1 tvg-name="TR: SINEMA TV 2 HD+"tvg-id="sinema2hd.tr"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-2-tr.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: SINEMA TV 2 HD+
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/359
-
-#EXTINF:-1 tvg-name="TR: SINEMA TV ACTION HD+"tvg-id="sinemaaksiyonhd.tr"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-aksiyon-tr.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: SINEMA TV ACTION HD+
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/360
-
-#EXTINF:-1 tvg-name="TR: SINEMA TV AILE HD+"tvg-id="sinemaailehd.tr"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-aile-tr.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: SINEMA TV AILE HD+
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/362
-
-#EXTINF:-1 tvg-name="TR: SINEMA TV AILE 2 HD+"tvg-id=""tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-aile-2-tr.png"group-title="Sinema ":http-referrer="":http-user-agent="",TR: SINEMA TV AILE 2 HD+
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/363
-
-#EXTINF:-1 tvg-name="TR: SINEMA TV KOMEDI HD+"tvg-id="sinemakomedihd.tr"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-komedi-tr.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: SINEMA TV KOMEDI HD+
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/364
-
-#EXTINF:-1 tvg-name="TR: SINEMA TV YERLI  HD+"tvg-id="sinemayerli.tr"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-yerli-tr.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: SINEMA TV YERLI  HD+
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/366
-
-#EXTINF:-1 tvg-name="TR: SINEMA TV YERLI 2 HD+"tvg-id="sinemayerli2.tr"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-yerli-2-tr.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: SINEMA TV YERLI 2 HD+
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/367
-
-#EXTINF:-1 tvg-name="TR: SINEMA TV 1001 HD+"tvg-id="sinema1001hd.tr"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-1001-tr.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: SINEMA TV 1001 HD+
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/368
-
-#EXTINF:-1 tvg-name="TR: SINEMA TV 1002 HD+"tvg-id="sinema1002.tr"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-1002-tr.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: SINEMA TV 1002 HD+
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/369
-
-#EXTINF:-1 tvg-name="TR: MOVIESMART COCUK HD+"tvg-id="smartcocuk.tr"tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: MOVIESMART COCUK HD+
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/370
-
-#EXTINF:-1 tvg-name="TR: DİZİ SMART PREMIUM HD+"tvg-id="dizismartpremium.tr"tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dizismart-premium-tr.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: DİZİ SMART PREMIUM HD+
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/351
-
-#EXTINF:-1 tvg-name="TR: DIZI SMART MAX HD+"tvg-id="dizismartmax.tr"tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dizismart-max-tr.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: DIZI SMART MAX HD+
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/352
-
-#EXTINF:-1 tvg-name="TR: DIZI SMART MAX HD"tvg-id="dizismartmax.tr"tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dizismart-max-tr.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: DIZI SMART MAX HD
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/332
-
-#EXTINF:-1 tvg-name="TR: FX HD+"tvg-id="fxnetwork.tr"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fx_us.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: FX HD+
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/354
-
-#EXTINF:-1 tvg-name="TR: FOX CRIME HD+"tvg-id="foxcrime.tr"tvg-logo="https://upload.wikimedia.org/wikipedia/tr/9/97/Foxcrimehd.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: FOX CRIME HD+
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/356
-
-#EXTINF:-1 tvg-name="TR: b**N B0X 0FFİCE 1 HD+"tvg-id="beinboxoffice1.tr"tvg-logo="https://begenal.shop//resim/galeri_MTY3N_93.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: b**N B0X 0FFİCE 1 HD+
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/362968
-
-#EXTINF:-1 tvg-name="TR: b**N B0X 0FFİCE 2 HD+"tvg-id="beinboxoffice2.tr"tvg-logo="https://begenal.shop//resim/galeri_MTY3N_92.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: b**N B0X 0FFİCE 2 HD+
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/362969
-
-#EXTINF:-1 tvg-name="TR: b**N B0X 0FFİCE 3 HD+"tvg-id="beinboxoffice3.tr"tvg-logo="https://begenal.shop//resim/galeri_MTY3N_91.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: b**N B0X 0FFİCE 3 HD+
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/362970
-
-#EXTINF:-1 tvg-name="TR: b**N M0VIES P*EMIER HD+"tvg-id="beinmoviespremier.tr"tvg-logo="https://begenal.shop//resim/galeri_MTY3N_86.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: b**N M0VIES P*EMIER HD+
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/312
-
-#EXTINF:-1 tvg-name="TR: b**N MOVIES P*EMIERE 2 HD+"tvg-id="beinmoviespremiere2.tr"tvg-logo="https://begenal.shop//resim/galeri_MTY3N_84.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: b**N MOVIES P*EMIERE 2 HD+
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/317
-
-#EXTINF:-1 tvg-name="TR: b**N M0VIES STARS HD+"tvg-id="beinmoviesstars.tr"tvg-logo="https://begenal.shop//resim/galeri_MTY3N_82.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: b**N M0VIES STARS HD+
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/319
-
-#EXTINF:-1 tvg-name="TR: b**N M0VIES TURK HD+"tvg-id="beinmoviesturk.tr"tvg-logo="https://begenal.shop//resim/galeri_MTY3N_85.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: b**N M0VIES TURK HD+
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/316
-
-#EXTINF:-1 tvg-name="TR: b**N S*RIES 1 HD+"tvg-id="beinseriescomedy.tr"tvg-logo="https://begenal.shop//resim/galeri_MTY3N_87.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: b**N S*RIES 1 HD+
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/309
-
-#EXTINF:-1 tvg-name="TR: b**N S*RIES 2 HD+"tvg-id="beinseriesscifi.tr"tvg-logo="https://begenal.shop//resim/galeri_MTY3N_88.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: b**N S*RIES 2 HD+
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/308
-
-#EXTINF:-1 tvg-name="TR: b**N MOVIES FAMILY HD+"tvg-id="360.tr"tvg-logo="https://begenal.shop//resim/galeri_MTY3N_81.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: b**N MOVIES FAMILY HD+
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/106621
-
-#EXTINF:-1 tvg-name="TR: b**N MOVIES ACTION HD+"tvg-id="360.tr"tvg-logo="https://begenal.shop//resim/galeri_MTY3N_80.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: b**N MOVIES ACTION HD+
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/106622
-
-#EXTINF:-1 tvg-name="TR: FILMAX HIZLI VE OFKELI"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: FILMAX HIZLI VE OFKELI
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/511494
-#EXTINF:-1 tvg-name="TR: Film BOX Yerli"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Film BOX Yerli
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/436409
-#EXTINF:-1 tvg-name="TR: Film BOX Sci-fi"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Film BOX Sci-fi
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/436408
-#EXTINF:-1 tvg-name="TR: Film BOX Dram"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Film BOX Dram
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/436407
-#EXTINF:-1 tvg-name="TR: Film BOX Comedy"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Film BOX Comedy
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/436406
-#EXTINF:-1 tvg-name="TR: Film BOX Family"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Film BOX Family
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/436404
-#EXTINF:-1 tvg-name="TR: Film BOX Action"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Film BOX Action
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/436402
-#EXTINF:-1 tvg-name="TR: Vizyon HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Vizyon HD
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435906
-#EXTINF:-1 tvg-name="TR: Vizyon 2 HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Vizyon 2 HD
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435907
-#EXTINF:-1 tvg-name="TR: Yerli Vizyon 1 HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Yerli Vizyon 1 HD
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435905
-#EXTINF:-1 tvg-name="TR: Yerli 1 HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Yerli 1 HD
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435908
-#EXTINF:-1 tvg-name="TR: Yerli 2 HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Yerli 2 HD
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435909
-#EXTINF:-1 tvg-name="TR: Yerli 3 HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Yerli 3 HD
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435910
-#EXTINF:-1 tvg-name="TR: Premier 1 HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Premier 1 HD
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435937
-#EXTINF:-1 tvg-name="TR: Premier 2 HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Premier 2 HD
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435938
-#EXTINF:-1 tvg-name="TR: Premier 3 HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Premier 3 HD
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435939
-#EXTINF:-1 tvg-name="TR: Premier 4 HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Premier 4 HD
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435940
-#EXTINF:-1 tvg-name="TR: Premier 5 HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Premier 5 HD
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435941
-#EXTINF:-1 tvg-name="TR: Loca 2 HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Loca 2 HD
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435943
-#EXTINF:-1 tvg-name="TR: Loca 4 HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Loca 4 HD
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435945
-#EXTINF:-1 tvg-name="TR: Loca 5 HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Loca 5 HD
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435946
-#EXTINF:-1 tvg-name="TR: Aksiyon HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Aksiyon HD
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435911
-#EXTINF:-1 tvg-name="TR: Aksiyon 2 HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Aksiyon 2 HD
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435912
-#EXTINF:-1 tvg-name="TR: Nostalji  HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Nostalji  HD
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435936
-#EXTINF:-1 tvg-name="TR: Savaş HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Savaş HD
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435935
-#EXTINF:-1 tvg-name="TR: Western 2 HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Western 2 HD
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435934
-#EXTINF:-1 tvg-name="TR: Uzakdoğu HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Uzakdoğu HD
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435931
-#EXTINF:-1 tvg-name="TR: Uzakdoğu 2 HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Uzakdoğu 2 HD
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435932
-#EXTINF:-1 tvg-name="TR: Dram 2 HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Dram 2 HD
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435930
-#EXTINF:-1 tvg-name="TR: Romantik HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Romantik HD
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435926
-#EXTINF:-1 tvg-name="TR: Romantik 2 HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Romantik 2 HD
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435927
-#EXTINF:-1 tvg-name="TR: Komedi HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Komedi HD
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435924
-#EXTINF:-1 tvg-name="TR: Netflix HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Netflix HD
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435922
-#EXTINF:-1 tvg-name="TR: Netflix 2 HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Netflix 2 HD
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435923
-#EXTINF:-1 tvg-name="TR: Macera HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Macera HD
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435920
-#EXTINF:-1 tvg-name="TR: Macera 2 HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Macera 2 HD
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435921
-#EXTINF:-1 tvg-name="TR: Gerilim HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Gerilim HD
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435919
-#EXTINF:-1 tvg-name="TR: Korku HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Korku HD
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435917
-#EXTINF:-1 tvg-name="TR: Korku 2  HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Korku 2  HD
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435918
-#EXTINF:-1 tvg-name="TR: Bilimkurgu HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Bilimkurgu HD
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435915
-#EXTINF:-1 tvg-name="TR: Bilimkurgu 2 HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Bilimkurgu 2 HD
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435916
-#EXTINF:-1 tvg-name="TR: Fantasy HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Fantasy HD
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435913
-#EXTINF:-1 tvg-name="TR: Fantasy 2 HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Fantasy 2 HD
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435914
-#EXTINF:-1 tvg-name="TR: Animasyon HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Animasyon HD
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435947
-#EXTINF:-1 tvg-name="TR: Fix Cinema Yerli"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Fix Cinema Yerli
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/436440
-#EXTINF:-1 tvg-name="TR: Fix Cinema Action"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Fix Cinema Action
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/436432
-#EXTINF:-1 tvg-name="TR: Fix Cinema Macera"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Fix Cinema Macera
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/436438
-#EXTINF:-1 tvg-name="TR: Fix Cinema Korku"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Fix Cinema Korku
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/436437
-#EXTINF:-1 tvg-name="TR: Fix Cinema Fantastic"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Fix Cinema Fantastic
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/436436
-#EXTINF:-1 tvg-name="TR: Fix Cinema Comedy"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Fix Cinema Comedy
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/436434
-#EXTINF:-1 tvg-name="TR: Fix Cinema Bilimkurgu"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Fix Cinema Bilimkurgu
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/436433
-#EXTINF:-1 tvg-name="TR: Nova Cinema 1"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Nova Cinema 1
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/436426
-#EXTINF:-1 tvg-name="TR: Nova Cinema 5"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Nova Cinema 5
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/436430
-#EXTINF:-1 tvg-name="TR: GHOST BUSTERS"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: GHOST BUSTERS
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435868
-#EXTINF:-1 tvg-name="TR: JUMANJI"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: JUMANJI
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435867
-#EXTINF:-1 tvg-name="TR: HUNGER GAMES"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: HUNGER GAMES
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435864
-#EXTINF:-1 tvg-name="TR: VENOM"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: VENOM
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435860
-#EXTINF:-1 tvg-name="TR: FANTASTIC FOUR"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: FANTASTIC FOUR
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435859
-#EXTINF:-1 tvg-name="TR: IRON MAN"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: IRON MAN
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435858
-#EXTINF:-1 tvg-name="TR: ANT-MAN"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: ANT-MAN
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435855
-#EXTINF:-1 tvg-name="TR: GUARDIAN of GALAXY"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: GUARDIAN of GALAXY
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435854
-#EXTINF:-1 tvg-name="TR: DEADPOOL"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: DEADPOOL
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435851
-#EXTINF:-1 tvg-name="TR: X-MEN"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: X-MEN
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435850
-#EXTINF:-1 tvg-name="TR: JURASSIC WORLD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: JURASSIC WORLD
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435845
-#EXTINF:-1 tvg-name="TR: TRANSFORMERS"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: TRANSFORMERS
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435843
-#EXTINF:-1 tvg-name="TR: TERMINATOR"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: TERMINATOR
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435842
-#EXTINF:-1 tvg-name="TR: BATMAN"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: BATMAN
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435841
-#EXTINF:-1 tvg-name="TR: MATRIX"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: MATRIX
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435839
-#EXTINF:-1 tvg-name="TR: BLADE"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: BLADE
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435838
-#EXTINF:-1 tvg-name="TR: Scarlett Johansson"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Scarlett Johansson
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435836
-#EXTINF:-1 tvg-name="TR: Ryan Reynolds"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Ryan Reynolds
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435835
-#EXTINF:-1 tvg-name="TR: Matthew McConaughey"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Matthew McConaughey
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435833
-#EXTINF:-1 tvg-name="TR: Mark Wahlberg"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Mark Wahlberg
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435832
-#EXTINF:-1 tvg-name="TR: Leonardo DiCaprio"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Leonardo DiCaprio
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435831
-#EXTINF:-1 tvg-name="TR: Keanu Reeves"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Keanu Reeves
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435830
-#EXTINF:-1 tvg-name="TR: Johnny Depp"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Johnny Depp
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435829
-#EXTINF:-1 tvg-name="TR: Dwayne Johnson"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Dwayne Johnson
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435827
-#EXTINF:-1 tvg-name="TR: Christian Bale"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Christian Bale
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435826
-#EXTINF:-1 tvg-name="TR: Bruce  Wills"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Bruce  Wills
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435824
-#EXTINF:-1 tvg-name="TR: Brad Pitt"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Brad Pitt
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435823
-#EXTINF:-1 tvg-name="TR: Arnold Schwarzenegger"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Arnold Schwarzenegger
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435822
-#EXTINF:-1 tvg-name="TR: Angelina Jolie"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Angelina Jolie
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/435821
-#EXTINF:-1 tvg-name="TR: FILMAX Netflix HD"tvg-id=""tvg-logo="https://logodix.com/logo/1315967.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: FILMAX Netflix HD
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/185254
-#EXTINF:-1 tvg-name="TR: FILMAX DISNEY"tvg-id=""tvg-logo="https://logodix.com/logo/1315967.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: FILMAX DISNEY
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/259605
-#EXTINF:-1 tvg-name="TR: FILMAX AMAZON PRIME"tvg-id=""tvg-logo="https://logodix.com/logo/1315967.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: FILMAX AMAZON PRIME
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/259606
-#EXTINF:-1 tvg-name="TR: FILMAX MARVEL"tvg-id=""tvg-logo="https://logodix.com/logo/1315967.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: FILMAX MARVEL
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/340368
-#EXTINF:-1 tvg-name="TR: FILMAX GOLD HD"tvg-id=""tvg-logo="https://logodix.com/logo/1315967.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: FILMAX GOLD HD
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/389
-#EXTINF:-1 tvg-name="TR: FILMAX Bilim Kurgu"tvg-id=""tvg-logo="https://logodix.com/logo/1315967.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: FILMAX Bilim Kurgu
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/214621
-#EXTINF:-1 tvg-name="TR: FILMAX Action HD"tvg-id=""tvg-logo="https://logodix.com/logo/1315967.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: FILMAX Action HD
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/385
-#EXTINF:-1 tvg-name="TR:  FILMAX Türk HD"tvg-id=""tvg-logo="https://logodix.com/logo/1315967.png"group-title="Sinema":http-referrer="":http-user-agent="",TR:  FILMAX Türk HD
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/387
-#EXTINF:-1 tvg-name="TR: FILMAX ANIMASYON"tvg-id=""tvg-logo="https://logodix.com/logo/1315967.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: FILMAX ANIMASYON
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/219433
-#EXTINF:-1 tvg-name="TR: FILMAX Aile"tvg-id=""tvg-logo="https://logodix.com/logo/1315967.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: FILMAX Aile
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/214620
-#EXTINF:-1 tvg-name="TR:  FILMAX FANTASTIK HD"tvg-id=""tvg-logo="https://logodix.com/logo/1315967.png"group-title="Sinema":http-referrer="":http-user-agent="",TR:  FILMAX FANTASTIK HD
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/382
-#EXTINF:-1 tvg-name="TR: FILMAX Korku HD"tvg-id=""tvg-logo="https://logodix.com/logo/1315967.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: FILMAX Korku HD
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/383
-#EXTINF:-1 tvg-name="TR:  FILMAX COMEDY HD"tvg-id=""tvg-logo="https://logodix.com/logo/1315967.png"group-title="Sinema":http-referrer="":http-user-agent="",TR:  FILMAX COMEDY HD
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/388
-#EXTINF:-1 tvg-name="TR: FILMAX GERILIM"tvg-id=""tvg-logo="https://logodix.com/logo/1315967.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: FILMAX GERILIM
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/215164
-#EXTINF:-1 tvg-name="TR: FILMAX ROMANTIK"tvg-id=""tvg-logo="https://logodix.com/logo/1315967.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: FILMAX ROMANTIK
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/215165
-#EXTINF:-1 tvg-name="TR: FILMAX Drama"tvg-id=""tvg-logo="https://logodix.com/logo/1315967.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: FILMAX Drama
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/113523
-#EXTINF:-1 tvg-name="TR: FILMAX SAVAS"tvg-id=""tvg-logo="https://logodix.com/logo/1315967.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: FILMAX SAVAS
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/215166
-#EXTINF:-1 tvg-name="TR: NETFLIX Aksiyon 1"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: NETFLIX Aksiyon 1
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/419774
-#EXTINF:-1 tvg-name="TR: NETFLIX Aksiyon 3"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: NETFLIX Aksiyon 3
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/419773
-#EXTINF:-1 tvg-name="TR: NETFLIX Bilimkurgu"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: NETFLIX Bilimkurgu
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/419772
-#EXTINF:-1 tvg-name="TR: NETFLIX Bollywood"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: NETFLIX Bollywood
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/419771
-#EXTINF:-1 tvg-name="TR: NETFLIX Dram 1"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: NETFLIX Dram 1
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/419770
-#EXTINF:-1 tvg-name="TR: NETFLIX Dram 2"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: NETFLIX Dram 2
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/419769
-#EXTINF:-1 tvg-name="TR: NETFLIX Dram 3"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: NETFLIX Dram 3
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/419768
-#EXTINF:-1 tvg-name="TR: NETFLIX Fantastik"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: NETFLIX Fantastik
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/419767
-#EXTINF:-1 tvg-name="TR: NETFLIX Gerilim 1"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: NETFLIX Gerilim 1
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/419766
-#EXTINF:-1 tvg-name="TR: NETFLIX Gerilim 2"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: NETFLIX Gerilim 2
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/419765
-#EXTINF:-1 tvg-name="TR: NETFLIX Gizem"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: NETFLIX Gizem
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/419764
-#EXTINF:-1 tvg-name="TR: NETFLIX Komedi 1"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: NETFLIX Komedi 1
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/419763
-#EXTINF:-1 tvg-name="TR: NETFLIX Komedi 2"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: NETFLIX Komedi 2
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/419762
-#EXTINF:-1 tvg-name="TR: NETFLIX Komedi 3"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: NETFLIX Komedi 3
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/419761
-#EXTINF:-1 tvg-name="TR: NETFLIX Korku"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: NETFLIX Korku
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/419760
-#EXTINF:-1 tvg-name="TR: NETFLIX Macera"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: NETFLIX Macera
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/419759
-#EXTINF:-1 tvg-name="TR: NETFLIX Romantik 1"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: NETFLIX Romantik 1
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/419758
-#EXTINF:-1 tvg-name="TR: NETFLIX Romantik 2"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: NETFLIX Romantik 2
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/419757
-#EXTINF:-1 tvg-name="TR: NETFLIX Romantik 3"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: NETFLIX Romantik 3
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/419756
-#EXTINF:-1 tvg-name="TR: NETFLIX Suc"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: NETFLIX Suc
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/419755
-#EXTINF:-1 tvg-name="TR: NETFLIX Mıx 1"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: NETFLIX Mıx 1
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/419754
-#EXTINF:-1 tvg-name="TR: NETFLIX Mıx 2"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: NETFLIX Mıx 2
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/419753
-#EXTINF:-1 tvg-name="TR: NETFLIX Mıx 4"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: NETFLIX Mıx 4
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/419751
-#EXTINF:-1 tvg-name="TR: NETFLIX Mıx 5"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: NETFLIX Mıx 5
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/419750
-#EXTINF:-1 tvg-name="TR: NETFLIX Mıx 7"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: NETFLIX Mıx 7
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/419748
-#EXTINF:-1 tvg-name="TR: NETFLIX Mıx 8"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: NETFLIX Mıx 8
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/419747
-#EXTINF:-1 tvg-name="TR: NETFLIX Mıx 9"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: NETFLIX Mıx 9
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/419746
-#EXTINF:-1 tvg-name="TR: NETFLIX Mıx 10"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: NETFLIX Mıx 10
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/419745
-#EXTINF:-1 tvg-name="TR: Cinemaximum Aksiyon"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Cinemaximum Aksiyon
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/419716
-#EXTINF:-1 tvg-name="TR: Cinemaximum Animasyon"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Cinemaximum Animasyon
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/419715
-#EXTINF:-1 tvg-name="TR: Cinemaximum Bilim Kurgu"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Cinemaximum Bilim Kurgu
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/419714
-#EXTINF:-1 tvg-name="TR: Cinemaximum Dram"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Cinemaximum Dram
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/419713
-#EXTINF:-1 tvg-name="TR: Cinemaximum Gerilim"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Cinemaximum Gerilim
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/419711
-#EXTINF:-1 tvg-name="TR: Cinemaximum Gizem"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Cinemaximum Gizem
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/419710
-#EXTINF:-1 tvg-name="TR: Cinemaximum Komedi"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Cinemaximum Komedi
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/419709
-#EXTINF:-1 tvg-name="TR: Cinemaximum Korku"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Cinemaximum Korku
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/419708
-#EXTINF:-1 tvg-name="TR: Cinemaximum Macera"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Cinemaximum Macera
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/419707
-#EXTINF:-1 tvg-name="TR: Cinemaximum Romantik"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: Cinemaximum Romantik
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/419706
-#EXTINF:-1 tvg-name="TR: b**N B0X 0FFİCE 1 HD"tvg-id="beinboxoffice1.tr"tvg-logo="https://contentlibrary.digiturk.com.tr/Channel/36/Image/box_office1_205x150_2022.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: b**N B0X 0FFİCE 1 HD
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/313
-#EXTINF:-1 tvg-name="TR: b**N B0X 0FFİCE 2 HD"tvg-id="beinboxoffice2.tr"tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/beIN_Box_Office_2_TR_logo.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: b**N B0X 0FFİCE 2 HD
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/314
-#EXTINF:-1 tvg-name="TR: b**N B0X 0FFİCE 3 HD"tvg-id="beinboxoffice3.tr"tvg-logo="https://contentlibrary.digiturk.com.tr/Channel/38/Image/box_office3_205x150_2022.png"group-title="Sinema":http-referrer="":http-user-agent="",TR: b**N B0X 0FFİCE 3 HD
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/315
-#EXTINF:-1 tvg-name="TR:  MAX Aksiyon HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR:  MAX Aksiyon HD
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/10839
-#EXTINF:-1 tvg-name="TR: MAX Aksiyon 2 HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: MAX Aksiyon 2 HD
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/10840
-#EXTINF:-1 tvg-name="TR: MAX Premier HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: MAX Premier HD
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/10841
-#EXTINF:-1 tvg-name="TR: MAX Western HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: MAX Western HD
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/10843
-#EXTINF:-1 tvg-name="TR: MAX Vizyon HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: MAX Vizyon HD
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/10845
-#EXTINF:-1 tvg-name="TR: MAX Vizyon 2 HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: MAX Vizyon 2 HD
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/10846
-#EXTINF:-1 tvg-name="TR: MAX Vizyon 3 HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: MAX Vizyon 3 HD
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/10847
-#EXTINF:-1 tvg-name="TR: MAX 007 HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: MAX 007 HD
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/10849
-#EXTINF:-1 tvg-name="TR: MAX STAR WARS HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: MAX STAR WARS HD
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/10850
-#EXTINF:-1 tvg-name="TR: MAX KİNO COLLECTİON HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: MAX KİNO COLLECTİON HD
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/10852
-#EXTINF:-1 tvg-name="TR: MAX GOLD HD"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",TR: MAX GOLD HD
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/10853
-#EXTINF:-1 tvg-name="TR: SINEMA AKSIYON HD"tvg-id="sinemaaksiyonhd.tr"tvg-logo=""group-title="Sinema ":http-referrer="":http-user-agent="",TR: SINEMA AKSIYON HD
-http://ww.crzyyng.xyz:8080/kemalataso12141/kSYGPQmM/335
+#EXTINF:-1 tvg-name="BEIN BOX OFFICE 1 ʜᴅ"tvg-id="" tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",BEIN BOX OFFICE 1 ʜᴅ
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432166
+#EXTINF:-1 tvg-name="beIN Box Office 2 HD TR"tvg-id="" tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",beIN Box Office 2 HD TR
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432167
+#EXTINF:-1 tvg-name="Beinbox Office 3"tvg-id="" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-box-office-3-logo.png"group-title="Sinema ":http-referrer="":http-user-agent="",Beinbox Office 3
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432168
+#EXTINF:-1 tvg-name="Bein Movies Stars"tvg-id="" tvg-logo="data:image/png;base64,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"group-title="Sinema":http-referrer="":http-user-agent="",Bein Movies Stars
+https://tv.prectv5.sbs/live/bsstars.m3u8
+#EXTINF:-1 tvg-name="Bein Movies premiere"tvg-id="" tvg-logo="https://media0065.elcinema.com/tvguide/1322_1.png"group-title="Sinema":http-referrer="":http-user-agent="",Bein Movies premiere
+https://tv.prectv5.sbs/live/bspremier1.m3u8
+#EXTINF:-1 tvg-name="TR | beIN Movies Premiere 2ⓧ FHD"tvg-id="" tvg-logo="http://platinumxmedia.xyz:8080/images/321128f6b6caf6d93951e6da520535fe.png"group-title="Sinema":http-referrer="":http-user-agent="",TR | beIN Movies Premiere 2ⓧ FHD
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432175
+#EXTINF:-1 tvg-name="Bein Movies Turk"tvg-id="" tvg-logo="https://img.netzwelt.de/dw1600_dh900_sw208_sh117_sx6_sy51_sr16x9_nu2/picture/original/2020/05/bein-movies-turk-276547.png"group-title="Sinema":http-referrer="":http-user-agent="",Bein Movies Turk
+https://tv.prectv5.sbs/live/bsturk.m3u8
+#EXTINF:-1 tvg-name="TR | beIN Movies Actionⓧ FHD"tvg-id="" tvg-logo="http://platinumxmedia.xyz:8080/images/6ec8ad6fc2708fefd3d0fd064a9d39c5.png"group-title="Sinema":http-referrer="":http-user-agent="",TR | beIN Movies Actionⓧ FHD
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432173
+#EXTINF:-1 tvg-name="TR | beIN Series Comedyⓧ FHD"tvg-id="" tvg-logo="http://platinumxmedia.xyz:8080/images/6cc9b0c744e45657312e710f597babcd.png"group-title="Sinema":http-referrer="":http-user-agent="",TR | beIN Series Comedyⓧ FHD
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432179
+#EXTINF:-1 tvg-name="TR | beIN Series Dramaⓧ FHD"tvg-id="" tvg-logo="http://platinumxmedia.xyz:8080/images/5e6023f027f313b5d04b43cd059f7112.png"group-title="Sinema":http-referrer="":http-user-agent="",TR | beIN Series Dramaⓧ FHD
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432180
+#EXTINF:-1 tvg-name="TR | beIN Series Sci-Fiⓧ FHD"tvg-id="" tvg-logo="http://platinumxmedia.xyz:8080/images/48ffe22e40a644fe874f40124974b92d.png"group-title="Sinema":http-referrer="":http-user-agent="",TR | beIN Series Sci-Fiⓧ FHD
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432181
+#EXTINF:-1 tvg-name="TR | beIN Series Viceⓧ FHD"tvg-id="" tvg-logo="http://platinumxmedia.xyz:8080/images/422effce3590dabb592fae5561d40b06.png"group-title="Sinema":http-referrer="":http-user-agent="",TR | beIN Series Viceⓧ FHD
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432182
+#EXTINF:-1 tvg-name="Rize Türk TV"tvg-id=""tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFqUAdF7Tg2HfBWFru-Yl2rVntju4lRUSxFIMR4gvaHV7Y1FyGZnFma2QbxHzL0yw-ofOqVt2oQk-BaoW_iYIbEri56Q0ZrW90tPnFNCLTZMd3sSy5JyEbb_p5zhNVyxJQa4U-dd3scI6Z8CBhrnDMF-TGkgZfCdoDqcP5SBWkM18IoCx_ObsNO1AUJw/s434/rizeturktv.png"group-title="Sinema":http-referrer="":http-user-agent="",Rize Türk TV
+https://yayin.rizeturk.com:3777/hybrid/play.m3u8
+#EXTINF:-1 tvg-name="TR | MovieSmart Classicⓧ FHD"tvg-id="" tvg-logo="http://platinumxmedia.xyz:8080/images/02a14bade9995e32c40b9146ebbfd1d9.png"group-title="Sinema":http-referrer="":http-user-agent="",TR | MovieSmart Classicⓧ FHD
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432426
+#EXTINF:-1 tvg-name="TR | MovieSmart Premiumⓧ FHD"tvg-id="" tvg-logo="http://platinumxmedia.xyz:8080/images/360ee1a637d4e3f51fb36f20ff9967d0.png"group-title="Sinema":http-referrer="":http-user-agent="",TR | MovieSmart Premiumⓧ FHD
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432428
+#EXTINF:-1 tvg-name="Moviesmart Türk"tvg-id="" tvg-logo="https://www.yuksekovaguncel.com.tr/images/haberler/d_smartin_hd_kanal_sayisi_artiyor_h55683.jpg"group-title="Sinema":http-referrer="":http-user-agent="",Moviesmart Türk
+https://tv.prectv5.sbs/live/mvturk.m3u8
+#EXTINF:-1 tvg-name="TR | DiziSmart Maxⓧ FHD"tvg-id="" tvg-logo="http://platinumxmedia.xyz:8080/images/b7c161bb87bb0308fb25e6f68d0a5632.png"group-title="Sinema":http-referrer="":http-user-agent="",TR | DiziSmart Maxⓧ FHD
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432240
+#EXTINF:-1 tvg-name="TR | DiziSmart Premiumⓧ HD"tvg-id="" tvg-logo="http://platinumxmedia.xyz:8080/images/526e3099f117db014fcc983920f487aa.png"group-title="Sinema":http-referrer="":http-user-agent="",TR | DiziSmart Premiumⓧ HD
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432242
+#EXTINF:-1 tvg-name="FX"tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1715419203610857472/W2ZpsXbt_400x400.jpg"group-title="Sinema":http-referrer="":http-user-agent="",FX
+https://tv.prectv5.sbs/live/fx.m3u8
+#EXTINF:-1 tvg-name="TR | ENO Animasyon 1ⓧ FHD"tvg-id="" tvg-logo="http://platinumxmedia.xyz:8080/images/3a2500979310fa089c38362dc871e3b5.png"group-title="Sinema":http-referrer="":http-user-agent="",TR | ENO Animasyon 1ⓧ FHD
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432268
+#EXTINF:-1 tvg-name="TR | ENO Animasyon 2ⓧ FHD"tvg-id="" tvg-logo="http://platinumxmedia.xyz:8080/images/3a2500979310fa089c38362dc871e3b5.png"group-title="Sinema":http-referrer="":http-user-agent="",TR | ENO Animasyon 2ⓧ FHD
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432269
+#EXTINF:-1 tvg-name="TR | ENO Vizyon 01ⓧ FHD"tvg-id="" tvg-logo="http://platinumxmedia.xyz:8080/images/3a2500979310fa089c38362dc871e3b5.png"group-title="Sinema":http-referrer="":http-user-agent="",TR | ENO Vizyon 01ⓧ FHD
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432286
+#EXTINF:-1 tvg-name="TR | ENO Vizyon 02ⓧ FHD"tvg-id="" tvg-logo="http://platinumxmedia.xyz:8080/images/3a2500979310fa089c38362dc871e3b5.png"group-title="Sinema":http-referrer="":http-user-agent="",TR | ENO Vizyon 02ⓧ FHD
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432287
+#EXTINF:-1 tvg-name="TR | ENO Vizyon 03ⓧ FHD"tvg-id="" tvg-logo="http://platinumxmedia.xyz:8080/images/3a2500979310fa089c38362dc871e3b5.png"group-title="Sinema":http-referrer="":http-user-agent="",TR | ENO Vizyon 03ⓧ FHD
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432288
+#EXTINF:-1 tvg-name="TR | Marvel Studios 1ⓧ HD"tvg-id="" tvg-logo="http://platinumxmedia.xyz:8080/images/0a2de2af7074c1060a1663df4c2452d2.png"group-title="Sinema":http-referrer="":http-user-agent="",TR | Marvel Studios 1ⓧ HD
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432400
+#EXTINF:-1 tvg-name="TR | Max 007ⓧ FHD"tvg-id="" tvg-logo="http://platinumxmedia.xyz:8080/images/04c37db4ebd44a81e8781c3c5016d6b3.png"group-title="Sinema":http-referrer="":http-user-agent="",TR | Max 007ⓧ FHD
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432403
+#EXTINF:-1 tvg-name="TR | Max Aksiyon 2ⓧ FHD"tvg-id="" tvg-logo="http://platinumxmedia.xyz:8080/images/04c37db4ebd44a81e8781c3c5016d6b3.png"group-title="Sinema":http-referrer="":http-user-agent="",TR | Max Aksiyon 2ⓧ FHD
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432405
+#EXTINF:-1 tvg-name="TR | Max Animasyon 1ⓧ FHD"tvg-id="" tvg-logo="http://platinumxmedia.xyz:8080/images/04c37db4ebd44a81e8781c3c5016d6b3.png"group-title="Sinema":http-referrer="":http-user-agent="",TR | Max Animasyon 1ⓧ FHD
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432407
+#EXTINF:-1 tvg-name="TR | Max Orjinalⓧ FHD"tvg-id="" tvg-logo="http://platinumxmedia.xyz:8080/images/04c37db4ebd44a81e8781c3c5016d6b3.png"group-title="Sinema":http-referrer="":http-user-agent="",TR | Max Orjinalⓧ FHD
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432410
+#EXTINF:-1 tvg-name="TR | Max Vizyonⓧ FHD"tvg-id="" tvg-logo="http://platinumxmedia.xyz:8080/images/04c37db4ebd44a81e8781c3c5016d6b3.png"group-title="Sinema":http-referrer="":http-user-agent="",TR | Max Vizyonⓧ FHD
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432416
+#EXTINF:-1 tvg-name="TR | Max Vizyon 2ⓧ FHD"tvg-id="" tvg-logo="http://platinumxmedia.xyz:8080/images/04c37db4ebd44a81e8781c3c5016d6b3.png"group-title="Sinema":http-referrer="":http-user-agent="",TR | Max Vizyon 2ⓧ FHD
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432413
+#EXTINF:-1 tvg-name="TR | Max Vizyon 3ⓧ FHD"tvg-id="" tvg-logo="http://platinumxmedia.xyz:8080/images/04c37db4ebd44a81e8781c3c5016d6b3.png"group-title="Sinema":http-referrer="":http-user-agent="",TR | Max Vizyon 3ⓧ FHD
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432414
+#EXTINF:-1 tvg-name="TR | Sinema TV 1001ⓧ FHD"tvg-id="" tvg-logo="http://platinumxmedia.xyz:8080/images/d008e09c4839637078a40c90849e45a2.png"group-title="Sinema":http-referrer="":http-user-agent="",TR | Sinema TV 1001ⓧ FHD
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432476
+#EXTINF:-1 tvg-name="TR | Sinema TV 2ⓧ FHD"tvg-id="" tvg-logo="http://platinumxmedia.xyz:8080/images/9e25f15ab9df863a958024185182c178.png"group-title="Sinema":http-referrer="":http-user-agent="",TR | Sinema TV 2ⓧ FHD
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432478
+#EXTINF:-1 tvg-name="TR | Sinema TV Aileⓧ FHD"tvg-id="" tvg-logo="http://platinumxmedia.xyz:8080/images/54f50f64087c4dfa0f6f50feb0a72367.png"group-title="Sinema":http-referrer="":http-user-agent="",TR | Sinema TV Aileⓧ FHD
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432480
+#EXTINF:-1 tvg-name="TR | Sinema TV Komedi 2ⓧ FHD"tvg-id="" tvg-logo="http://platinumxmedia.xyz:8080/images/4fa521b8c6e24847dcc7ed69c1399232.png"group-title="Sinema":http-referrer="":http-user-agent="",TR | Sinema TV Komedi 2ⓧ FHD
+https://tv.arectv11.sbs/live/sinemaaile2.m3u8
 
 # * » ÇizgiFilm « * #
 #EXTINF:-1 tvg-name="TRT Çocuk" tvg-language="Turkish" tvg-country="TR" tvg-id="CizgiFilm_TRT" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/13060701.png" group-title="ÇizgiFilm",TRT Çocuk
@@ -651,127 +285,186 @@ https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
 
 
 # * » Spor « * #
-#EXTINF:-1 tvg-name="TRT Spor" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TRT" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/13687983.png" group-title="Spor",TRT Spor
-https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
-
-#EXTINF:-1 tvg-name="TRT Spor Yıldız" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_SporYildiz" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/11290418.png" group-title="Spor",TRT Spor Yıldız
-https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TR:BEINSPORTS 1 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein1.png" group-title="Alternatif2",TR:BEINSPORTS 1 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/bein1/601/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TR:BEINSPORTS 2 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein2.png" group-title="Alternatif2",TR:BEINSPORTS 2 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/bein2/602/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TR:BEINSPORTS 3 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein3.png" group-title="Alternatif2",TR:BEINSPORTS 3 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/bein3/603/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TR:BEINSPORTS 4 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein4.png" group-title="Alternatif2",TR:BEINSPORTS 4 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/bein4/604/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TR:BEINSPORTS 5 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein5.png" group-title="Alternatif2",TR:BEINSPORTS 5 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/bein5/705/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TR:BEINSPORTS MAX 1 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinmax1.png" group-title="Alternatif2",TR:BEINSPORTS MAX 1 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/beinmx1/805/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TR:BEINSPORTS MAX 2 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinmax2.png" group-title="Alternatif2",TR:BEINSPORTS MAX 2 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/beinmx2/806/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TR:EXXEN SPORT 1 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/exen1.png" group-title="Alternatif2",TR:EXXEN SPORT 1 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/exxen1/4101/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TR:EXXEN SPORTS 2 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/exxen2.png" group-title="Alternatif2",TR:EXXEN SPORTS 2 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/exxen2/4102/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TR:EXXEN SPORTS 3 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/exxen3.png" group-title="Alternatif2",TR:EXXEN SPORTS 3 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/exxen3/4103/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TR:EXXEN SPORTS 4 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/exxen4.png" group-title="Alternatif2",TR:EXXEN SPORTS 4 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/exxen4/4104/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TR:EXXEN SPORTS 5  HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/exxen5.png" group-title="Alternatif2",TR:EXXEN SPORTS 5  HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/exxen5/4105/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TR:EXXEN SPORTS 6 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/exxen6.png" group-title="Alternatif2",TR:EXXEN SPORTS 6 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/exxen6/4106/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TR:S SPORTS 1 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport-1.png" group-title="Alternatif2",TR:S SPORTS 1 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/ssport1/3450/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TR:S SPORTS 2 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport-2.png" group-title="Alternatif2",TR:S SPORTS 2 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/ssport2/3451/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TR:EUROSPORT 1 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/eurosport1.png" group-title="Alternatif2",TR:EUROSPORT 1 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/eurosp1/132/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TR:EUROSPORT 2 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/eurosport2.png" group-title="Alternatif2",TR:EUROSPORT 2 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/eurosp2/142/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TR:SPOR SMART 1 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/smartspor.png" group-title="Alternatif2",TR:SPOR SMART 1 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/smart1/102/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TR:SPOR SMART 2 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/smartspor2.png" group-title="Alternatif2",TR:SPOR SMART 2 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/smart2/104/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TR:TIVIBUSPOR 1 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tivibusp1.png" group-title="Alternatif2",TR:TIVIBUSPOR 1 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/tivibu1/606/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TR:TIVIBUSPOR 2 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/tivibu2.png" group-title="Alternatif2",TR:TIVIBUSPOR 2 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/tivibu2/607/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TR:TIVIBUSPOR 3 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/tivibu3.png" group-title="Alternatif2",TR:TIVIBUSPOR 3 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/tivibu3/608/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TR:TIVIBUSPOR 4 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/tivibu4.png" group-title="Alternatif2",TR:TIVIBUSPOR 4 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/tivibu4/609/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TR:TABII SPOR 1 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tabii1.png" group-title="Alternatif2",TR:TABII SPOR 1 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/tabi1/4101/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TR:TABII SPOR 2 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tabii2.png" group-title="Alternatif2",TR:TABII SPOR 2 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/tabi2/4102/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TR:TABII SPOR 3 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tabii3.png" group-title="Alternatif2",TR:TABII SPOR 3 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/tabi3/4103/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TR:TABII SPOR 4 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tabii4.png" group-title="Alternatif2",TR:TABII SPOR 4 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/tabi4/4104/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TR:TABII SPOR 5 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tabii5.png" group-title="Alternatif2",TR:TABII SPOR 5 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/tabi5/4105/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TR:TABII SPOR 6 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tabii6.png" group-title="Alternatif2",TR:TABII SPOR 6 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)
-https://cf-proxy.yawnxyz.workers.dev/corsproxy/?apiurl=https://tre.2b4a9bb526bd2acb.shop/i/tabi6/4106/playlist.m3u8
+#EXTINF:-1 tvg-name="A Spor"tvg-id="" tvg-logo="https://cdn6.aptoide.com/imgs/7/f/d/7fd636ea06646d1a9aaefe27a11dfb58_icon.png"group-title="Spor":http-referrer="":http-user-agent="",A Spor
+https://tgn.bozztv.com/dvrfl05/gin-aspor/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="TRT Spor"tvg-id="Spor_TRT"tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/13687983.png"group-title="Spor":http-referrer="":http-user-agent="",TRT Spor
+https://tgn.bozztv.com/dvrfl05/gin-trtspor/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="TRT Spor Yıldız"tvg-id="Spor_SporYildiz"tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/11290418.png"group-title="Spor":http-referrer="":http-user-agent="",TRT Spor Yıldız
+https://tgn.bozztv.com/dvrfl05/gin-trtspor2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="HT Spor "tvg-id="" tvg-logo="https://yt3.googleusercontent.com/B3IWp1Ke7InBdWs0z8dkXpRlg4J6lQ0ETi8hbMQ64w3uh9RfHTOtU6K7_uLYRbIoA6NteY9a=s900-c-k-c0x00ffffff-no-rj"group-title="Spor":http-referrer="":http-user-agent="",HT Spor
+https://ciner-live.daioncdn.net/ht-spor/ht-spor_1080p.m3u8
+#EXTINF:-1 tvg-name="Sports TV"tvg-id="Spor_SportsTV"tvg-logo="http://assets.tvcdn.net/96bc5554-741b-4e91-8b4f-7b3bcc1e4c1d.png"group-title="Spor":http-referrer="":http-user-agent="",Sports TV
+https://live.sportstv.com.tr/hls/low/sportstv.m3u8
+#EXTINF:-1 tvg-name="GS TV"tvg-id="Spor_GSTV"tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a1/Gstv-yeni.PNG"group-title="Spor":http-referrer="":http-user-agent="",GS TV
+https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
+#EXTINF:-1 tvg-name="FB TV"tvg-id="Spor_FBTV"tvg-logo="https://seeklogo.com/images/F/fenerbahce-tv-logo-A4F539D377-seeklogo.com.png"group-title="Spor":http-referrer="":http-user-agent="",FB TV
+http://stream.tvcdn.net/spor/fb-tv.m3u8
+#EXTINF:-1 tvg-name="NBA TV"tvg-id="Spor_NBATV"tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/89/Nbatv.png"group-title="Spor":http-referrer="":http-user-agent="",NBA TV
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432435
+#EXTINF:-1 tvg-name="NBA TV"tvg-id="Spor_NBATV"tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/89/Nbatv.png"group-title="Spor":http-referrer="":http-user-agent="",NBA TV
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432436
+#EXTINF:-1 tvg-name="Euro Sport"tvg-id="Spor_EuroSport"tvg-logo="https://w7.pngwing.com/pngs/350/883/png-transparent-eurosport-1-eurosport-2-television-channel-1-euro-television-blue-angle.png"group-title="Spor":http-referrer="https://trgoals1077.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",Euro Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1077.xyz/
+https://cinque.29d0b51b213115a0.click/p/9cgzadFETvVedJ4Tsp/132/a.cf-worker-4e1da3ddd26870a5.workers.dev/chunklist_hd.m3u8
+#EXTINF:-1 tvg-name="Euro Sport 2"tvg-id="Spor_EuroSport2"tvg-logo="https://w7.pngwing.com/pngs/327/493/png-transparent-eurosport-1-television-channel-logo-eurosport-2-others-miscellaneous-television-text.png"group-title="Spor":http-referrer="":http-user-agent="",Euro Sport 2
+http://tvskor99.xyz:80/live/sahinselat2/k6rd0vxMYg/290924.ts
+#EXTINF:-1 tvg-name="Tivibu Spor"tvg-id="" tvg-logo="https://golvar913.sbs/wp-content/themes/ikisifirbirdokuz/assets/_/ch/605.webp"group-title="Spor":http-referrer="https://trgoals1077.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",Tivibu Spor
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1077.xyz/
+https://sei.c53af06fa4e55583.click/p/f2XX9QypQfMaQ5rX1zA/605/a.cf-worker-f1a2134fd551fa4b.workers.dev/chunklist_hd.m3u8
+#EXTINF:-1 tvg-name="Tivibu Spor"tvg-id="" tvg-logo="https://golvar913.sbs/wp-content/themes/ikisifirbirdokuz/assets/_/ch/605.webp"group-title="Spor":http-referrer="https://trgoals1077.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",Tivibu Spor
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1077.xyz/
+https://cinque.c53af06fa4e55583.click/p/canlimaclar2837.sbs/605/a.cf-worker-f1a2134fd551fa4b.workers.dev/chunklist_hd.m3u8
+#EXTINF:-1 tvg-name="Tivibu Spor"tvg-id="" tvg-logo="https://golvar913.sbs/wp-content/themes/ikisifirbirdokuz/assets/_/ch/605.webp"group-title="Spor":http-referrer="https://trgoals1077.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",Tivibu Spor
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1077.xyz/
+https://cfr.zahteriyidir.shop/M875407/M875407.m3u8
+#EXTINF:-1 tvg-name="Tivibu Spor"tvg-id="" tvg-logo="https://golvar913.sbs/wp-content/themes/ikisifirbirdokuz/assets/_/ch/605.webp"group-title="Spor":http-referrer="":http-user-agent="",Tivibu Spor
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432541
+#EXTINF:-1 tvg-name="Tivibu Spor 1"tvg-id="Spor_TivibuSpor1"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/qadnsi1642604437.png"group-title="Spor":http-referrer="https://trgoals1077.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",Tivibu Spor 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1077.xyz/
+https://alpha.cf-worker-c4d6a2ea181de1b9.workers.dev/live/tivibu-spor-1/playlist.m3u8
+#EXTINF:-1 tvg-name="Tivibu Spor 1"tvg-id="Spor_TivibuSpor1"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/qadnsi1642604437.png"group-title="Spor":http-referrer="https://trgoals1077.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",Tivibu Spor 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1077.xyz/
+https://due.29d0b51b213115a0.click/p/9cgzadFETvVedJ4Tsp/606/a.cf-worker-4e1da3ddd26870a5.workers.dev/chunklist_hd.m3u8
+#EXTINF:-1 tvg-name="Tivibu Spor 2"tvg-id="Spor_TivibuSpor2"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/kuasdm1642604455.png"group-title="Spor":http-referrer="https://trgoals1077.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",Tivibu Spor 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1077.xyz/
+https://nove.5ef3a03c294b074f.click/p/9cgzadFEThNFMYakNE/607/a.cf-worker-4e1da3ddd26870a5.workers.dev/chunklist_hd.m3u8
+#EXTINF:-1 tvg-name="Tivibu Spor 3"tvg-id="Spor_TivibuSpor3"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/slwrz41642604502.png"group-title="Spor":http-referrer="https://trgoals1077.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",Tivibu Spor 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1077.xyz/
+https://pp.centtv38.live/yayint3.m3u8
+#EXTINF:-1 tvg-name="Tivibu Spor 4"tvg-id="Spor_TivibuSpor4"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/59bqi81642604517.png"group-title="Spor":http-referrer="https://trgoals1077.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",Tivibu Spor 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1077.xyz/
+https://alpha.cf-worker-c4d6a2ea181de1b9.workers.dev/live/tivibu-spor-4/playlist.m3u8
+#EXTINF:-1 tvg-name="Spor Smart"tvg-id="Spor_SporSmart"tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/p/el/11909/Thumbnail.png"group-title="Spor":http-referrer="https://trgoals1077.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",Spor Smart
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1077.xyz/
+https://p0.b4c8d3e9f1a2b7c5d33.cfd/yayinsmarts.m3u8
+#EXTINF:-1 tvg-name="Spor Smart 2"tvg-id="Spor_SporSmart2"tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/SPORSMART2-gri.png"group-title="Spor":http-referrer="https://trgoals1077.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",Spor Smart 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1077.xyz/
+https://pp.centtv38.live/yayinsms2.m3u8
+#EXTINF:-1 tvg-name="S SPORT"tvg-id="ssport.tr"tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230302923239.png"group-title="Spor":http-referrer="https://trgoals1077.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",S SPORT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1077.xyz/
+https://nove.29d0b51b213115a0.click/p/9cgzadFEThNFMYakNE/3450/a.cf-worker-4e1da3ddd26870a5.workers.dev/chunklist_hd.m3u8
+#EXTINF:-1 tvg-name="S SPORT 2"tvg-id="ssport2.tr"tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230302923321.png"group-title="Spor":http-referrer="https://trgoals1077.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",S SPORT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1077.xyz/
+https://due.29d0b51b213115a0.click/p/9cgzadFEThNFMYakNE/3451/a.cf-worker-4e1da3ddd26870a5.workers.dev/chunklist_hd.m3u8
+#EXTINF:-1 tvg-name="TR | S Sport PlusⓧFHD (Maçta aktif)"tvg-id="" tvg-logo="http://platinumxmedia.xyz:8080/images/18b220a9269c82c5512ad1c56f0c533e.png"group-title="Spor":http-referrer="":http-user-agent="",TR | S Sport PlusⓧFHD (Maçta aktif)
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432464
+#EXTINF:-1 tvg-name="beIN SPORTS Haber"tvg-id="Spor_beINSPORTSHaber"tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-sports-haber-logo.jpg.webp"group-title="Spor":http-referrer="":http-user-agent="",beIN SPORTS Haber
+https://tgn.bozztv.com/dvrfl05/gin-beinsportshaber/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS"tvg-id="Spor_beINSPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png"group-title="Spor":http-referrer="https://trgoals1077.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",beIN SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1077.xyz/
+https://due.7cbd07151f7a2d82.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS"tvg-id="Spor_beINSPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png"group-title="Spor":http-referrer="https://trgoals1115.xyz":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",beIN SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1115.xyz
+https://g0.b4c8d3e9f1a2b7c5d24.cfd/yayinzirve.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS"tvg-id="Spor_beINSPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png"group-title="Spor":http-referrer="https://122dumantv.com":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",beIN SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://122dumantv.com
+https://12mumdur.online/701/index.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS"tvg-id="Spor_beINSPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png"group-title="Spor":http-referrer="https://mevzuspor30.xyz":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",beIN SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://mevzuspor30.xyz
+https://za.mevzuhls15.cfd/yayinzirve.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS"tvg-id="Spor_beINSPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png"group-title="Spor":http-referrer="https://ifra.strmrdrfrosf.click/index.php?id=601":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",beIN SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://ifra.strmrdrfrosf.click/index.php?id=601
+https://quattro.facd2855b1fdc415.click/i/neden/601/playlist.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS"tvg-id="Spor_beINSPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png"group-title="Spor":http-referrer="https://trgoals1115.xyz":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",beIN SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1115.xyz
+https://k0.b4c8d3e9f1a2b7c5d28.cfd/yayinzirve.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS"tvg-id="Spor_beINSPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png"group-title="Spor":http-referrer="https://trgoals1115.xyz":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",beIN SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1115.xyz
+https://pp.centtv38.live/yayinzirve.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS"tvg-id="Spor_beINSPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png"group-title="Spor":http-referrer="https://trgoals1115.xyz":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",beIN SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1115.xyz
+https://ancient-shape-c20a.yedekbirkankam.workers.dev/https://cinque.c53af06fa4e55583.click/p/selcuksportshd1611.xyz/601/a.cf-worker-f1a2134fd551fa4b.workers.dev/chunklist_hd.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS"tvg-id="Spor_beINSPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png"group-title="Spor":http-referrer="https://trgoals1115.xyz":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",beIN SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1115.xyz
+https://uno.c53af06fa4e55583.click/p/f2XX9QypQfMaQ5rX1zA/601/a.cf-worker-f1a2134fd551fa4b.workers.dev/chunklist_hd.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS"tvg-id="Spor_beINSPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png"group-title="Spor":http-referrer="https://trgoals1115.xyz":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",beIN SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1115.xyz
+https://cinque.c53af06fa4e55583.click/p/f2XX9QypQfMaQ5rX1zA/601/a.cf-worker-f1a2134fd551fa4b.workers.dev/chunklist_hd.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS"tvg-id="Spor_beINSPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png"group-title="Spor":http-referrer="https://trgoals1115.xyz":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",beIN SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1115.xyz
+https://tre.c53af06fa4e55583.click/p/f2XX9QypQfMaQ5rX1zA/601/a.cf-worker-f1a2134fd551fa4b.workers.dev/chunklist_hd.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS"tvg-id="Spor_beINSPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png"group-title="Spor":http-referrer="https://trgoals1115.xyz":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",beIN SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1115.xyz
+https://za.mevzuhls15.cfd/yayinzirve.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS"tvg-id="Spor_beINSPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png"group-title="Spor":http-referrer="https://trgoals1115.xyz":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",beIN SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1115.xyz
+https://due.c53af06fa4e55583.click/p/limontv.xyz/601/a.cf-worker-f1a2134fd551fa4b.workers.dev/chunklist_hd.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS"tvg-id="Spor_beINSPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png"group-title="Spor":http-referrer="https://trgoals1115.xyz":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",beIN SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1115.xyz
+https://p0.b4c8d3e9f1a2b7c5d33.cfd/yayininat.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS"tvg-id="Spor_beINSPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png"group-title="Spor":http-referrer="https://trgoals1115.xyz":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",beIN SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1115.xyz
+https://steep-tooth-6534.1ff056997784445.workers.dev/static/bs1.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 1 ғʜᴅ"tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png"group-title="Spor":http-referrer="":http-user-agent="",beIN SPORTS
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432184
+#EXTINF:-1 tvg-name="beIN SPORTS 1 ғʜᴅ"tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png"group-title="Spor":http-referrer="":http-user-agent="",beIN SPORTS
+https://j0pgnqplxcrgtwz8ioahynbwnfr3xmij.zortspor1.online/599/index.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 1 ғʜᴅ"tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png"group-title="Spor":http-referrer="":http-user-agent="",beIN SPORTS
+https://fxazuc197k.zortspor1.online/599/index.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 1 ғʜᴅ"tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png"group-title="Spor":http-referrer="":http-user-agent="",beIN SPORTS
+https://avyyrtb95k.zortspor1.online/599/index.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 1 ғʜᴅ"tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png"group-title="Spor":http-referrer="":http-user-agent="",beIN SPORTS
+https://j0pgnqplxcrgtwz8ioahynbwnfr3xmij.zortspor1.online/7000/index.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 1 ғʜᴅ"tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png"group-title="Spor":http-referrer="":http-user-agent="",beIN SPORTS
+https://fxazuc197k.zortspor1.online/7000/index.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 1 ғʜᴅ"tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png"group-title="Spor":http-referrer="":http-user-agent="",beIN SPORTS
+https://avyyrtb95k.zortspor1.online/7000/index.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 2"tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/7uv6x71628799003.png"group-title="Spor":http-referrer="https://trgoals1077.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",beIN SPORTS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1077.xyz/
+https://alpha.cf-worker-c4d6a2ea181de1b9.workers.dev/live/bein-sports-2/playlist.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 3"tvg-id="Spor_beINSPORTS3"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/u3117i1628798857.png"group-title="Spor":http-referrer="https://trgoals1077.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",beIN SPORTS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1077.xyz/
+https://alpha.cf-worker-c4d6a2ea181de1b9.workers.dev/live/bein-sports-3/playlist.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 3"tvg-id="Spor_beINSPORTS3"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/u3117i1628798857.png"group-title="Spor":http-referrer="https://trgoals1077.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",beIN SPORTS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1077.xyz/
+https://ancient-shape-c20a.yedekbirkankam.workers.dev/https://nove.7fb7a3c9b851c072.click/p/mackeyfi3286.sbs/603/a.cf-worker-82ce8898971031cf.workers.dev/chunklist_hd.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 4"tvg-id="Spor_beINSPORTS4"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/2ktmcp1628798841.png"group-title="Spor":http-referrer="https://trgoals1077.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",beIN SPORTS 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1077.xyz/
+https://k0.b4c8d3e9f1a2b7c5d28.cfd/yayinb4.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS 5"tvg-id="Spor_beINSPORTS5"tvg-logo="https://i.imgur.com/iRKfaee.png"group-title="Spor":http-referrer="https://trgoals1077.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",beIN SPORTS 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1077.xyz/
+https://pp.centtv38.live/yayinb5.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS Max"tvg-id="Spor_beINSPORTSMax"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/BeIN_Sports_MAX.png"group-title="Spor":http-referrer="https://trgoals1077.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",beIN SPORTS Max
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1077.xyz/
+https://pp.centtv38.live/yayinbm1.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS Max 2"tvg-id="Spor_beINSPORTSMax2"tvg-logo="https://i.imgur.com/t7U20yR.png"group-title="Spor":http-referrer="https://trgoals1077.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",beIN SPORTS Max 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1077.xyz/
+https://pp.centtv38.live/yayinbm2.m3u8
 
 # * » Müzik « * #
 #EXTINF:-1 tvg-name="TRT Müzik" tvg-language="Turkish" tvg-country="TR" tvg-id="Muzik_TRT" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/12382043.png" group-title="Müzik",TRT Müzik
@@ -826,7 +519,7 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa
 https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u8
 
 
-# * » İçerik « * #
+# * » Marvel « * #
 #EXTINF:-1 tvg-name="Iron Man"tvg-id=""tvg-logo="https://img.fullhdfilmizlesene.de/poster/original/fullhd-demir-adam-1-iron-man-1.jpg"group-title="Marvel":http-referrer="":http-user-agent="",Iron Man
 https://vidrame.pro/vr/get/ef7709d0/1080.txt
 #EXTINF:-1 tvg-name="Inanilmaz Hulk"tvg-id=""tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/722b707472b3d365e66876554b2042875340230dffae36b7aaef021150501fb3.jpg"group-title="Marvel":http-referrer="":http-user-agent="",Inanilmaz Hulk
@@ -973,6 +666,12 @@ https://mp4.prectv2.lat/5/ax61/mp4/b10cd9de3ec26655470bcfa5ccc0bc39.mp4?token=7g
 https://be7713.rcr82.waw05.cdn255.com/hls2/01/07084/eu1mqrcsdtbj_x/index-v1-a1.m3u8?t=KviduXsvMb7XPjA8vMEzq5nNipx6uyRs9PsuN1ujhQc&s=1736005169&e=10800&f=35424146&srv=04&asn=3209&sp=5500&p=
 #EXTINF:-1 tvg-name="Harry Potter 8"tvg-id=""tvg-logo="https://image.kanald.com.tr/i/kanald/100/0x0/5f526e5e933ccb22709ecf9d.jpg"group-title="Harry Potter":http-referrer="":http-user-agent="",Harry Potter 8
 http://ww.crzyyng.xyz:8080/movie/kemalataso12141/kSYGPQmM/281854.mkv
+#EXTINF:-1 tvg-name="Jumanji 1"tvg-id=""tvg-logo="https://m.media-amazon.com/images/I/91gMfB-mlaL._AC_UF894,1000_QL80_.jpg"group-title="Jumanji ":http-referrer="":http-user-agent="",Jumanji  1
+https://vidmody.com/vs/tt0113497
+#EXTINF:-1 tvg-name="Jumanji 2"tvg-id=""tvg-logo="https://de.web.img3.acsta.net/r_654_368/img/eb/5d/eb5d4ed327176ff7524b2d31790e91fd.jpg"group-title="Jumanji":http-referrer="":http-user-agent="",Jumanji 2
+https://vidmody.com/vs/tt2283362
+#EXTINF:-1 tvg-name="Jumanji 3"tvg-id=""tvg-logo="https://i.ebayimg.com/images/g/Lg0AAOSw-uVfJHru/s-l1200.jpg"group-title="Jumanji ":http-referrer="":http-user-agent="",Jumanji 3
+https://vidmody.com/vs/tt7975244
 #EXTINF:-1 tvg-name="Venom"tvg-id=""tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/4-venom-hd-film-izle.webp"group-title="Film":http-referrer="":http-user-agent="",Venom
 https://vidrame.pro/vr/get/2e79093d/1080.txt
 #EXTINF:-1 tvg-name="Venom 2"tvg-id=""tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/venom-let-there-be-carnage.webp"group-title="Film":http-referrer="":http-user-agent="",Venom 2
@@ -985,6 +684,32 @@ https://a2.vidload.lol/176/1080p.m3u8
 https://vidrame.pro/vr/get/b06bb918/1080.txt
 #EXTINF:-1 tvg-name="Deadpool 3"tvg-id=""tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/deadpool-3.webp"group-title="Film":http-referrer="":http-user-agent="",Deadpool 3
 https://a2.vidload.lol/3724/1080p.m3u8
+#EXTINF:-1 tvg-name="Predator 1"tvg-id=""tvg-logo="https://m.media-amazon.com/images/I/51H4TX6K8DL._AC_UF894,1000_QL80_.jpg"group-title="Film":http-referrer="":http-user-agent="",Predator 1
+https://vidmody.com/vs/tt0093773
+#EXTINF:-1 tvg-name="Predator 2"tvg-id=""tvg-logo="https://m.media-amazon.com/images/I/9166CvMmiyL._AC_UF894,1000_QL80_.jpg"group-title="Film":http-referrer="":http-user-agent="",Predator 2
+https://vidmody.com/vs/tt1424381
+#EXTINF:-1 tvg-name="Predator 3"tvg-id=""tvg-logo="https://play-lh.googleusercontent.com/hfOkhY_SoUqGMI3HRqGomGrPGKzC8bU4G18nal3QvHSYYtdekyNO7xxB6M6xzT4LG4ij=w240-h480-rw"group-title="Film":http-referrer="":http-user-agent="",Predator 3
+https://vidmody.com/vs/tt3829266
+#EXTINF:-1 tvg-name="Prey"tvg-id=""tvg-logo="https://de.web.img2.acsta.net/pictures/22/06/13/14/26/2450551.jpg"group-title="Film":http-referrer="":http-user-agent="",Prey
+https://vidmody.com/vs/tt11866324
+#EXTINF:-1 tvg-name="WALL·E"tvg-id=""tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/5C8D13FFDEA93C10069A51DDA07050A362726ADCA060AACEE5DACB61CD3F7891/scale?width=1200&aspectRatio=1.78&format=webp"group-title="Film-Animasyon":http-referrer="":http-user-agent="",WALL·E
+https://vidrame.pro/vr/get/58390cad/1080.txt
+#EXTINF:-1 tvg-name="Ters Yuz"tvg-id=""tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/ters-yuz-film-izle-hd.webp"group-title="Film-Animasyon":http-referrer="":http-user-agent="",Ters Yuz
+https://a3.vidload.lol/1055/1080p.m3u8
+#EXTINF:-1 tvg-name="Ters Yuz 2"tvg-id=""tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/inside-out-2.webp"group-title="Film-Animasyon":http-referrer="":http-user-agent="",Ters Yuz 2
+https://vidrame.pro/vr/get/968e8cf1/1080.txt
+#EXTINF:-1 tvg-name="Ters Yuz 2"tvg-id=""tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/inside-out-2.webp"group-title="Film-Animasyon":http-referrer="":http-user-agent="",Ters Yuz 2
+https://s230.rapidrame.com/hls2/01/00021/x7y9j0h1okjd_,l,n,.urlset/index-f2-v1-a1.m3u8?t=DZNe7Tib8vOHcNtAf8DvBBIllqUp9e-T0qOONzQ2hL0&s=1735415922&e=1199998800&f=107414&srv=s390&i=0.0&sp=0&p1=s230&p2=s230
+#EXTINF:-1 tvg-name="Srek 1"tvg-id=""tvg-logo="https://m.media-amazon.com/images/I/71auZD898WL._AC_UF894,1000_QL80_.jpg"group-title="Film-Animasyon":http-referrer="":http-user-agent="",Srek 1
+https://vidmody.com/vs/tt0126029
+#EXTINF:-1 tvg-name="Srek 2"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMzNmNjQ1NmUtNzhiZS00YWE2LTg4N2ItZTA2ODdmOTMwOTQ1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="Film-Animasyon":http-referrer="":http-user-agent="",Srek 2
+https://vidmody.com/vs/tt0298148
+#EXTINF:-1 tvg-name="Srek 3"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BOTgyMjc3ODk2MV5BMl5BanBnXkFtZTcwMjY0MjEzMw@@._V1_FMjpg_UX1000_.jpg"group-title="Film-Animasyon":http-referrer="":http-user-agent="",Srek 3
+https://vidmody.com/vs/tt0413267
+#EXTINF:-1 tvg-name="Srek 4"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY0OTU1NzkxMl5BMl5BanBnXkFtZTcwMzI2NDUzMw@@._V1_FMjpg_UX1000_.jpg"group-title="Film-Animasyon":http-referrer="":http-user-agent="",Srek 4
+https://vidrame.pro/vr/get/cc6feded/1080.txt
+#EXTINF:-1 tvg-name="Srek 4"tvg-id=""tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY0OTU1NzkxMl5BMl5BanBnXkFtZTcwMzI2NDUzMw@@._V1_FMjpg_UX1000_.jpg"group-title="Film-Animasyon":http-referrer="":http-user-agent="",Srek 4
+https://vidrame.pro/vr/get/cc6feded/1080.txt
 
 
 # * » Rahatlatıcı+18 « * #
