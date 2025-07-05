@@ -1,519 +1,2560 @@
-# * » TRT « * #
-#EXTINF:-1 tvg-name="TRT 1" tvg-language="Turkish" tvg-country="TR" tvg-id="TRT_1" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/10660277.png" group-title="TRT",TRT 1
-https://trt.daioncdn.net/trt-1/master_720p.m3u8?app=web
+#EXTM3U
 
-#EXTINF:-1 tvg-name="TRT 2" tvg-language="Turkish" tvg-country="TR" tvg-id="TRT_2" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/7027954.png" group-title="TRT",TRT 2
-https://tv-trt2.medya.trt.com.tr/master_720.m3u8
-
-#EXTINF:-1 tvg-name="TRT Türk" tvg-language="Turkish" tvg-country="TR" tvg-id="TRT_Turk" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/11787778.png" group-title="TRT",TRT Türk
-https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
-
-#EXTINF:-1 tvg-name="TRT Avaz" tvg-language="Turkish" tvg-country="TR" tvg-id="TRT_Avaz" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/7027789.png" group-title="TRT",TRT Avaz
-https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
-
-#EXTINF:-1 tvg-name="TRT Kürdi" tvg-language="Kurdish" tvg-country="IR" tvg-id="TRT_Kurdi" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/14812637.png" group-title="TRT",TRT Kürdi
-https://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
-
-#EXTINF:-1 tvg-name="TRT Arabi" tvg-language="Arabic" tvg-country="SA" tvg-id="TRT_Arabi" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/7027905.png" group-title="TRT",TRT Arabi
-https://tv-trtarabi.medya.trt.com.tr/master_720.m3u8
-
-#EXTINF:-1 tvg-name="TRT World" tvg-language="English" tvg-country="USA" tvg-id="TRT_World" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/7834584.png" group-title="TRT",TRT World
-https://tv-trtworld.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="Play Tv | Ulusal",PLAY TV
+https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
 
 
-# * » Haber « * #
-#EXTINF:-1 tvg-name="TRT Haber" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_TRT" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/8971102.png" group-title="Haber",TRT Haber
-https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
-
-#EXTINF:-1 tvg-name="Haber Türk" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_HaberTurk" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5dc2bf0c866ac331e0feb216" group-title="Haber",Haber Türk
-https://haberturkdvr.blutv.com/blutv_haberturk_dvr2/live_720p2000000kbps/index.m3u8
-
-#EXTINF:-1 tvg-name="CNN Türk" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_CNNTurk" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/61236013866ac319e8143500" group-title="Haber",CNN Türk
-https://ythls.kekikakademi.org/youtube/channel/UCV6zcRug6Hqp1UX_FdyUeBg.m3u8
-
-#EXTINF:-1 tvg-name="NTV" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_NTV" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/56a72d98058d024d98970264" group-title="Haber",NTV
-https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
-
-#EXTINF:-1 tvg-name="A Haber" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_AHaber" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="Haber",A Haber
-https://ythls.kekikakademi.org/youtube/channel/UCKQhfw-lzz0uKnE1fY1PsAA.m3u8
-
-#EXTINF:-1 tvg-name="Haber Global" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_HaberGlobal" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/603dfe0f866ac31798b3f4fa" group-title="Haber",Haber Global
-https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
-
-#EXTINF:-1 tvg-name="Kanal 24" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_Kanal24" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5dc2bca3866ac331e0feb1ed" group-title="Haber",Kanal 24
-https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
-
-#EXTINF:-1 tvg-name="Ulusal Kanal" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_UlusalKanal" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/603c1580866ac31704a99333" group-title="Haber",Ulusal Kanal
-https://ythls.kekikakademi.org/youtube/channel/UC6T0L26KS1NHMPbTwI1L4Eg.m3u8
-
-#EXTINF:-1 tvg-name="TV 100" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_TV100" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/60420fa5866ac32430025edd" group-title="Haber",TV 100
-https://tv100.blutv.com/blutv_tv100_live/live.m3u8
-
-#EXTINF:-1 tvg-name="Tele 1" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_Tele1" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/60e54dfe866ac30fa0be7528" group-title="Haber",Tele 1
-https://ythls.kekikakademi.org/youtube/channel/UCoHnRpOS5rL62jTmSDO5Npw.m3u8
-
-#EXTINF:-1 tvg-name="TGRT Haber" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_TGRT" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5c63c466866ac30cbc2ad84f" group-title="Haber",TGRT Haber
-https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_720p.m3u8
-
-#EXTINF:-1 tvg-name="KRT TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_KRTTV" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/61951f4c866ac31a807822e8" group-title="Haber",KRT TV
-https://krt.blutv.com/blutv_krt_live/live.m3u8
-
-#EXTINF:-1 tvg-name="Sözcü TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_SozcuTV" tvg-logo="https://www.evrensel.net/upload/dosya/231375.jpg" group-title="Haber",Sözcü TV
-https://ythls.kekikakademi.org/youtube/channel/UCOulx_rep5O4i9y6AyDqVvw.m3u8
-
-#EXTINF:-1 tvg-name="Halk TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_HalkTV" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5dc2bfbd866ac31da06187c5" group-title="Haber",Halk TV
-https://halktv-live.daioncdn.net/halktv/halktv_720p.m3u8
-
-#EXTINF:-1 tvg-name="Bloomberg HT" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_BloombergHT" tvg-logo="https://play-lh.googleusercontent.com/byyHq1uwkzFuB42rm9LDzVZhYr-jyW4KSubjUWtCKxi-C09JjNm7csXuFsTxOJ5_Eygk" group-title="Haber",Bloomberg HT
-https://bloomberght2dvr.blutv.com/blutv_bloomberght_dvr/live.m3u8
-
-#EXTINF:-1 tvg-name="Meclis TV" tvg-language="Turkish" tvg-country="TR" tvg-id="TBMM" tvg-logo="https://seeklogo.com/images/T/tbmm-logo-9FB0F2818C-seeklogo.com.png" group-title="TRT",Meclis TV
-https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
+#EXTINF:-1 group-title="Play Tv | Ulusal",TRT 1 HD
+https://tv-trt1.medya.trt.com.tr/master.m3u8
 
 
-# * » Belgesel « * #
-#EXTINF:-1 tvg-name="TRT Belgesel"tvg-id="Belgesel_TRT"tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/8114410.png"group-title="Belgesel":http-referrer="":http-user-agent="",TRT Belgesel
-https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="Play Tv | Ulusal",TRT 2 HD 
+https://tv-trt2.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-name="TLC"tvg-id="Belgesel_TLC"tvg-logo="https://img-tlctv.mncdn.com/logo.png"group-title="Belgesel":http-referrer="":http-user-agent="",TLC
-https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
 
-#EXTINF:-1 tvg-name="DMax"tvg-id="Belgesel_DMax"tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/604a04ef866ac32574736ef6"group-title="Belgesel":http-referrer="":http-user-agent="",DMax
-https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
+#EXTINF:-1 group-title="Play Tv | Ulusal",ATV HD
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 
-#EXTINF:-1 tvg-name="TGRT Belgesel"tvg-id="24.tr"tvg-logo="https://www.tgrtbelgesel.com.tr/wp-content/uploads/2021/08/TGRT_Belgesel_Logo.png"group-title="Belgesel":http-referrer="":http-user-agent="",TGRT Belgesel
-https://tgn.bozztv.com/dvrfl05/gin-tgrtbelgesel/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-name="Nat Geo HD TR"tvg-id="" tvg-logo=""group-title="Belgesel":http-referrer="":http-user-agent="",Nat Geo HD TR
-http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432433
+#EXTINF:-1 group-title="Play Tv | Ulusal",ATV HD Yedek
+http://89.187.191.41/ATV-HD-TR/video.m3u8
 
-#EXTINF:-1 tvg-name="Nat Geo Wild"tvg-id="natgeowild.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ--wfW2_Q5bKwwwdDO2MA5f5MLd7mGhAoFvw&s"group-title="Belgesel":http-referrer="":http-user-agent="",Nat Geo Wild
-https://tv.prectv5.sbs/live/natgeowild.m3u8
 
-#EXTINF:-1 tvg-name="History Channel "tvg-id="viasathistory.tr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg"group-title="Belgesel":http-referrer="":http-user-agent="",History Channel
-https://tv.prectv5.sbs/live/history.m3u8
+#EXTINF:-1 group-title="Play Tv | Ulusal",ATV Avrupa
+http://162.212.179.33/dvrfl05/gin-atvavrupa/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Viasat History "tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzh-5cvBD8vZPDAKOXUu0Vm9prOACcibyMFw&s"group-title="Belgesel":http-referrer="":http-user-agent="",Viasat History
-https://tv.prectv5.sbs/live/viasatexplore.m3u8
 
-#EXTINF:-1 tvg-name="BBC Earth"tvg-id="bbcearth.tr"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNXOrjX8auopIAAKFRHx1Y-KLi8Ync-CWUfw&s"group-title="Belgesel":http-referrer="":http-user-agent="",BBC Earth
-https://tv.prectv5.sbs/live/bbc.m3u8
+#EXTINF:-1 group-title="Play Tv | Ulusal",Kanal D
+https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 
-#EXTINF:-1 tvg-name="TR | beIN Gurmeⓧ FHD"tvg-id="" tvg-logo="http://platinumxmedia.xyz:8080/images/17a24177c9d3b9f82eb8fc9d6e968123.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR | beIN Gurmeⓧ FHD
-http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432169
 
-#EXTINF:-1 tvg-name="Bein Iz"tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB16OQGYHvmbbeR7ojxAn2dBMRRG6YnMt0ww&s"group-title="Belgesel":http-referrer="https://trgoals1077.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",Bein Iz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1077.xyz/
+#EXTINF:-1 group-title="Play Tv | Ulusal",Euro D
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 
-https://one.fbf1eb5f21ff67.shop/live/beiniz/playlist.m3u8?live=true
-#EXTINF:-1 tvg-name="TR | Animal Planetⓧ SD"tvg-id="" tvg-logo="http://platinumxmedia.xyz:8080/images/b73b36a238c8cf4de7a681241773d20c.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR | Animal Planetⓧ SD
-http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432152
 
-#EXTINF:-1 tvg-name="TR | Da Vinci Learningⓧ HD"tvg-id="" tvg-logo="http://platinumxmedia.xyz:8080/images/e41840efb76abde867f0b2e3b8c55bd4.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR | Da Vinci Learningⓧ HD
-http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432228
 
-#EXTINF:-1 tvg-name="TR | Discovery Channelⓧ HD"tvg-id="" tvg-logo="http://platinumxmedia.xyz:8080/images/813513ce030768aab17b38d54a047587.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR | Discovery Channelⓧ HD
-http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432233
-
-#EXTINF:-1 tvg-name="TR | Discovery IDⓧ FHD"tvg-id="" tvg-logo="http://platinumxmedia.xyz:8080/images/c252334e2e045ea52295de41cbefa2b7.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR | Discovery IDⓧ FHD
-http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432234
-
-#EXTINF:-1 tvg-name="TR | DocuBoxⓧ FHD"tvg-id="" tvg-logo="http://platinumxmedia.xyz:8080/images/afdf2898c0d833e0a26f3f063b2abcbf.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR | DocuBoxⓧ FHD
-http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432246
-
-#EXTINF:-1 tvg-name="TR | Fashion Midnightⓧ HD"tvg-id="" tvg-logo="http://platinumxmedia.xyz:8080/images/49a709e3d0ced8b1a6a0f5091cf6e231.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR | Fashion Midnightⓧ HD
-http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432307
-
-#EXTINF:-1 tvg-name="TR | Fashion TVⓧ FHD"tvg-id="" tvg-logo="http://platinumxmedia.xyz:8080/images/49a709e3d0ced8b1a6a0f5091cf6e231.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR | Fashion TVⓧ FHD
-http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432308
-
-#EXTINF:-1 tvg-name="TR | Love Natureⓧ HD"tvg-id="" tvg-logo="http://platinumxmedia.xyz:8080/images/32167cf1f862054f6c6c323d38a1f2f2.png"group-title="Belgesel":http-referrer="":http-user-agent="",TR | Love Natureⓧ HD
-http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432398
-
-# * » Genel « * #
-#EXTINF:-1 tvg-name="Star TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_StarTV" tvg-logo="https://tvakisi.com/public/resimler/kanallar/star-tv-886.webp" group-title="Genel",Star TV
+#EXTINF:-1 group-title="Play Tv | Ulusal", Star TV 
 https://dogus-live.daioncdn.net/startv/startv.m3u8
 
-#EXTINF:-1 tvg-name="ATV" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_ATV" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="Genel",ATV
-http://stream.tvcdn.net/ulusal/atv.m3u8
 
-#EXTINF:-1 tvg-name="Now TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_FoxTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/1920px-NOW_TV_%28Turkey%29_wordmark-red.svg.png" group-title="Genel",Now TV
-http://stream.tvcdn.net/ulusal/now-tv.m3u8
 
-#EXTINF:-1 tvg-name="Show TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_ShowTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_of_Show_TV.png" group-title="Genel",Show TV
-https://ciner-live.daioncdn.net/showtv/showtv_720p.m3u8
+#EXTINF:-1 group-title="Play Tv | Ulusal", Euro Star 
+https://canlitvulusal.xyz/live/eurostar/index.m3u8
 
-#EXTINF:-1 tvg-name="TV 8" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_TV8" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="Genel",TV 8
-https://tv8-live.daioncdn.net/tv8/tv8_720p.m3u8
 
-#EXTINF:-1 tvg-name="Kanal D" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_KanalD" tvg-logo="https://seeklogo.com/images/K/kanal-d-logo-8327051372-seeklogo.com.png" group-title="Genel",Kanal D
-https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
 
-#EXTINF:-1 tvg-name="Beyaz TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_BeyazTV" tvg-logo="https://www.beyaztv.com.tr/images/logo.png" group-title="Genel",Beyaz TV
-https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
 
-#EXTINF:-1 tvg-name="Teve2" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_Teve2" tvg-logo="https://play-lh.googleusercontent.com/oXtnvGvKeRm3A668LZYAlm9TnrPmZWILngjmHvIOvrtajhZfwCUsJxM1_cgqaQlSaZM" group-title="Genel",Teve2
-https://demiroren-live.daioncdn.net/teve2/teve2_720p.m3u8
+#EXTINF:-1 group-title="Play Tv | Ulusal", Show TV 
+https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 
-#EXTINF:-1 tvg-name="A2" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_A2" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg?20161129163613" group-title="Genel",A2
-http://stream.tvcdn.net/eglence/a2.m3u8
 
-#EXTINF:-1 tvg-name="TV 4" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_TV4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Tv4_logo.png" group-title="Genel",TV 4
-https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 
-#EXTINF:-1 tvg-name="CNBC-e" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_CNBC-e" tvg-logo="https://s.cnbce.com/dist/images/logo.png" group-title="Genel",CNBC-e (Youtube)
-https://ythls.kekikakademi.org/youtube/channel/UCaO-M1dXacMwtyg0Pvovk4w.m3u8
+#EXTINF:-1 group-title="Play Tv | Ulusal", Show Türk
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shturk.m3u8
 
-#EXTINF:-1 tvg-name="Lalegül TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_LalegulTV" tvg-logo="https://pbs.twimg.com/profile_images/1310471094344781824/mHv5RJn5_400x400.png" group-title="Genel",Lalegül TV
-https://lbl.netmedya.net/hls/lalegultv.m3u8
 
-#EXTINF:-1 tvg-name="Kanal 7" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_Kanal7" tvg-logo="https://pbs.twimg.com/profile_images/1237020778450817025/A5oEtr15_400x400.png" group-title="Genel",Kanal 7
+#EXTINF:-1 group-title="Play Tv | Ulusal", Show Max
+https://ciner-live.daioncdn.net/showmax/showmax.m3u8
+
+
+
+#EXTINF:-1 group-title="Play Tv | Ulusal", Now TV 
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
+
+
+#EXTINF:-1 group-title="Play Tv | Ulusal", TV 8
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+
+
+#EXTINF:-1 group-title="Play Tv | Ulusal", TV 8,5
+https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8
+
+
+#EXTINF:-1 group-title="Play Tv | Ulusal", TV 8 İnt
+http://185.234.111.229:8000/play/a01x
+
+
+#EXTINF:-1 group-title="Play Tv | Ulusal", Beyaz TV 
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
+
+
+#EXTINF:-1 group-title="Play Tv | Ulusal",  360 Tv
+https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
+
+
+#EXTINF:-1 group-title="Play Tv | Ulusal", Teve 2
+https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
+
+
+#EXTINF:-1 group-title="Play Tv | Ulusal",  Kanal 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 
-#EXTINF:-1 tvg-name="Life TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_LifeTV" tvg-logo="https://i.imgur.com/lWeJxm0.png" group-title="Genel",Life TV
-https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Cine1" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_Cine1" tvg-logo="https://i.ibb.co/zhxTBMR/cine1.png" group-title="Genel",Cine1
-https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="CINE 5" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_CINE5" tvg-logo="https://imgrosetta.mynet.com.tr/file/2194387/728xauto.jpg" group-title="Genel",CINE 5
-https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Fashion TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_FashionTV" tvg-logo="https://play-lh.googleusercontent.com/SO05Jsh-ONrtRXa_5eOa15AzjrFCKNNPKlBMK1Prv_-meYXAV5F5eK15iJTGbY2ULBM" group-title="Genel",Fashion TV
-https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Fashion Film" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_FashionFilm" tvg-logo="https://play-lh.googleusercontent.com/dvkA_O2l5QM9I04JMbQ_1D5ZO1hfN6XIOULKeS8C5Wgb-LxoaQo1oFnKnG7HVtrn1g" group-title="Genel",Fashion Film
-https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 
 
-# * » Sinema « * #
-#EXTINF:-1 tvg-name="BEIN BOX OFFICE 1 ʜᴅ"tvg-id="" tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",BEIN BOX OFFICE 1 ʜᴅ
-http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432166
-#EXTINF:-1 tvg-name="beIN Box Office 2 HD TR"tvg-id="" tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",beIN Box Office 2 HD TR
-http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432167
-#EXTINF:-1 tvg-name="Beinbox Office 3"tvg-id="" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-box-office-3-logo.png"group-title="Sinema ":http-referrer="":http-user-agent="",Beinbox Office 3
-http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432168
-#EXTINF:-1 tvg-name="Bein Movies Stars"tvg-id="" tvg-logo="data:image/png;base64,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"group-title="Sinema":http-referrer="":http-user-agent="",Bein Movies Stars
-https://tv.prectv5.sbs/live/bsstars.m3u8
-#EXTINF:-1 tvg-name="Bein Movies premiere"tvg-id="" tvg-logo="https://media0065.elcinema.com/tvguide/1322_1.png"group-title="Sinema":http-referrer="":http-user-agent="",Bein Movies premiere
-https://tv.prectv5.sbs/live/bspremier1.m3u8
-#EXTINF:-1 tvg-name="TR | beIN Movies Premiere 2ⓧ FHD"tvg-id="" tvg-logo="http://platinumxmedia.xyz:8080/images/321128f6b6caf6d93951e6da520535fe.png"group-title="Sinema":http-referrer="":http-user-agent="",TR | beIN Movies Premiere 2ⓧ FHD
-http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432175
-#EXTINF:-1 tvg-name="Bein Movies Turk"tvg-id="" tvg-logo="https://img.netzwelt.de/dw1600_dh900_sw208_sh117_sx6_sy51_sr16x9_nu2/picture/original/2020/05/bein-movies-turk-276547.png"group-title="Sinema":http-referrer="":http-user-agent="",Bein Movies Turk
-https://tv.prectv5.sbs/live/bsturk.m3u8
-#EXTINF:-1 tvg-name="TR | beIN Movies Actionⓧ FHD"tvg-id="" tvg-logo="http://platinumxmedia.xyz:8080/images/6ec8ad6fc2708fefd3d0fd064a9d39c5.png"group-title="Sinema":http-referrer="":http-user-agent="",TR | beIN Movies Actionⓧ FHD
-http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432173
-#EXTINF:-1 tvg-name="TR | beIN Series Comedyⓧ FHD"tvg-id="" tvg-logo="http://platinumxmedia.xyz:8080/images/6cc9b0c744e45657312e710f597babcd.png"group-title="Sinema":http-referrer="":http-user-agent="",TR | beIN Series Comedyⓧ FHD
-http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432179
-#EXTINF:-1 tvg-name="TR | beIN Series Dramaⓧ FHD"tvg-id="" tvg-logo="http://platinumxmedia.xyz:8080/images/5e6023f027f313b5d04b43cd059f7112.png"group-title="Sinema":http-referrer="":http-user-agent="",TR | beIN Series Dramaⓧ FHD
-http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432180
-#EXTINF:-1 tvg-name="TR | beIN Series Sci-Fiⓧ FHD"tvg-id="" tvg-logo="http://platinumxmedia.xyz:8080/images/48ffe22e40a644fe874f40124974b92d.png"group-title="Sinema":http-referrer="":http-user-agent="",TR | beIN Series Sci-Fiⓧ FHD
-http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432181
-#EXTINF:-1 tvg-name="TR | beIN Series Viceⓧ FHD"tvg-id="" tvg-logo="http://platinumxmedia.xyz:8080/images/422effce3590dabb592fae5561d40b06.png"group-title="Sinema":http-referrer="":http-user-agent="",TR | beIN Series Viceⓧ FHD
-http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432182
-#EXTINF:-1 tvg-name="Rize Türk TV"tvg-id=""tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFqUAdF7Tg2HfBWFru-Yl2rVntju4lRUSxFIMR4gvaHV7Y1FyGZnFma2QbxHzL0yw-ofOqVt2oQk-BaoW_iYIbEri56Q0ZrW90tPnFNCLTZMd3sSy5JyEbb_p5zhNVyxJQa4U-dd3scI6Z8CBhrnDMF-TGkgZfCdoDqcP5SBWkM18IoCx_ObsNO1AUJw/s434/rizeturktv.png"group-title="Sinema":http-referrer="":http-user-agent="",Rize Türk TV
-https://yayin.rizeturk.com:3777/hybrid/play.m3u8
-#EXTINF:-1 tvg-name="TR | MovieSmart Classicⓧ FHD"tvg-id="" tvg-logo="http://platinumxmedia.xyz:8080/images/02a14bade9995e32c40b9146ebbfd1d9.png"group-title="Sinema":http-referrer="":http-user-agent="",TR | MovieSmart Classicⓧ FHD
-http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432426
-#EXTINF:-1 tvg-name="TR | MovieSmart Premiumⓧ FHD"tvg-id="" tvg-logo="http://platinumxmedia.xyz:8080/images/360ee1a637d4e3f51fb36f20ff9967d0.png"group-title="Sinema":http-referrer="":http-user-agent="",TR | MovieSmart Premiumⓧ FHD
-http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432428
-#EXTINF:-1 tvg-name="Moviesmart Türk"tvg-id="" tvg-logo="https://www.yuksekovaguncel.com.tr/images/haberler/d_smartin_hd_kanal_sayisi_artiyor_h55683.jpg"group-title="Sinema":http-referrer="":http-user-agent="",Moviesmart Türk
-https://tv.prectv5.sbs/live/mvturk.m3u8
-#EXTINF:-1 tvg-name="TR | DiziSmart Maxⓧ FHD"tvg-id="" tvg-logo="http://platinumxmedia.xyz:8080/images/b7c161bb87bb0308fb25e6f68d0a5632.png"group-title="Sinema":http-referrer="":http-user-agent="",TR | DiziSmart Maxⓧ FHD
-http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432240
-#EXTINF:-1 tvg-name="TR | DiziSmart Premiumⓧ HD"tvg-id="" tvg-logo="http://platinumxmedia.xyz:8080/images/526e3099f117db014fcc983920f487aa.png"group-title="Sinema":http-referrer="":http-user-agent="",TR | DiziSmart Premiumⓧ HD
-http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432242
-#EXTINF:-1 tvg-name="FX"tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1715419203610857472/W2ZpsXbt_400x400.jpg"group-title="Sinema":http-referrer="":http-user-agent="",FX
-https://tv.prectv5.sbs/live/fx.m3u8
-#EXTINF:-1 tvg-name="TR | ENO Animasyon 1ⓧ FHD"tvg-id="" tvg-logo="http://platinumxmedia.xyz:8080/images/3a2500979310fa089c38362dc871e3b5.png"group-title="Sinema":http-referrer="":http-user-agent="",TR | ENO Animasyon 1ⓧ FHD
-http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432268
-#EXTINF:-1 tvg-name="TR | ENO Animasyon 2ⓧ FHD"tvg-id="" tvg-logo="http://platinumxmedia.xyz:8080/images/3a2500979310fa089c38362dc871e3b5.png"group-title="Sinema":http-referrer="":http-user-agent="",TR | ENO Animasyon 2ⓧ FHD
-http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432269
-#EXTINF:-1 tvg-name="TR | ENO Vizyon 01ⓧ FHD"tvg-id="" tvg-logo="http://platinumxmedia.xyz:8080/images/3a2500979310fa089c38362dc871e3b5.png"group-title="Sinema":http-referrer="":http-user-agent="",TR | ENO Vizyon 01ⓧ FHD
-http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432286
-#EXTINF:-1 tvg-name="TR | ENO Vizyon 02ⓧ FHD"tvg-id="" tvg-logo="http://platinumxmedia.xyz:8080/images/3a2500979310fa089c38362dc871e3b5.png"group-title="Sinema":http-referrer="":http-user-agent="",TR | ENO Vizyon 02ⓧ FHD
-http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432287
-#EXTINF:-1 tvg-name="TR | ENO Vizyon 03ⓧ FHD"tvg-id="" tvg-logo="http://platinumxmedia.xyz:8080/images/3a2500979310fa089c38362dc871e3b5.png"group-title="Sinema":http-referrer="":http-user-agent="",TR | ENO Vizyon 03ⓧ FHD
-http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432288
-#EXTINF:-1 tvg-name="TR | Marvel Studios 1ⓧ HD"tvg-id="" tvg-logo="http://platinumxmedia.xyz:8080/images/0a2de2af7074c1060a1663df4c2452d2.png"group-title="Sinema":http-referrer="":http-user-agent="",TR | Marvel Studios 1ⓧ HD
-http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432400
-#EXTINF:-1 tvg-name="TR | Max 007ⓧ FHD"tvg-id="" tvg-logo="http://platinumxmedia.xyz:8080/images/04c37db4ebd44a81e8781c3c5016d6b3.png"group-title="Sinema":http-referrer="":http-user-agent="",TR | Max 007ⓧ FHD
-http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432403
-#EXTINF:-1 tvg-name="TR | Max Aksiyon 2ⓧ FHD"tvg-id="" tvg-logo="http://platinumxmedia.xyz:8080/images/04c37db4ebd44a81e8781c3c5016d6b3.png"group-title="Sinema":http-referrer="":http-user-agent="",TR | Max Aksiyon 2ⓧ FHD
-http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432405
-#EXTINF:-1 tvg-name="TR | Max Animasyon 1ⓧ FHD"tvg-id="" tvg-logo="http://platinumxmedia.xyz:8080/images/04c37db4ebd44a81e8781c3c5016d6b3.png"group-title="Sinema":http-referrer="":http-user-agent="",TR | Max Animasyon 1ⓧ FHD
-http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432407
-#EXTINF:-1 tvg-name="TR | Max Orjinalⓧ FHD"tvg-id="" tvg-logo="http://platinumxmedia.xyz:8080/images/04c37db4ebd44a81e8781c3c5016d6b3.png"group-title="Sinema":http-referrer="":http-user-agent="",TR | Max Orjinalⓧ FHD
-http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432410
-#EXTINF:-1 tvg-name="TR | Max Vizyonⓧ FHD"tvg-id="" tvg-logo="http://platinumxmedia.xyz:8080/images/04c37db4ebd44a81e8781c3c5016d6b3.png"group-title="Sinema":http-referrer="":http-user-agent="",TR | Max Vizyonⓧ FHD
-http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432416
-#EXTINF:-1 tvg-name="TR | Max Vizyon 2ⓧ FHD"tvg-id="" tvg-logo="http://platinumxmedia.xyz:8080/images/04c37db4ebd44a81e8781c3c5016d6b3.png"group-title="Sinema":http-referrer="":http-user-agent="",TR | Max Vizyon 2ⓧ FHD
-http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432413
-#EXTINF:-1 tvg-name="TR | Max Vizyon 3ⓧ FHD"tvg-id="" tvg-logo="http://platinumxmedia.xyz:8080/images/04c37db4ebd44a81e8781c3c5016d6b3.png"group-title="Sinema":http-referrer="":http-user-agent="",TR | Max Vizyon 3ⓧ FHD
-http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432414
-#EXTINF:-1 tvg-name="TR | Sinema TV 1001ⓧ FHD"tvg-id="" tvg-logo="http://platinumxmedia.xyz:8080/images/d008e09c4839637078a40c90849e45a2.png"group-title="Sinema":http-referrer="":http-user-agent="",TR | Sinema TV 1001ⓧ FHD
-http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432476
-#EXTINF:-1 tvg-name="TR | Sinema TV 2ⓧ FHD"tvg-id="" tvg-logo="http://platinumxmedia.xyz:8080/images/9e25f15ab9df863a958024185182c178.png"group-title="Sinema":http-referrer="":http-user-agent="",TR | Sinema TV 2ⓧ FHD
-http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432478
-#EXTINF:-1 tvg-name="TR | Sinema TV Aileⓧ FHD"tvg-id="" tvg-logo="http://platinumxmedia.xyz:8080/images/54f50f64087c4dfa0f6f50feb0a72367.png"group-title="Sinema":http-referrer="":http-user-agent="",TR | Sinema TV Aileⓧ FHD
-http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432480
-#EXTINF:-1 tvg-name="TR | Sinema TV Komedi 2ⓧ FHD"tvg-id="" tvg-logo="http://platinumxmedia.xyz:8080/images/4fa521b8c6e24847dcc7ed69c1399232.png"group-title="Sinema":http-referrer="":http-user-agent="",TR | Sinema TV Komedi 2ⓧ FHD
-https://tv.arectv11.sbs/live/sinemaaile2.m3u8
-
-# * » ÇizgiFilm « * #
-#EXTINF:-1 tvg-name="TRT Çocuk" tvg-language="Turkish" tvg-country="TR" tvg-id="CizgiFilm_TRT" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/13060701.png" group-title="ÇizgiFilm",TRT Çocuk
-https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
-
-#EXTINF:-1 tvg-name="TRT Diyanet Çocuk" tvg-language="Turkish" tvg-country="TR" tvg-id="CizgiFilm_TRTDiyanet" tvg-logo="http://assets.tvcdn.net/dba05bf2-9d24-4d20-bc6c-f54a2b60ef7f.png" group-title="ÇizgiFilm",TRT Diyanet Çocuk
-http://stream.tvcdn.net/cocuk-egitim/trt-diyanet-cocuk.m3u8
-
-#EXTINF:-1 tvg-name="Cartoon Network" tvg-language="Turkish" tvg-country="TR" tvg-id="CizgiFilm_CartoonNetwork" tvg-logo="https://i.ibb.co/X5yPXkD/cartoon-network.png" group-title="ÇizgiFilm",Cartoon Network
-http://stream.tvcdn.net/cocuk-egitim/cartoon-network.m3u8
-
-#EXTINF:-1 tvg-name="MinikaGo" tvg-language="Turkish" tvg-country="TR" tvg-id="CizgiFilm_MinikaGo" tvg-logo="https://i.ibb.co/2ZwxWr0/minika-go.png" group-title="ÇizgiFilm",MinikaGo
-http://stream.tvcdn.net/cocuk-egitim/minika-go.m3u8
-
-#EXTINF:-1 tvg-name="Minika Çocuk" tvg-language="Turkish" tvg-country="TR" tvg-id="CizgiFilm_MinikaCocuk" tvg-logo="https://i.ibb.co/S794c6W/minika-cocuk.png" group-title="ÇizgiFilm",Minika Çocuk
-http://stream.tvcdn.net/cocuk-egitim/minika-cocuk.m3u8
-
-#EXTINF:-1 tvg-name="Cartoonito TV" tvg-language="Turkish" tvg-country="TR" tvg-id="CizgiFilm_CartoonitoTV" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/500x500/64f57b42866ac307e484249e" group-title="ÇizgiFilm",Cartoonito TV
-https://cartoonito.blutv.com/blutv_cartoonito/smil:cartoonito.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Zarok TV" tvg-language="Kurdish" tvg-country="IR" tvg-id="CizgiFilm_ZarokTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/1_ZarokTVLogonet5.png" group-title="ÇizgiFilm",Zarok TV
-https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
+#EXTINF:-1 group-title="Play Tv | Ulusal",  Kanal 7 Avrupa
+https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
 
 
-# * » Spor « * #
-#EXTINF:-1 tvg-name="A Spor"tvg-id="" tvg-logo="https://cdn6.aptoide.com/imgs/7/f/d/7fd636ea06646d1a9aaefe27a11dfb58_icon.png"group-title="Spor":http-referrer="":http-user-agent="",A Spor
-https://tgn.bozztv.com/dvrfl05/gin-aspor/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="TRT Spor"tvg-id="Spor_TRT"tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/13687983.png"group-title="Spor":http-referrer="":http-user-agent="",TRT Spor
-https://tgn.bozztv.com/dvrfl05/gin-trtspor/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="TRT Spor Yıldız"tvg-id="Spor_SporYildiz"tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/11290418.png"group-title="Spor":http-referrer="":http-user-agent="",TRT Spor Yıldız
-https://tgn.bozztv.com/dvrfl05/gin-trtspor2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="HT Spor "tvg-id="" tvg-logo="https://yt3.googleusercontent.com/B3IWp1Ke7InBdWs0z8dkXpRlg4J6lQ0ETi8hbMQ64w3uh9RfHTOtU6K7_uLYRbIoA6NteY9a=s900-c-k-c0x00ffffff-no-rj"group-title="Spor":http-referrer="":http-user-agent="",HT Spor
-https://ciner-live.daioncdn.net/ht-spor/ht-spor_1080p.m3u8
-#EXTINF:-1 tvg-name="Sports TV"tvg-id="Spor_SportsTV"tvg-logo="http://assets.tvcdn.net/96bc5554-741b-4e91-8b4f-7b3bcc1e4c1d.png"group-title="Spor":http-referrer="":http-user-agent="",Sports TV
+
+#EXTINF:-1 group-title="Play Tv | Ulusal",  A2
+http://89.187.191.41/A2-HD-TR/video.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Play Tv | Ulusal",  TYT TÜRK
+https://cdn-tytturk.yayin.com.tr/tytturk/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 group-title="Play Tv | Ulusal",  CNBC-E
+https://uzunmuhalefet.serv00.net/canlitv2.php?id=13406&.m3u8
+
+
+
+#EXTINF:-1 group-title="Play Tv | Ulusal",  TRT Türk 
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
+
+
+
+#EXTINF:-1 group-title="Play Tv | Spor ", TRT Spor 
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+
+
+
+#EXTINF:-1 group-title="Play Tv | Spor ", TRT Spor Yıldız
+https://tv-trtspor2.medya.trt.com.tr/master.m3u8
+
+
+#EXTINF:-1 group-title="Play Tv | Spor ", A Spor
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Play Tv | Spor ", Sports TV 
 https://live.sportstv.com.tr/hls/low/sportstv.m3u8
-#EXTINF:-1 tvg-name="GS TV"tvg-id="Spor_GSTV"tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a1/Gstv-yeni.PNG"group-title="Spor":http-referrer="":http-user-agent="",GS TV
-https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
-#EXTINF:-1 tvg-name="FB TV"tvg-id="Spor_FBTV"tvg-logo="https://seeklogo.com/images/F/fenerbahce-tv-logo-A4F539D377-seeklogo.com.png"group-title="Spor":http-referrer="":http-user-agent="",FB TV
-http://stream.tvcdn.net/spor/fb-tv.m3u8
-#EXTINF:-1 tvg-name="NBA TV"tvg-id="Spor_NBATV"tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/89/Nbatv.png"group-title="Spor":http-referrer="":http-user-agent="",NBA TV
-http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432435
-#EXTINF:-1 tvg-name="NBA TV"tvg-id="Spor_NBATV"tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/89/Nbatv.png"group-title="Spor":http-referrer="":http-user-agent="",NBA TV
-http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432436
-#EXTINF:-1 tvg-name="Euro Sport"tvg-id="Spor_EuroSport"tvg-logo="https://w7.pngwing.com/pngs/350/883/png-transparent-eurosport-1-eurosport-2-television-channel-1-euro-television-blue-angle.png"group-title="Spor":http-referrer="https://trgoals1077.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",Euro Sport
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1077.xyz/
-https://cinque.29d0b51b213115a0.click/p/9cgzadFETvVedJ4Tsp/132/a.cf-worker-4e1da3ddd26870a5.workers.dev/chunklist_hd.m3u8
-#EXTINF:-1 tvg-name="Euro Sport 2"tvg-id="Spor_EuroSport2"tvg-logo="https://w7.pngwing.com/pngs/327/493/png-transparent-eurosport-1-television-channel-logo-eurosport-2-others-miscellaneous-television-text.png"group-title="Spor":http-referrer="":http-user-agent="",Euro Sport 2
-http://tvskor99.xyz:80/live/sahinselat2/k6rd0vxMYg/290924.ts
-#EXTINF:-1 tvg-name="Tivibu Spor"tvg-id="" tvg-logo="https://golvar913.sbs/wp-content/themes/ikisifirbirdokuz/assets/_/ch/605.webp"group-title="Spor":http-referrer="https://trgoals1077.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",Tivibu Spor
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1077.xyz/
-https://sei.c53af06fa4e55583.click/p/f2XX9QypQfMaQ5rX1zA/605/a.cf-worker-f1a2134fd551fa4b.workers.dev/chunklist_hd.m3u8
-#EXTINF:-1 tvg-name="Tivibu Spor"tvg-id="" tvg-logo="https://golvar913.sbs/wp-content/themes/ikisifirbirdokuz/assets/_/ch/605.webp"group-title="Spor":http-referrer="https://trgoals1077.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",Tivibu Spor
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1077.xyz/
-https://cinque.c53af06fa4e55583.click/p/canlimaclar2837.sbs/605/a.cf-worker-f1a2134fd551fa4b.workers.dev/chunklist_hd.m3u8
-#EXTINF:-1 tvg-name="Tivibu Spor"tvg-id="" tvg-logo="https://golvar913.sbs/wp-content/themes/ikisifirbirdokuz/assets/_/ch/605.webp"group-title="Spor":http-referrer="https://trgoals1077.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",Tivibu Spor
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1077.xyz/
-https://cfr.zahteriyidir.shop/M875407/M875407.m3u8
-#EXTINF:-1 tvg-name="Tivibu Spor"tvg-id="" tvg-logo="https://golvar913.sbs/wp-content/themes/ikisifirbirdokuz/assets/_/ch/605.webp"group-title="Spor":http-referrer="":http-user-agent="",Tivibu Spor
-http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432541
-#EXTINF:-1 tvg-name="Tivibu Spor 1"tvg-id="Spor_TivibuSpor1"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/qadnsi1642604437.png"group-title="Spor":http-referrer="https://trgoals1077.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",Tivibu Spor 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1077.xyz/
-https://alpha.cf-worker-c4d6a2ea181de1b9.workers.dev/live/tivibu-spor-1/playlist.m3u8
-#EXTINF:-1 tvg-name="Tivibu Spor 1"tvg-id="Spor_TivibuSpor1"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/qadnsi1642604437.png"group-title="Spor":http-referrer="https://trgoals1077.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",Tivibu Spor 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1077.xyz/
-https://due.29d0b51b213115a0.click/p/9cgzadFETvVedJ4Tsp/606/a.cf-worker-4e1da3ddd26870a5.workers.dev/chunklist_hd.m3u8
-#EXTINF:-1 tvg-name="Tivibu Spor 2"tvg-id="Spor_TivibuSpor2"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/kuasdm1642604455.png"group-title="Spor":http-referrer="https://trgoals1077.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",Tivibu Spor 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1077.xyz/
-https://nove.5ef3a03c294b074f.click/p/9cgzadFEThNFMYakNE/607/a.cf-worker-4e1da3ddd26870a5.workers.dev/chunklist_hd.m3u8
-#EXTINF:-1 tvg-name="Tivibu Spor 3"tvg-id="Spor_TivibuSpor3"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/slwrz41642604502.png"group-title="Spor":http-referrer="https://trgoals1077.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",Tivibu Spor 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1077.xyz/
-https://pp.centtv38.live/yayint3.m3u8
-#EXTINF:-1 tvg-name="Tivibu Spor 4"tvg-id="Spor_TivibuSpor4"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/59bqi81642604517.png"group-title="Spor":http-referrer="https://trgoals1077.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",Tivibu Spor 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1077.xyz/
-https://alpha.cf-worker-c4d6a2ea181de1b9.workers.dev/live/tivibu-spor-4/playlist.m3u8
-#EXTINF:-1 tvg-name="Spor Smart"tvg-id="Spor_SporSmart"tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/p/el/11909/Thumbnail.png"group-title="Spor":http-referrer="https://trgoals1077.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",Spor Smart
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1077.xyz/
-https://p0.b4c8d3e9f1a2b7c5d33.cfd/yayinsmarts.m3u8
-#EXTINF:-1 tvg-name="Spor Smart 2"tvg-id="Spor_SporSmart2"tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/SPORSMART2-gri.png"group-title="Spor":http-referrer="https://trgoals1077.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",Spor Smart 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1077.xyz/
-https://pp.centtv38.live/yayinsms2.m3u8
-#EXTINF:-1 tvg-name="S SPORT"tvg-id="ssport.tr"tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230302923239.png"group-title="Spor":http-referrer="https://trgoals1077.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",S SPORT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1077.xyz/
-https://nove.29d0b51b213115a0.click/p/9cgzadFEThNFMYakNE/3450/a.cf-worker-4e1da3ddd26870a5.workers.dev/chunklist_hd.m3u8
-#EXTINF:-1 tvg-name="S SPORT 2"tvg-id="ssport2.tr"tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230302923321.png"group-title="Spor":http-referrer="https://trgoals1077.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",S SPORT 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1077.xyz/
-https://due.29d0b51b213115a0.click/p/9cgzadFEThNFMYakNE/3451/a.cf-worker-4e1da3ddd26870a5.workers.dev/chunklist_hd.m3u8
-#EXTINF:-1 tvg-name="TR | S Sport PlusⓧFHD (Maçta aktif)"tvg-id="" tvg-logo="http://platinumxmedia.xyz:8080/images/18b220a9269c82c5512ad1c56f0c533e.png"group-title="Spor":http-referrer="":http-user-agent="",TR | S Sport PlusⓧFHD (Maçta aktif)
-http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432464
-#EXTINF:-1 tvg-name="beIN SPORTS Haber"tvg-id="Spor_beINSPORTSHaber"tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-sports-haber-logo.jpg.webp"group-title="Spor":http-referrer="":http-user-agent="",beIN SPORTS Haber
-https://tgn.bozztv.com/dvrfl05/gin-beinsportshaber/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS"tvg-id="Spor_beINSPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png"group-title="Spor":http-referrer="https://trgoals1077.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",beIN SPORTS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1077.xyz/
-https://due.7cbd07151f7a2d82.click/itis/8c1437d28413db5112720e3ce0579154/playlist.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS"tvg-id="Spor_beINSPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png"group-title="Spor":http-referrer="https://trgoals1115.xyz":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",beIN SPORTS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1115.xyz
-https://g0.b4c8d3e9f1a2b7c5d24.cfd/yayinzirve.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS"tvg-id="Spor_beINSPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png"group-title="Spor":http-referrer="https://122dumantv.com":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",beIN SPORTS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://122dumantv.com
-https://12mumdur.online/701/index.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS"tvg-id="Spor_beINSPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png"group-title="Spor":http-referrer="https://mevzuspor30.xyz":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",beIN SPORTS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://mevzuspor30.xyz
-https://za.mevzuhls15.cfd/yayinzirve.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS"tvg-id="Spor_beINSPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png"group-title="Spor":http-referrer="https://ifra.strmrdrfrosf.click/index.php?id=601":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",beIN SPORTS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://ifra.strmrdrfrosf.click/index.php?id=601
-https://quattro.facd2855b1fdc415.click/i/neden/601/playlist.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS"tvg-id="Spor_beINSPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png"group-title="Spor":http-referrer="https://trgoals1115.xyz":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",beIN SPORTS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1115.xyz
-https://k0.b4c8d3e9f1a2b7c5d28.cfd/yayinzirve.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS"tvg-id="Spor_beINSPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png"group-title="Spor":http-referrer="https://trgoals1115.xyz":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",beIN SPORTS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1115.xyz
-https://pp.centtv38.live/yayinzirve.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS"tvg-id="Spor_beINSPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png"group-title="Spor":http-referrer="https://trgoals1115.xyz":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",beIN SPORTS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1115.xyz
-https://ancient-shape-c20a.yedekbirkankam.workers.dev/https://cinque.c53af06fa4e55583.click/p/selcuksportshd1611.xyz/601/a.cf-worker-f1a2134fd551fa4b.workers.dev/chunklist_hd.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS"tvg-id="Spor_beINSPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png"group-title="Spor":http-referrer="https://trgoals1115.xyz":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",beIN SPORTS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1115.xyz
-https://uno.c53af06fa4e55583.click/p/f2XX9QypQfMaQ5rX1zA/601/a.cf-worker-f1a2134fd551fa4b.workers.dev/chunklist_hd.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS"tvg-id="Spor_beINSPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png"group-title="Spor":http-referrer="https://trgoals1115.xyz":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",beIN SPORTS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1115.xyz
-https://cinque.c53af06fa4e55583.click/p/f2XX9QypQfMaQ5rX1zA/601/a.cf-worker-f1a2134fd551fa4b.workers.dev/chunklist_hd.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS"tvg-id="Spor_beINSPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png"group-title="Spor":http-referrer="https://trgoals1115.xyz":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",beIN SPORTS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1115.xyz
-https://tre.c53af06fa4e55583.click/p/f2XX9QypQfMaQ5rX1zA/601/a.cf-worker-f1a2134fd551fa4b.workers.dev/chunklist_hd.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS"tvg-id="Spor_beINSPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png"group-title="Spor":http-referrer="https://trgoals1115.xyz":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",beIN SPORTS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1115.xyz
-https://za.mevzuhls15.cfd/yayinzirve.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS"tvg-id="Spor_beINSPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png"group-title="Spor":http-referrer="https://trgoals1115.xyz":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",beIN SPORTS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1115.xyz
-https://due.c53af06fa4e55583.click/p/limontv.xyz/601/a.cf-worker-f1a2134fd551fa4b.workers.dev/chunklist_hd.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS"tvg-id="Spor_beINSPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png"group-title="Spor":http-referrer="https://trgoals1115.xyz":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",beIN SPORTS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1115.xyz
-https://p0.b4c8d3e9f1a2b7c5d33.cfd/yayininat.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS"tvg-id="Spor_beINSPORTS"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png"group-title="Spor":http-referrer="https://trgoals1115.xyz":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",beIN SPORTS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1115.xyz
-https://steep-tooth-6534.1ff056997784445.workers.dev/static/bs1.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS 1 ғʜᴅ"tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png"group-title="Spor":http-referrer="":http-user-agent="",beIN SPORTS
-http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432184
-#EXTINF:-1 tvg-name="beIN SPORTS 1 ғʜᴅ"tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png"group-title="Spor":http-referrer="":http-user-agent="",beIN SPORTS
-https://j0pgnqplxcrgtwz8ioahynbwnfr3xmij.zortspor1.online/599/index.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS 1 ғʜᴅ"tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png"group-title="Spor":http-referrer="":http-user-agent="",beIN SPORTS
-https://fxazuc197k.zortspor1.online/599/index.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS 1 ғʜᴅ"tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png"group-title="Spor":http-referrer="":http-user-agent="",beIN SPORTS
-https://avyyrtb95k.zortspor1.online/599/index.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS 1 ғʜᴅ"tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png"group-title="Spor":http-referrer="":http-user-agent="",beIN SPORTS
-https://j0pgnqplxcrgtwz8ioahynbwnfr3xmij.zortspor1.online/7000/index.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS 1 ғʜᴅ"tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png"group-title="Spor":http-referrer="":http-user-agent="",beIN SPORTS
-https://fxazuc197k.zortspor1.online/7000/index.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS 1 ғʜᴅ"tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png"group-title="Spor":http-referrer="":http-user-agent="",beIN SPORTS
-https://avyyrtb95k.zortspor1.online/7000/index.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS 2"tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/7uv6x71628799003.png"group-title="Spor":http-referrer="https://trgoals1077.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",beIN SPORTS 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1077.xyz/
-https://alpha.cf-worker-c4d6a2ea181de1b9.workers.dev/live/bein-sports-2/playlist.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS 3"tvg-id="Spor_beINSPORTS3"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/u3117i1628798857.png"group-title="Spor":http-referrer="https://trgoals1077.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",beIN SPORTS 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1077.xyz/
-https://alpha.cf-worker-c4d6a2ea181de1b9.workers.dev/live/bein-sports-3/playlist.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS 3"tvg-id="Spor_beINSPORTS3"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/u3117i1628798857.png"group-title="Spor":http-referrer="https://trgoals1077.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",beIN SPORTS 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1077.xyz/
-https://ancient-shape-c20a.yedekbirkankam.workers.dev/https://nove.7fb7a3c9b851c072.click/p/mackeyfi3286.sbs/603/a.cf-worker-82ce8898971031cf.workers.dev/chunklist_hd.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS 4"tvg-id="Spor_beINSPORTS4"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/2ktmcp1628798841.png"group-title="Spor":http-referrer="https://trgoals1077.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",beIN SPORTS 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1077.xyz/
-https://k0.b4c8d3e9f1a2b7c5d28.cfd/yayinb4.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS 5"tvg-id="Spor_beINSPORTS5"tvg-logo="https://i.imgur.com/iRKfaee.png"group-title="Spor":http-referrer="https://trgoals1077.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",beIN SPORTS 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1077.xyz/
-https://pp.centtv38.live/yayinb5.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS Max"tvg-id="Spor_beINSPORTSMax"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/BeIN_Sports_MAX.png"group-title="Spor":http-referrer="https://trgoals1077.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",beIN SPORTS Max
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1077.xyz/
-https://pp.centtv38.live/yayinbm1.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS Max 2"tvg-id="Spor_beINSPORTSMax2"tvg-logo="https://i.imgur.com/t7U20yR.png"group-title="Spor":http-referrer="https://trgoals1077.xyz/":http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)",beIN SPORTS Max 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1077.xyz/
-https://pp.centtv38.live/yayinbm2.m3u8
 
-# * » Müzik « * #
-#EXTINF:-1 tvg-name="TRT Müzik" tvg-language="Turkish" tvg-country="TR" tvg-id="Muzik_TRT" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/12382043.png" group-title="Müzik",TRT Müzik
-https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-name="Dream Türk" tvg-language="Turkish" tvg-country="TR" tvg-id="Muzik_DreamTurk" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5dc2c085866ac31da06187cd" group-title="Müzik",Dream Türk
-https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+#EXTINF:-1 group-title="Play Tv | Spor ", TR Spor TV
+http://116.202.117.244/gzcspor/gzcspor/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Power Türk" tvg-language="Turkish" tvg-country="TR" tvg-id="Muzik_PowerTurk" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5dc2c125866ac31da06187d6" group-title="Müzik",Power Türk
-https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Power TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Muzik_PowerTV" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5dc2c155866ac331e0feb22b" group-title="Müzik",Power TV
+
+#EXTINF:-1 group-title="Play Tv | Spor ", HT Spor
+https://ciner-live.daioncdn.net/ht-spor/ht-spor_1080p.m3u8
+
+
+#EXTINF:-1 group-title="Play Tv | Spor ", TJK 
+http://tjktv.ercdn.net/tjktv.m3u8
+
+#EXTINF:-1 group-title="Play Tv | Spor ", TJK Yurt Dışı 
+https://tjktv-live.tjk.org/tjktv2/tjktv2_1080p.m3u8
+
+
+#EXTINF:-1 group-title="Play Tv | Spor ", Tay TV 
+https://duhnet.hipodrom.com/S2/HLS_LIVE/mislitaynp/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="Play Tv | Spor ", Smart Spor 
+https://demoyayiyin.sunxtvcloud.workers.dev/smartspor1/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="Play Tv | Spor ", Smart Spor 2
+https://demoyayiyin.sunxtvcloud.workers.dev/smartspor2/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="Play Tv | Spor ", Eurosport 1
+https://demoyayiyin.sunxtvcloud.workers.dev/eurosport1/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 group-title="Play Tv | Spor ", Eurosport 2
+https://demoyayiyin.sunxtvcloud.workers.dev/eurosport2/tracks-v1a1/mono.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-title="Play Tv | Spor ", Monster Jam
+https://4b9627c7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X01vbnN0ZXJKYW1fSExT/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Play Tv | Spor ", TNA Wrestling
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883039
+
+
+#EXTINF:-1 group-title="Play Tv | Spor ", PFL MMA
+https://a883593c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1BGTE1NQV9ITFM/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Play Tv | Spor ", Bilardo TV 
+https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="Play Tv | Spor ", Solh Sport
+https://solhtvhls.wns.live/hls/stream.m3u8
+
+
+#EXTINF:-1 group-title="Play Tv | Spor ", NBA TV 
+http://212.102.60.231/NBA_TV/index.m3u8
+
+
+
+
+#EXTINF:-1 group-title=" Play Tv | Play Sports (Özel) ", beIN Sports 1 FHD
+https://demoyayiyin.sunxtvcloud.workers.dev/Bein-Sport-1-FHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title=" Play Tv | Play Sports (Özel) ", beIN Sports 1 HD
+https://demoyayiyin.sunxtvcloud.workers.dev/Bein-Sport-1-HD/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title=" Play Tv | Play Sports (Özel) ", beIN Sports 2 FHD
+https://demoyayiyin.sunxtvcloud.workers.dev/Bein-Sport-2-FHD/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 group-title=" Play Tv | Play Sports (Özel) ", beIN Sports 2 HD
+https://demoyayiyin.sunxtvcloud.workers.dev/Bein-Sport-2-HD/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title=" Play Tv | Play Sports (Özel) ", beIN Sports 3 HD
+https://demoyayiyin.sunxtvcloud.workers.dev/Bein-Sport-3-HD/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 group-title=" Play Tv | Play Sports (Özel) ", beIN Sports 4 HD
+https://demoyayiyin.sunxtvcloud.workers.dev/Bein-Sport-4-HD/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title=" Play Tv | Play Sports (Özel) ", beIN Sports 5 HD
+https://demoyayiyin.sunxtvcloud.workers.dev/Bein-Sport-5-HD/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title=" Play Tv | Play Sports (Özel) ", beIN Sports Max 2 HD
+https://demoyayiyin.sunxtvcloud.workers.dev/Bein-Sport-Max-1-HD/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title=" Play Tv | Play Sports (Özel) ", beIN Sports Max 1 HD
+https://demoyayiyin.sunxtvcloud.workers.dev/Bein-Sport-Max-2-HD/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 group-title=" Play Tv | Play Sports (Özel) ", S Sport 1
+https://demoyayiyin.sunxtvcloud.workers.dev/ssport1/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title=" Play Tv | Play Sports (Özel) ", S Sport 2
+https://demoyayiyin.sunxtvcloud.workers.dev/ssport2/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title=" Play Tv | Play Sports (Özel) ", S Sport +
+https://demoyayiyin.sunxtvcloud.workers.dev/ssportplus/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title=" Play Tv | Play Sports (Özel) ", S Sport + 2
+https://demoyayiyin.sunxtvcloud.workers.dev/ssportplus2/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title=" Play Tv | Play Sports (Özel) ", S Sport + 3
+https://demoyayiyin.sunxtvcloud.workers.dev/ssportplus3/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title=" Play Tv | Play Sports (Özel) ", S Sport + 4
+https://demoyayiyin.sunxtvcloud.workers.dev/ssportplus4/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 group-title=" Play Tv | Play Sports (Özel) ", S Sport + 5
+https://demoyayiyin.sunxtvcloud.workers.dev/ssportplus5/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 group-title=" Play Tv | Play Sports (Özel) ", S Sport + 6
+https://demoyayiyin.sunxtvcloud.workers.dev/ssportplus6/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 group-title=" Play Tv | Play Sports (Özel) ", Exxen 1
+https://demoyayiyin.sunxtvcloud.workers.dev/ex1/tracks-v1a1/mono.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-title=" Play Tv | Play Sports (Özel) ", Exxen 2
+https://demoyayiyin.sunxtvcloud.workers.dev/ex2/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title=" Play Tv | Play Sports (Özel) ", Exxen 3
+https://demoyayiyin.sunxtvcloud.workers.dev/ex3/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title=" Play Tv | Play Sports (Özel) ", Exxen 4
+https://demoyayiyin.sunxtvcloud.workers.dev/ex4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title=" Play Tv | Play Sports (Özel) ", Exxen 5
+https://demoyayiyin.sunxtvcloud.workers.dev/ex5/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title=" Play Tv | Play Sports (Özel) ", Exxen 6
+https://demoyayiyin.sunxtvcloud.workers.dev/ex6/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 group-title=" Play Tv | Play Sports (Özel) ", Spor Smart 
+https://demoyayiyin.sunxtvcloud.workers.dev/smartspor1/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title=" Play Tv | Play Sports (Özel) ", Spor Smart  2
+https://demoyayiyin.sunxtvcloud.workers.dev/smartspor2/tracks-v1a1/mono.m3u8
+
+
+
+
+
+##EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Play Sports Liste 2 ", beIN Sports 1
+https://21heytv.com/701/mono.m3u8|Referer=https://yakatv4.live/
+
+
+
+##EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Play Sports Liste 2 ", beIN Sports 2
+https://21heytv.com/702/tracks-v1a1/mono.css|Referer=https://yakatv4.live/
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Play Sports Liste 2 ", beIN Sports 3
+https://21heytv.com/703/tracks-v1a1/mono.css|Referer=https://yakatv4.live/
+
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Play Sports Liste 2 ", beIN Sports 4
+https://21heytv.com/704/tracks-v1a1/mono.css|Referer=https://yakatv4.live/
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Play Sports Liste 2 ", beIN Sports 5  
+https://21heytv.com/7050/tracks-v1a1/mono.css|Referer=https://yakatv4.live/
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Play Sports Liste 2 ", beIN Sports Max 1
+https://21heytv.com/716/tracks-v1a1/mono.css|Referer=https://yakatv4.live/
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Play Sports Liste 2 ", beIN Sports Max 2
+https://21heytv.com/717/tracks-v1a1/mono.css|Referer=https://yakatv4.live/
+
+
+
+
+
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Play Sports Liste 2 ", S Sport 
+https://21heytv.com/705/tracks-v1a1/mono.css|Referer=https://yakatv4.live/
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Play Sports Liste 2 ", Tivibu Spor 1
+https://21heytv.com/708/tracks-v1a1/mono.css|Referer=https://yakatv4.live/
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Play Sports Liste 2 ", Tivibu Spor 2 
+https://21heytv.com/711/tracks-v1a1/mono.css|Referer=https://yakatv4.live/
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Play Sports Liste 2 ", Tivibu Spor 3
+https://21heytv.com/712/tracks-v1a1/mono.css|Referer=https://yakatv4.live/
+
+
+
+#EXTINF:-1 group-title="Play Tv | Tabii Spor  ", Tabii Spor 
+https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
+
+
+#EXTINF:-1 group-title="Play Tv | Tabii Spor  ", Tabii Spor 1
+https://iaqzu4szhtzeqd0edpsayinle.medya.trt.com.tr/master.m3u8
+
+
+
+#EXTINF:-1 group-title="Play Tv | Tabii Spor  ", Tabii Spor 2
+https://klublsslubcgyiz7zqt5bz8il.medya.trt.com.tr/master.m3u8
+
+
+#EXTINF:-1 group-title="Play Tv | Tabii Spor  ", Tabii Spor 3
+https://ujnf69op16x2fiiywxcnx41q8.medya.trt.com.tr/master.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Play Tv | Tabii Spor  ", Tabii Spor 4
+https://bfxy3jgeydpbphtk8qfqwm3hr.medya.trt.com.tr/master.m3u8
+
+
+
+#EXTINF:-1 group-title="Play Tv | Tabii Spor  ", Tabii Spor 5
+https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master.m3u8
+
+
+#EXTINF:-1 group-title="Play Tv | Tabii Spor  ", Tabii Spor 6
+https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8
+
+
+#EXTINF:-1 group-title="Play Tv | Tabii Spor  ", Tabii Spor 7
+https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8
+
+
+
+#EXTINF:-1 group-title="Play Tv | Belgesel ", TRT Belgesel 
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 group-title="Play Tv | Belgesel ", Dmax 
+https://dogus-live.daioncdn.net/dmax/dmax.m3u8
+
+#EXTINF:-1 group-title="Play Tv | Belgesel ", TLC 
+https://dogus-live.daioncdn.net/tlc/tlc.m3u8
+
+
+#EXTINF:-1 group-title="Play Tv | Belgesel ", TGRT Belgesel 
+https://tgrt-live.ercdn.net/tgrtbelgesel/tgrtbelgesel.m3u8
+
+#EXTINF:-1 group-title="Play Tv | Belgesel ", Çiftçi Tv
+https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
+
+#EXTINF:-1 group-title="Play Tv | Belgesel ", Yaban Tv
+https://uzunmuhalefet.serv00.net/canlitv2.php?id=12044&.m3u8
+
+
+#EXTINF:-1 group-title="Play Tv | Belgesel ", National Geographic 
+https://saran-live.ercdn.net/natgeohd/index.m3u8
+
+
+#EXTINF:-1 group-title="Play Tv | Belgesel ", National Geographic Wild
+https://saran-live.ercdn.net/natgeowild/index.m3u8
+
+
+
+#EXTINF:-1 group-title="Play Tv | Belgesel ", beIN Gurme
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6804/index.m3u8
+
+#EXTINF:-1 group-title="Play Tv | Belgesel ", BBC Earth 
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6854/index.m3u8
+
+
+#EXTINF:-1 group-title="Play Tv | Belgesel ", History
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6856/index.m3u8
+
+#EXTINF:-1 group-title="Play Tv | Belgesel ", Da Vinci
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6857/index.m3u8
+
+
+#EXTINF:-1 group-title="Play Tv | Belgesel ", Discovery Channel
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6861/index.m3u8
+
+
+
+#EXTINF:-1 group-title="Play Tv | Belgesel ", Discovery ID
+https://tinyurl.com/4p759wmb
+
+
+
+#EXTINF:-1 group-title="Play Tv | Belgesel ", Love Nature
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6864/index.m3u8
+
+
+
+#EXTINF:-1 group-title="Play Tv | Belgesel ", beIN IZ
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19078/index.m3u8
+
+
+
+#EXTINF:-1 group-title="Play Tv | Belgesel ", Viasat Explorer 
+https://tinyurl.com/d8anvza4
+
+
+#EXTINF:-1 group-title="Play Tv | Belgesel ", Viasat History
+https://tinyurl.com/2zeyzzt7 
+
+
+
+#EXTINF:-1 group-title="Play Tv | Belgesel ", Habitat 
+https://tinyurl.com/uw5j4wmw 
+
+
+#EXTINF:-1 group-title="Play Tv | Belgesel ", Tarih TV 
+https://tinyurl.com/yvwmpsxs 
+
+
+#EXTINF:-1 group-title="Play Tv | Belgesel ", Gurme Tv 
+https://live.euromediacenter.com/gurmetv/tracks-v1a1/mono.m3u8 
+
+
+#EXTINF:-1 group-title="Play Tv | Belgesel ", Tarım Belgesel 
+https://canlitvulusal.xyz/live/tarimtv/index.m3u8 
+
+
+#EXTINF:-1 group-title="Play Tv | Belgesel ", CGTN Belgesel
+https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8 
+
+
+
+
+#EXTINF:-1 group-title="Play Tv | Sinema", Play Tv
+https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
+
+
+
+#EXTINF:-1 group-title="Play Tv | Sinema", Tabii Tv
+https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
+
+#EXTINF:-1 group-title="Play Tv | Sinema", TRT Nostalji 
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Play Tv | Sinema", Fx
+https://saran-live.ercdn.net/fx/index.m3u8
+
+
+
+#EXTINF:-1 group-title="Play Tv | Sinema", beIN Box Office 1
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6744/index.m3u8
+
+
+#EXTINF:-1 group-title="Play Tv | Sinema", beIN Box Office 2
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6745/index.m3u8
+
+
+#EXTINF:-1 group-title="Play Tv | Sinema", beIN Box Office 3
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6743/index.m3u8
+
+
+
+#EXTINF:-1 group-title="Play Tv | Sinema", beIN Series 1
+https://tinyurl.com/ycy3wnu3
+
+
+
+#EXTINF:-1 group-title="Play Tv | Sinema", beIN Series 2
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6814/index.m3u8
+
+
+
+#EXTINF:-1 group-title="Play Tv | Sinema", beIN Series 3
+https://tinyurl.com/3utjxv67
+
+
+
+
+#EXTINF:-1 group-title="Play Tv | Sinema", beIN Series 4
+https://tinyurl.com/2vny9243
+
+
+
+
+
+#EXTINF:-1 group-title="Play Tv | Sinema", beIN Series Comedy 
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6881/index.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="Play Tv | Sinema", beIN Series Drama 
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6882/index.m3u8
+
+
+
+
+#EXTINF:-1 group-title=""Play Tv | Sinema", beIN Movies Action
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6877/index.m3u8
+
+
+#EXTINF:-1 group-title="Play Tv | Sinema", beIN Movies Action 2
+https://tinyurl.com/47nj4vvs
+
+
+#EXTINF:-1 group-title="Play Tv | Sinema", beIN Movies Family
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6878/index.m3u8
+
+
+
+#EXTINF:-1 group-title="Play Tv | Sinema", beIN Movies Premiere
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6880/index.m3u8
+
+
+
+#EXTINF:-1 group-title="Play Tv | Sinema", beIN Movies Premiere 2
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6879/index.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Play Tv | Sinema", beIN Movies Stars
+https://tinyurl.com/5ect5tkj
+
+
+
+#EXTINF:-1 group-title="Play Tv | Sinema", beIN Movies Türk 
+https://tinyurl.com/mr7wfnzm
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Play Tv | Sinema", DiziSmart Premium 
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6802/index.m3u8
+
+
+#EXTINF:-1 group-title="Play Tv | Sinema", DiziSmart Max 
+https://tinyurl.com/5n7txspm
+
+
+
+#EXTINF:-1 group-title="Play Tv | Sinema", Sinema TV 
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6806/index.m3u8
+
+#EXTINF:-1 group-title="Play Tv | Sinema", Sinema Aksiyon 2
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6812/index.m3u8
+
+
+#EXTINF:-1 group-title="Play Tv | Sinema", Movie Smart Turk 
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6807/index.m3u8
+
+
+
+#EXTINF:-1 group-title="Play Tv | Sinema", Movie Smart Classic 
+https://tinyurl.com/44eetvrj
+
+
+
+#EXTINF:-1 group-title="Play Tv | Sinema", Fix Cinema Yeşilçam 
+https://Playtv-dproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/4110861662/index.m3u8
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", Sözcü 
+https://izle.canlitvapp.com/sozcu/index.m3u8
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", Halk TV 
+https://halktv-live.daioncdn.net/halktv/halktv.m3u8
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", Tele 1
+https://tele1-live.ercdn.net/tele1/tele1_1080p.m3u8
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", TRT Haber 
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", Haber Türk 
+https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", TV100
+https://tv100.daioncdn.net/tv100/tv100_1080p.m3u8?app=web
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", Ülke TV 
+https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", TV100
+https://tv100.daioncdn.net/tv100/tv100_1080p.m3u8?app=web
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", NTV 
+https://dogus-live.daioncdn.net/ntv/ntv_1080p.m3u8
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", TV 24
+https://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", CNN Türk 
+https://b.fulltvizle.com/cnn/playlist.m3u8
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", Haber Global
+https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", Bloomberg HT
+https://ciner-live.daioncdn.net/bloomberght/bloomberght.m3u8
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", TGRT Haber 
+https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_1080p.m3u8
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", Meltem TV 
+https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", Flash Haber 
+https://flashhaber-live.ercdn.net/flashhaber/flashhaber_1080p.m3u8
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", TV Net
+https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", Türk Haber 
+https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", Lider Haber 
+http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", Gzt Haber
+https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", Bengü Türk
+https://tv.ensonhaber.com/benguturk/benguturk.m3u8
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", Finans Türk
+https://yayin30.haber100.com/live/finansturk/playlist.m3u8
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", Üreten Türkiye
+https://live.euromediacenter.com/uretenturkiye/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", TBMM - Meclis TV 
+https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", Mavi Karadeniz 
+https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", Olay Türk
+https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/playlist.m3u8
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", DHA 
+https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/chunklist_w489522622.m3u8
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", Ekol TV 
+https://ekoltv-live.ercdn.net/ekoltv/ekoltv_1080p.m3u8
+
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", A Haber 
+https://b.fulltvizle.com/ahaber/playlist.m3u8
+
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", Akit
+https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
+
+
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", KRT
+https://tinyurl.com/bdfd84rh
+
+
+
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp " tvg-name="" group-title="Play Tv | Haber ", A Para
+https://tinyurl.com/yc7a34p5
+
+
+#EXTINF:-1 group-title="Play Tv | Çocuk ", TRT Çocuk 
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+
+
+
+#EXTINF:-1 group-title="Play Tv | Çocuk", TRT Diyanet Çocuk 
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
+
+
+#EXTINF:-1 group-title="Play Tv | Çocuk ", Baby TV 
+https://saran-live.ercdn.net/babytv/index.m3u8
+
+
+#EXTINF:-1 group-title="Play Tv | Çocuk", Disney Junior
+https://saran-live.ercdn.net/disneyjunior/index.m3u8
+
+
+#EXTINF:-1 group-title="Play Tv | Çocuk", Minika Go 
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
+
+
+#EXTINF:-1 group-title="Play Tv | Çocuk", Minika Çocuk 
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
+
+
+#EXTINF:-1 group-title="Play Tv | Çocuk", Duck TV 
+https://jmp2.uk/sam-ESBC4700001GR.m3u8
+
+
+
+#EXTINF:-1 group-title="Play Tv | Çocuk ", Cartoon Network
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6846/index.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Play Tv | Çocuk ", Nicktoons
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6848/index.m3u8
+
+
+#EXTINF:-1 group-title="Play Tv | Çocuk ", Nick Jr.
+https://tinyurl.com/4z2p3v78
+
+
+
+#EXTINF:-1 group-title="Play Tv | Çocuk  ", Cartoonito
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6850/index.m3u8
+
+
+
+#EXTINF:-1 group-title="Play Tv | Çocuk  ", Moonbug
+https://tinyurl.com/5ccu9cut
+
+
+#EXTINF:-1 tvg-name="Arabesk" tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Arabesk
+https://yayin.santraltr.com/hls/arabeskyeni.m3u8
+
+
+#EXTINF:-1 tvg-name="Damar" tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Damar
+https://yayin.santraltr.com/hls/damar.m3u8
+#EXTINF:-1 tvg-name="Dost" tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Dost
+https://yayin.santraltr.com/hls/dost.m3u8
+#EXTINF:-1 tvg-name="Ezo" tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Ezo
+https://yayin.santraltr.com/hls/ezo.m3u8
+
+i
+#EXTINF:-1 tvg-name="Power Türk Slow" tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Power Türk Slow
+https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Power Türk Taptaze" tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Power Türk Taptaze
+https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Power Tv" tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Power Tv
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Power Dance" tvg-language="Turkish" tvg-country="TR" tvg-id="Muzik_PowerDance" tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_40.png" group-title="Müzik",Power Dance
+
+#EXTINF:-1 tvg-name="Sıla" tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Sıla
+https://yayin.santraltr.com/hls/silatv.m3u8
+#EXTINF:-1 tvg-name="Viva TV" tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Viva TV
+https://yayin.santraltr.com/hls/vivatv.m3u8
+#EXTINF:-1 tvg-name="Güçlü TV" tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Güçlü TV
+https://yayin.santraltr.com/hls/zeynotv.m3u8
+#EXTINF:-1 tvg-name="Kral Pop" tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Kral Pop
+https://dogus-live.daioncdn.net/kralpoptv/kralpoptv.m3u8
+#EXTINF:-1 tvg-name="Mega TV" tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Mega TV
+https://a8.radyotelekom.com.tr:3513/hybrid/play.m3u8
+#EXTINF:-1 tvg-name="Mavi Karadeniz" tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Mavi Karadeniz
+https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/chunks.m3u8
+#EXTINF:-1 tvg-name="PowerTürk" tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",PowerTürk
+https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/chunks.m3u8
+#EXTINF:-1 tvg-name="Tempo TV" tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Tempo TV
+https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/chunks.m3u8
+#EXTINF:-1 tvg-name="TopPop" tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",TopPop
+https://yayin.santraltr.com/hls/toppop.m3u8
+#EXTINF:-1 tvg-name="Number1 Dance" tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Number1 Dance
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
+#EXTINF:-1 tvg-name="Power Türk Dance" tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Power Türk Dance
 https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Power Love" tvg-language="Turkish" tvg-country="TR" tvg-id="Muzik_PowerLove" tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_2559.png" group-title="Müzik",Power Love
+#EXTINF:-1 tvg-name="Power Türk Love" tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Power Türk Love
 https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-name="PowerTürk Akustik" tvg-language="Turkish" tvg-country="TR" tvg-id="Muzik_PowerTurkAkustik" tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_2542.png" group-title="Müzik",PowerTürk Akustik
-https://listen.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-name="PowerTürk Slow" tvg-language="Turkish" tvg-country="TR" tvg-id="Muzik_PowerTurkSlow" tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_2577.png" group-title="Müzik",PowerTürk Slow
-https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-name="PowerTürk Taptaze" tvg-language="Turkish" tvg-country="TR" tvg-id="Muzik_PowerTurkTaptaze" tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_2534.png" group-title="Müzik",PowerTürk Taptaze
-https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Milyon TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Muzik_MilyonTV" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/60900db7866ac318488bc30f" group-title="Müzik",Milyon TV
-https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
-
-#EXTINF:-1 tvg-name="Kral Pop" tvg-language="Turkish" tvg-country="TR" tvg-id="Muzik_KralPop" tvg-logo="https://canlitv.center/channels/kral-pop-tv.png" group-title="Müzik",Kral Pop
-https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
-
-#EXTINF:-1 tvg-name="NumberOne Türk" tvg-language="Turkish" tvg-country="TR" tvg-id="Muzik_NumberOneTurk" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5e415bb8866ac31d980eb377" group-title="Müzik",NumberOne Türk
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-name="NumberOne TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Muzik_NumberOneTV" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5e415748866ac31d980eb317" group-title="Müzik",NumberOne TV
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-name="NumberOne Aşk" tvg-language="Turkish" tvg-country="TR" tvg-id="Muzik_NumberOneAsk" tvg-logo="https://www.numberone.com.tr/wp-content/uploads/2017/10/ask-tv-web.jpg" group-title="Müzik",NumberOne Aşk
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="NumberOne Damar" tvg-language="Turkish" tvg-country="TR" tvg-id="Muzik_NumberOneDamar" tvg-logo="https://www.numberone.com.tr/wp-content/uploads/2017/07/N1_TR_Damar.png" group-title="Müzik",NumberOne Damar
+#EXTINF:-1 tvg-name="Power Türk Akustik" tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Power Türk Akustik
+https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="TiviTürk" tvg-id="" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",TiviTürk
+https://stream.tiviturk.de/live/tiviturk.m3u8
+#EXTINF:-1 tvg-name="TRT Türkü" tvg-id="TRT Türkü.tr" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",TRT Türkü
+https://rd-trtturku.medya.trt.com.tr/master_128.m3u8
+#EXTINF:-1 tvg-name="Vevo Latino (1080p)" tvg-id="VevoLatino.us@SD" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Vevo Latino (1080p)
+https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="70-80 TV (1080P)" tvg-id="7080TV.it" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",70-80 TV (1080P)
+https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
+#EXTINF:-1 tvg-name="NEW K-POP (1080p)" tvg-id="NEWKPOP.us" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",NEW K-POP (1080p)
+https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Afrobeats (1080p)" tvg-id="AfrobeatTVEntertainment.uk" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Afrobeats (1080p)
+https://stream.ecable.tv/afrobeats/index.m3u8
+#EXTINF:-1 tvg-name="BTA TV (720p)" tvg-id="BTATV.ve" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",BTA TV (720p)
+https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
+#EXTINF:-1 tvg-name="Muzzik POP STAR (720p)" tvg-id="POPSTAR.rs" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Muzzik POP STAR (720p)
+https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+#EXTINF:-1 tvg-name="Avang TV (720p)" tvg-id="AvangTV.us" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Avang TV (720p)
+https://hls.avang.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Cool FM 98.9 (720p)" tvg-id="CoolFM989.aw" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Cool FM 98.9 (720p)
+https://live2.tensila.com/cool-v-1.arubara/hls/master.m3u8
+#EXTINF:-1 tvg-name="Muzzik ELECTRO (720p)" tvg-id="ELECTRO.rs" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Muzzik ELECTRO (720p)
+https://muzzik-live.morescreens.com/mts-9/playlist.m3u8
+#EXTINF:-1 tvg-name="Vevo Pop" tvg-id="VevoPop.us@SD" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Vevo Pop
+https://amg00056-amg00056c9-rakuten-fr-3243.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevopopfr-rakutenfr/playlist.m3u8
+#EXTINF:-1 tvg-name="Atomic Academy TV (480p)" tvg-id="AtomicAcademyTV.ro" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Atomic Academy TV (480p)
+https://atomic.streamnet.ro/academia.m3u8
+#EXTINF:-1 tvg-name="Number 1 Damar (720p)" tvg-id="Number1Damar.tr" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Number 1 Damar (720p)
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="NumberOne Dance" tvg-language="Turkish" tvg-country="TR" tvg-id="Muzik_NumberOneDance" tvg-logo="https://www.numberone.com.tr/wp-content/uploads/2015/12/N1_Dance-1-768x768.png" group-title="Müzik",NumberOne Dance
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Tatlıses TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Muzik_TatlisesTV" tvg-logo="https://canlitv.center/channels/tatlises-tv.png" group-title="Müzik",Tatlıses TV
-https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Baraza TV Relaxing (720p)" tvg-id="BarazaTVRelaxing.gr" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Baraza TV Relaxing (720p)
+https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
+#EXTINF:-1 tvg-name="Angienet TV" tvg-id="AngienetTV.pe@SD" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Angienet TV
+https://servilive.com:3624/stream/play.m3u8
+#EXTINF:-1 tvg-name="Worldwide Muzzik (720p)" tvg-id="WORLDWIDEMUZZIK.rs" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Worldwide Muzzik (720p)
+https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
+#EXTINF:-1 tvg-name="Muzzik SENSE (720p)" tvg-id="SENSE.rs" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Muzzik SENSE (720p)
+https://muzzik-live.morescreens.com/mts-7/playlist.m3u8
+#EXTINF:-1 tvg-name="Muzzik ZZ TV (720p)" tvg-id="ZZTV.rs" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Muzzik ZZ TV (720p)
+https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
+#EXTINF:-1 tvg-name="98.1 Pearl FM (720p)" tvg-id="981PearlFM.sx" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",98.1 Pearl FM (720p)
+https://live2.tensila.com/pearl-v-1.pearlfm/hls/live/mystream.m3u8
+#EXTINF:-1 tvg-name="MTV Live" tvg-id="MTVLive.us" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",MTV Live
+https://fl3.moveonjoy.com/MTV_LIVE/index.m3u8
+#EXTINF:-1 tvg-name="Muzzik FLASHBACK (720p)" tvg-id="FLASHBACK.rs" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Muzzik FLASHBACK (720p)
+https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
+#EXTINF:-1 tvg-name="Number 1 Ask (720p)" tvg-id="Number1Ask.tr" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Number 1 Ask (720p)
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
+#EXTINF:-1 tvg-name="Activa TV (720p)" tvg-id="ActivaTV.es" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Activa TV (720p)
+https://streamtv.mediasector.es/hls/activatv/index.m3u8
+#EXTINF:-1 tvg-name="California Music Channel (720p) [Not 24/7]" tvg-id="CaliforniaMusicChannel.us" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",California Music Channel (720p) [Not 24/7]
+https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8
+#EXTINF:-1 tvg-name="Muzzik TIKTAK (720p)" tvg-id="TIKTAK.rs" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Muzzik TIKTAK (720p)
+https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
+#EXTINF:-1 tvg-name="Clubbing TV (720p)" tvg-id="ClubbingTV.us@Spain" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Clubbing TV (720p)
+https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Nick Music (720p)" tvg-id="NickMusic.us" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Play Tv | Müzik ",Nick Music (720p)
+https://fl3.moveonjoy.com/NICK_MUSIC/index.m3u8
+
+#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Play TV Sinema 
+https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
+#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Annem Ankara
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Annem.Ankara.SON.mkv
+#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Arka Sokaklar
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Arka.Sokaklar.SON.mkv
+#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Aşk Evlilik Boşanma
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Ask.Evlilik.Bosanma.SON.mkv
+#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Bahar
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Bahar.SON.mkv
+#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Başka Bir Gün
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Baska.Bir.Gun.SON.mkv
+#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Bir Gece Masalı
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Bir.Gece.Masali.SON.mkv
+#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Bir Zamanlar Istanbul
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Bir.Zamanlar.Istanbul.SON.mkv
+#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Can Borcu
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Can.Borcu.SON.mkv
+#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Deha
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Deha.SON.mkv
+#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Esref Rüya
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Esref.Ruya.SON.mkv
+#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Gizli Bahçe
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Gizli.Bahce.SON.mkv
+#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Gönül Dağı
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Gonul.Dagi.SON.mkv
+
+#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Güldür Güldür Show 
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Guldur.Guldur.Show.SON.mkv
+
+#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Holding
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Holding.SON.mkv
+#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Hudutsuz Sevda
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Hudutsuz.Sevda.SON.mkv
+
+#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",İnci Taneleri 
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Inci.Taneleri.SON.mkv
+
+#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Uzak Şehir
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Uzak.Sehir.SON.mkv
+#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Kalpazan
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kalpazan.SON.mkv
+#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Kardelenler
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kardelenler.SON.mkv
+#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Konuşanlar
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Konusanlar.SON.mkv
+#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Kral Kabederse
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kral.Kaybederse.SON.mkv
+#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Kudüs Fatihi Selahaddin Eyyubi
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Selahaddin.Eyyubi.SON.mkv
+#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Kuruluş Osman
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kurulus.Osman.SON.mkv
+#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Leyla
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Leyla.SON.mkv
+#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Mehmed Fetihler Sultanı
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Mehmed.Fetihler.Sultani.SON.mkv
+#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Piyasa
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Piyasa.SON.mkv
+#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Sahipsizler
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Sahipsizler.SON.mkv
+#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Sandık Kokusu
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Sandik.Kokusu.SON.mkv
+#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Selahaddin Eyyubi
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Selahaddin.Eyyubi.SON.mkv
+#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Siyah Kalp
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Siyah.Kalp.SON.mkv
+
+#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Sustalı Ceylan
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Sustali.Ceylan.SON.mkv
+
+#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Teşkilat
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Teskilat.SON.mkv
+#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Yalan
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Yalan.SON.mkv
+#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Yalı Çapkını
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Yali.Capkini.SON.mkv
+#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Zembilli
+http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Zembilli.SON.mkv
+
+
+#EXTINF:0 tvg-rec="3",Sky Sport Mix HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/5039/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sport Golf HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/5043/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sport Premier League HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/5042/index.m3u8
+#EXTINF:0 tvg-rec="3",SYFY HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6092/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Cinema HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/2484/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Cinema Highlights HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/2485/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Atlantic HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/2488/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Cinema Family HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/2489/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Cinema Classics HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/2490/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Krimi HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/2491/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Arts HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/2494/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sport News HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/2477/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sport 1 FHD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/2478/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sport 2 HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/2479/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sport Bundesliga 1 HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/2480/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sport Austria 1 HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/2492/index.m3u8
+#EXTINF:0 tvg-rec="3",Sport 1 HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/2503/index.m3u8
+#EXTINF:0 tvg-rec="3",ZDF HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6059/index.m3u8
+#EXTINF:0 tvg-rec="0",ZDFinfo HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/17042/index.m3u8
+#EXTINF:0 tvg-rec="3",VOX HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6061/index.m3u8
+#EXTINF:0 tvg-rec="3",Universal TV FHD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6094/index.m3u8
+#EXTINF:0 tvg-rec="3",Warner TV Serie HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6090/index.m3u8
+#EXTINF:0 tvg-rec="3",Warner TV Film DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6111/index.m3u8
+#EXTINF:0 tvg-rec="3",Toggo DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6063/index.m3u8
+#EXTINF:0 tvg-rec="3",Spiegel Geschichte FHD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6091/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sport Bundesliga 9 FHD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6097/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sport Austria 2 HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6113/index.m3u8
+#EXTINF:0 tvg-rec="3",Sat.1 HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6060/index.m3u8
+#EXTINF:0 tvg-rec="3",Nitro FHD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6064/index.m3u8
+#EXTINF:0 tvg-rec="3",RTL HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6062/index.m3u8
+#EXTINF:0 tvg-rec="3",RTL Zwei HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6065/index.m3u8
+#EXTINF:0 tvg-rec="3",ProSieben HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6057/index.m3u8
+#EXTINF:0 tvg-rec="3",ProSieben Maxx FHD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6058/index.m3u8
+#EXTINF:0 tvg-rec="3",Kabel Eins HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6067/index.m3u8
+#EXTINF:0 tvg-rec="3",Comedy Central HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6081/index.m3u8
+#EXTINF:0 tvg-rec="3",Motorvision TV DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6112/index.m3u8
+#EXTINF:0 tvg-rec="0",RTL Passion HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7230/index.m3u8
+#EXTINF:0 tvg-rec="0",Romance TV DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7231/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport Bundesliga 2 HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7234/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport Bundesliga 3 HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7235/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport Bundesliga 4 HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7236/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport Bundesliga 5 HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7237/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport Bundesliga 6 HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7238/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport Bundesliga 7 HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7239/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport Bundesliga 8 HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7240/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport Bundesliga 9 HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7241/index.m3u8
+#EXTINF:0 tvg-rec="0",Phoenix DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7255/index.m3u8
+#EXTINF:0 tvg-rec="0",Nat Geo Wild HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7256/index.m3u8
+#EXTINF:0 tvg-rec="0",Animal Planet HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7257/index.m3u8
+#EXTINF:0 tvg-rec="0",Welt DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7258/index.m3u8
+#EXTINF:0 tvg-rec="0",N-TV FHD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7259/index.m3u8
+#EXTINF:0 tvg-rec="0",Welt HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/15169/index.m3u8
+#EXTINF:0 tvg-rec="0",SIXX HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/15170/index.m3u8
+#EXTINF:0 tvg-rec="0",Arte DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/15171/index.m3u8
+#EXTINF:0 tvg-rec="0",Das Erste HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/15172/index.m3u8
+#EXTINF:0 tvg-rec="0",WDR HD (Aachen) DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/15173/index.m3u8
+#EXTINF:0 tvg-rec="0",ProSieben Maxx HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/15174/index.m3u8
+#EXTINF:0 tvg-rec="0",KiKA FHD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/15175/index.m3u8
+#EXTINF:0 tvg-rec="0",ATV DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/15176/index.m3u8
+#EXTINF:0 tvg-rec="0",ORF 1 HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/15177/index.m3u8
+#EXTINF:0 tvg-rec="0",RTL Crime HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/15178/index.m3u8
+#EXTINF:0 tvg-rec="0",Eurosport 1 FHD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/15179/index.m3u8
+#EXTINF:0 tvg-rec="0",HR FHD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/15180/index.m3u8
+#EXTINF:0 tvg-rec="0",NDR HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/15181/index.m3u8
+#EXTINF:0 tvg-rec="0",ARD Alpha FHD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/16058/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky One HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19000/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Crime HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19001/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Showcase HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19003/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Cinema Classics DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19005/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Replay HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19006/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Cinema Family FHD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19008/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Atlantic FHD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19009/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Cinema Highlights FHD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19013/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Cinema Premieren HD
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19014/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Cinema Classics FHD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19017/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Krimi FHD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19019/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Nature HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19020/index.m3u8
+
+#EXTINF:0 tvg-rec="0",Sky Documentaries HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19021/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport F1 HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19022/index.m3u8
+#EXTINF:0 tvg-rec="0",Sportdigital 1+ HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19023/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport F1 DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19027/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport 1 HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19028/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport 3 HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19030/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport 4 HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19031/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport 5 HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19032/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport 6 HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19033/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport 7 HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19034/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport 8 HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19035/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport 9 HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19036/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport 10 HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19037/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport Austria 4 HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19038/index.m3u8
+#EXTINF:0 tvg-rec="0",Eurosport 360 HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19040/index.m3u8
+#EXTINF:0 tvg-rec="0",DAZN 1 HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19042/index.m3u8
+#EXTINF:0 tvg-rec="0",DAZN 2 HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19043/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport UHD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19044/index.m3u8
+#EXTINF:0 tvg-rec="0",History HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/20017/index.m3u8
+#EXTINF:0 tvg-rec="0",History FHD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/20039/index.m3u8
+#EXTINF:0 tvg-rec="0",Discovery Channel HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/20040/index.m3u8
+#EXTINF:0 tvg-rec="0",Cartoonito DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/20042/index.m3u8
+#EXTINF:0 tvg-rec="0",Nick Jr. HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/20043/index.m3u8
+#EXTINF:0 tvg-rec="0",Warner TV Film HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/20045/index.m3u8
+#EXTINF:0 tvg-rec="0",#dabeiTV HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31279/index.m3u8
+#EXTINF:0 tvg-rec="0",1-2-3.tv HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31280/index.m3u8
+#EXTINF:0 tvg-rec="0",13th Street HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31281/index.m3u8
+#EXTINF:0 tvg-rec="0",3sat HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31282/index.m3u8
+#EXTINF:0 tvg-rec="0",Al Jazeera English HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31283/index.m3u8
+#EXTINF:0 tvg-rec="0",Animal Planet FHD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31284/index.m3u8
+#EXTINF:0 tvg-rec="0",Anixe HD Serie DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31285/index.m3u8
+#EXTINF:0 tvg-rec="0",Anixe+ HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31286/index.m3u8
+#EXTINF:0 tvg-rec="0",ARD Alpha HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31287/index.m3u8
+#EXTINF:0 tvg-rec="0",Arte HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31288/index.m3u8
+#EXTINF:0 tvg-rec="0",Asharq News HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31289/index.m3u8
+#EXTINF:0 tvg-rec="0",Auto Motor und Sport FHD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31290/index.m3u8
+#EXTINF:0 tvg-rec="0",Ballermann TV HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31291/index.m3u8
+#EXTINF:0 tvg-rec="0",Bergblick HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31292/index.m3u8
+#EXTINF:0 tvg-rec="0",Bibel TV HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31293/index.m3u8
+#EXTINF:0 tvg-rec="0",BonGusto HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31296/index.m3u8
+#EXTINF:0 tvg-rec="0",BR Fernsehen HD (Süd) DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31297/index.m3u8
+#EXTINF:0 tvg-rec="0",Cartoon Network DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31298/index.m3u8
+#EXTINF:0 tvg-rec="0",Cartoonito HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31299/index.m3u8
+#EXTINF:0 tvg-rec="0",Channel 21 HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31300/index.m3u8
+#EXTINF:0 tvg-rec="0",CNN International HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31301/index.m3u8
+#EXTINF:0 tvg-rec="0",Comedy Central FHD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31302/index.m3u8
+#EXTINF:0 tvg-rec="0",Craction HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31303/index.m3u8
+#EXTINF:0 tvg-rec="0",Crime + Investigation HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31304/index.m3u8
+#EXTINF:0 tvg-rec="0",Curiosity Channel HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31305/index.m3u8
+#EXTINF:0 tvg-rec="0",Das Erste DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31306/index.m3u8
+#EXTINF:0 tvg-rec="0",Deluxe Music FHD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31307/index.m3u8
+#EXTINF:0 tvg-rec="0",Deutsches Musik Fernsehen HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31308/index.m3u8
+#EXTINF:0 tvg-rec="0",DMAX HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31310/index.m3u8
+#EXTINF:0 tvg-rec="0",Euronews Deutsch DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31313/index.m3u8
+#EXTINF:0 tvg-rec="0",Eurosport 1 HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31314/index.m3u8
+#EXTINF:0 tvg-rec="0",Eurosport 2 HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31315/index.m3u8
+#EXTINF:0 tvg-rec="0",Fashion TV HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31316/index.m3u8
+#EXTINF:0 tvg-rec="0",Folx Music Television HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31317/index.m3u8
+#EXTINF:0 tvg-rec="0",France 24 English HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31318/index.m3u8
+#EXTINF:0 tvg-rec="0",France 24 Francais HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31319/index.m3u8
+#EXTINF:0 tvg-rec="0",GEO Television HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31321/index.m3u8
+#EXTINF:0 tvg-rec="0",Heimatkanal DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31322/index.m3u8
+#EXTINF:0 tvg-rec="0",HGTV HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31323/index.m3u8
+#EXTINF:0 tvg-rec="0",HR HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31324/index.m3u8
+#EXTINF:0 tvg-rec="0",HSE HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31325/index.m3u8
+#EXTINF:0 tvg-rec="0",Inplus HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31326/index.m3u8
+#EXTINF:0 tvg-rec="0",Jukebox HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31327/index.m3u8
+#EXTINF:0 tvg-rec="0",K-TV DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31328/index.m3u8
+#EXTINF:0 tvg-rec="0",Kabel Eins DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31329/index.m3u8
+#EXTINF:0 tvg-rec="0",Kabel Eins Classics HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31330/index.m3u8
+
+
+#EXTINF:0 tvg-rec="0",Kabel Eins Doku HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31331/index.m3u8
+#EXTINF:0 tvg-rec="0",KiKA HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31332/index.m3u8
+#EXTINF:0 tvg-rec="0",KinoweltTV HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31333/index.m3u8
+#EXTINF:0 tvg-rec="0",Magenta Musik 1 HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31335/index.m3u8
+#EXTINF:0 tvg-rec="0",Magenta Musik 2 HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31336/index.m3u8
+#EXTINF:0 tvg-rec="0",Magenta Sport HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31337/index.m3u8
+#EXTINF:0 tvg-rec="0",Marco Polo TV HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31339/index.m3u8
+#EXTINF:0 tvg-rec="0",MDR Fernsehen HD (Sachsen) DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31340/index.m3u8
+#EXTINF:0 tvg-rec="0",More Than Sports TV HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31341/index.m3u8
+#EXTINF:0 tvg-rec="0",MyTeam TV 1 HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31343/index.m3u8
+#EXTINF:0 tvg-rec="0",MTV HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31344/index.m3u8
+#EXTINF:0 tvg-rec="0",N-TV HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31345/index.m3u8
+#EXTINF:0 tvg-rec="0",N24 Doku HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31346/index.m3u8
+#EXTINF:0 tvg-rec="0",Nat Geo Wild FHD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31348/index.m3u8
+#EXTINF:0 tvg-rec="0",NDR HD (Niedersachsen) DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31349/index.m3u8
+#EXTINF:0 tvg-rec="0",KiKA DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31350/index.m3u8
+#EXTINF:0 tvg-rec="0",Nick/Comedy Central+1 DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31351/index.m3u8
+#EXTINF:0 tvg-rec="0",Nitro HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31352/index.m3u8
+#EXTINF:0 tvg-rec="0",One HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31353/index.m3u8
+#EXTINF:0 tvg-rec="0",One Music Television HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31354/index.m3u8
+#EXTINF:0 tvg-rec="0",OUTtv HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31355/index.m3u8
+#EXTINF:0 tvg-rec="0",Phoenix HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31357/index.m3u8
+#EXTINF:0 tvg-rec="0",ProSieben FHD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31359/index.m3u8
+#EXTINF:0 tvg-rec="0",ProSieben Fun HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31360/index.m3u8
+#EXTINF:0 tvg-rec="0",ProSieben Maxx DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31361/index.m3u8
+#EXTINF:0 tvg-rec="0",QVC HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31362/index.m3u8
+#EXTINF:0 tvg-rec="0",Radio Bremen TV HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31363/index.m3u8
+#EXTINF:0 tvg-rec="0",rbb Fernsehen HD (Berlin) DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31364/index.m3u8
+#EXTINF:0 tvg-rec="0",Red Bull TV HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31365/index.m3u8
+#EXTINF:0 tvg-rec="0",RiC HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31366/index.m3u8
+#EXTINF:0 tvg-rec="0",Romance TV HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31367/index.m3u8
+#EXTINF:0 tvg-rec="0",RTL FHD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31368/index.m3u8
+#EXTINF:0 tvg-rec="0",RTL Passion DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31369/index.m3u8
+#EXTINF:0 tvg-rec="0",RTL Passion FHD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31370/index.m3u8
+#EXTINF:0 tvg-rec="0",Tagesschau24 HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31371/index.m3u8
+#EXTINF:0 tvg-rec="0",Sat.1 Gold HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31378/index.m3u8
+#EXTINF:0 tvg-rec="0",Schlager Deluxe HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31379/index.m3u8
+#EXTINF:0 tvg-rec="0",Sat.1 DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31380/index.m3u8
+#EXTINF:0 tvg-rec="0",Sat.1 Emotions HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31381/index.m3u8
+#EXTINF:0 tvg-rec="0",Sat.1 Gold DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31382/index.m3u8
+#EXTINF:0 tvg-rec="0",Schlager Deluxe DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31383/index.m3u8
+#EXTINF:0 tvg-rec="0",Schlagerparadies.TV HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31384/index.m3u8
+#EXTINF:0 tvg-rec="0",Servus TV Motorsport HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31385/index.m3u8
+#EXTINF:0 tvg-rec="0",Shop LC HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31387/index.m3u8
+#EXTINF:0 tvg-rec="0",SIXX FHD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31388/index.m3u8
+#EXTINF:0 tvg-rec="0",Sonnenklar.TV HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31389/index.m3u8
+#EXTINF:0 tvg-rec="0",Spiegel Geschichte HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31392/index.m3u8
+#EXTINF:0 tvg-rec="0",MyTeam TV 18 HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31402/index.m3u8
+#EXTINF:0 tvg-rec="0",Sportdigital 1+ DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31411/index.m3u8
+#EXTINF:0 tvg-rec="0",Sportdigital Fussball FHD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31413/index.m3u8
+#EXTINF:0 tvg-rec="0",SR Fernsehen HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31414/index.m3u8
+#EXTINF:0 tvg-rec="0",Stingray Classica HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31415/index.m3u8
+#EXTINF:0 tvg-rec="0",Stingray DJAZZ HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31416/index.m3u8
+#EXTINF:0 tvg-rec="0",Stingray iConcerts HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31417/index.m3u8
+#EXTINF:0 tvg-rec="0",SWR Fernsehen BW HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31419/index.m3u8
+#EXTINF:0 tvg-rec="0",SWR Fernsehen RP HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31420/index.m3u8
+#EXTINF:0 tvg-rec="0",History DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31424/index.m3u8
+#EXTINF:0 tvg-rec="0",Toggo Plus HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31426/index.m3u8
+#EXTINF:0 tvg-rec="0",TravelXP HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31427/index.m3u8
+#EXTINF:0 tvg-rec="0",TV5 Monde Europe HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31428/index.m3u8
+#EXTINF:0 tvg-rec="0",Universal TV HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31429/index.m3u8
+#EXTINF:0 tvg-rec="0",Volksmusik.TV HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31430/index.m3u8
+#EXTINF:0 tvg-rec="0",VOX DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31431/index.m3u8
+#EXTINF:0 tvg-rec="0",VOXup DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31432/index.m3u8
+#EXTINF:0 tvg-rec="0",Warner TV Comedy HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31433/index.m3u8
+#EXTINF:0 tvg-rec="0",Warner TV Film FHD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31434/index.m3u8
+
+
+#EXTINF:0 tvg-rec="0",WDR HD (Köln) DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31436/index.m3u8
+#EXTINF:0 tvg-rec="0",WedoTV Movies HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31437/index.m3u8
+#EXTINF:0 tvg-rec="0",Welt FHD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31438/index.m3u8
+#EXTINF:0 tvg-rec="0",Welt der Wunder HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31439/index.m3u8
+#EXTINF:0 tvg-rec="0",Wetter.com DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31440/index.m3u8
+#EXTINF:0 tvg-rec="0",ZDF DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31441/index.m3u8
+#EXTINF:0 tvg-rec="0",ZDFinfo DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31442/index.m3u8
+#EXTINF:0 tvg-rec="0",ZDFneo HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31443/index.m3u8
+#EXTINF:0 tvg-rec="0",Zwei Music Television HD DE
+#EXTGRP:Play Tv | Germany
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31444/index.m3u8
+
+
+
+#EXTINF:0 tvg-rec="3",Food Network HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/1107/index.m3u8
+#EXTINF:0 tvg-rec="3",Tennis Channel FHD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6096/index.m3u8
+#EXTINF:0 tvg-rec="3",MoreMax HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6152/index.m3u8
+#EXTINF:0 tvg-rec="3",ThrillerMax HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6153/index.m3u8
+#EXTINF:0 tvg-rec="3",OuterMax HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6154/index.m3u8
+#EXTINF:0 tvg-rec="3",MovieMax HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6155/index.m3u8
+#EXTINF:0 tvg-rec="0",NHL Network US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7225/index.m3u8
+#EXTINF:0 tvg-rec="0",NBA TV HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7226/index.m3u8
+#EXTINF:0 tvg-rec="3",ION Television HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/901/index.m3u8
+#EXTINF:0 tvg-rec="3",NYCTV Life HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/902/index.m3u8
+#EXTINF:0 tvg-rec="3",CBS New York
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/903/index.m3u8
+#EXTINF:0 tvg-rec="3",Hallmark Movies & Mysteries HD
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/1075/index.m3u8
+#EXTINF:0 tvg-rec="3",Telemundo HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/1080/index.m3u8
+#EXTINF:0 tvg-rec="3",NBC New York HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/1081/index.m3u8
+#EXTINF:0 tvg-rec="3",Disney XD HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/1082/index.m3u8
+#EXTINF:0 tvg-rec="3",AMC HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/1083/index.m3u8
+#EXTINF:0 tvg-rec="3",HGTV FHD
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/1084/index.m3u8
+#EXTINF:0 tvg-rec="3",truTV HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/1085/index.m3u8
+#EXTINF:0 tvg-rec="3",MAVTV HD
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/1074/index.m3u8
+#EXTINF:0 tvg-rec="3",ABC HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/1087/index.m3u8
+#EXTINF:0 tvg-rec="3",Fox 5 WNYW HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/1086/index.m3u8
+#EXTINF:0 tvg-rec="3",MY9 New Jersey HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/1088/index.m3u8
+#EXTINF:0 tvg-rec="3",MotorTrend HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/1091/index.m3u8
+#EXTINF:0 tvg-rec="3",BBC America HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/1092/index.m3u8
+#EXTINF:0 tvg-rec="3",WPIX HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/1090/index.m3u8
+#EXTINF:0 tvg-rec="3",Thirteen HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/1093/index.m3u8
+#EXTINF:0 tvg-rec="3",WLIW HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/1094/index.m3u8
+#EXTINF:0 tvg-rec="3",New Jersey PBS HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/1095/index.m3u8
+#EXTINF:0 tvg-rec="3",MeTV HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/1096/index.m3u8
+#EXTINF:0 tvg-rec="3",WMBC-TV HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/1098/index.m3u8
+#EXTINF:0 tvg-rec="3",Univision HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/1099/index.m3u8
+#EXTINF:0 tvg-rec="3",UniMás HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/1100/index.m3u8
+#EXTINF:0 tvg-rec="3",USA HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/1101/index.m3u8
+#EXTINF:0 tvg-rec="3",TNT HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/1102/index.m3u8
+#EXTINF:0 tvg-rec="3",TBS US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/1103/index.m3u8
+#EXTINF:0 tvg-rec="3",TLC HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/1105/index.m3u8
+#EXTINF:0 tvg-rec="3",FXM Retro HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/1106/index.m3u8
+#EXTINF:0 tvg-rec="3",A&E US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/1108/index.m3u8
+#EXTINF:0 tvg-rec="3",CNBC HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/962/index.m3u8
+#EXTINF:0 tvg-rec="0",Fox Sports 1 HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7322/index.m3u8
+#EXTINF:0 tvg-rec="0",Fox Sports 2 HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7323/index.m3u8
+#EXTINF:0 tvg-rec="0",CBS Sports Network HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7324/index.m3u8
+#EXTINF:0 tvg-rec="0",MSG HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7325/index.m3u8
+#EXTINF:0 tvg-rec="0",MSG 2 HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7326/index.m3u8
+#EXTINF:0 tvg-rec="0",NBC Sports Network HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7327/index.m3u8
+#EXTINF:0 tvg-rec="0",NHL Network HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7328/index.m3u8
+#EXTINF:0 tvg-rec="0",SportsNet New York HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/11107/index.m3u8
+#EXTINF:0 tvg-rec="0",Spectrum SportsNet HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/11108/index.m3u8
+#EXTINF:0 tvg-rec="0",NESN HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/11109/index.m3u8
+#EXTINF:0 tvg-rec="0",A&E HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30001/index.m3u8
+
+
+
+
+#EXTINF:0 tvg-rec="0",American Heroes Channel HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30007/index.m3u8
+#EXTINF:0 tvg-rec="0",AXS TV HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30011/index.m3u8
+#EXTINF:0 tvg-rec="0",BabyFirst TV HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30012/index.m3u8
+#EXTINF:0 tvg-rec="0",beIN Sports En Español HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30015/index.m3u8
+#EXTINF:0 tvg-rec="0",BET Her HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30018/index.m3u8
+#EXTINF:0 tvg-rec="0",Bravo HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30024/index.m3u8
+#EXTINF:0 tvg-rec="0",C-SPAN 2 HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30026/index.m3u8
+#EXTINF:0 tvg-rec="0",C-SPAN 3 HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30027/index.m3u8
+#EXTINF:0 tvg-rec="0",C-SPAN HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30028/index.m3u8
+#EXTINF:0 tvg-rec="0",Cars.TV HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30030/index.m3u8
+#EXTINF:0 tvg-rec="0",Cheddar News HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30035/index.m3u8
+#EXTINF:0 tvg-rec="0",Comedy Central HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30044/index.m3u8
+#EXTINF:0 tvg-rec="0",Cooking Channel HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30045/index.m3u8
+#EXTINF:0 tvg-rec="0",Crime + Investigation HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30046/index.m3u8
+#EXTINF:0 tvg-rec="0",Destination America HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30051/index.m3u8
+#EXTINF:0 tvg-rec="0",Discovery Channel HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30052/index.m3u8
+#EXTINF:0 tvg-rec="0",Discovery Family HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30055/index.m3u8
+#EXTINF:0 tvg-rec="0",Discovery Life HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30056/index.m3u8
+#EXTINF:0 tvg-rec="0",E! HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30060/index.m3u8
+#EXTINF:0 tvg-rec="0",ESPN Deportes HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30063/index.m3u8
+#EXTINF:0 tvg-rec="0",ESPNews HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30066/index.m3u8
+#EXTINF:0 tvg-rec="0",ESPNU HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30067/index.m3u8
+#EXTINF:0 tvg-rec="0",Flix HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30071/index.m3u8
+#EXTINF:0 tvg-rec="0",Fox Deportes HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30075/index.m3u8
+#EXTINF:0 tvg-rec="0",Fox News Channel HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30076/index.m3u8
+#EXTINF:0 tvg-rec="0",Fox Sports 2 US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30078/index.m3u8
+#EXTINF:0 tvg-rec="0",Fuse HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30081/index.m3u8
+#EXTINF:0 tvg-rec="0",FX HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30082/index.m3u8
+#EXTINF:0 tvg-rec="0",FYI HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30085/index.m3u8
+#EXTINF:0 tvg-rec="0",Golf Channel HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30089/index.m3u8
+#EXTINF:0 tvg-rec="0",Game Show Network HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30091/index.m3u8
+#EXTINF:0 tvg-rec="0",HDNet Movies HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30102/index.m3u8
+#EXTINF:0 tvg-rec="0",History HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30105/index.m3u8
+#EXTINF:0 tvg-rec="0",HSN HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30109/index.m3u8
+#EXTINF:0 tvg-rec="0",HSN2 HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30110/index.m3u8
+#EXTINF:0 tvg-rec="0",i24 News HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30111/index.m3u8
+#EXTINF:0 tvg-rec="0",Jewelry TV HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30119/index.m3u8
+#EXTINF:0 tvg-rec="0",Justice Central.TV HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30120/index.m3u8
+#EXTINF:0 tvg-rec="0",Lifetime HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30122/index.m3u8
+#EXTINF:0 tvg-rec="0",LMN HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30124/index.m3u8
+#EXTINF:0 tvg-rec="0",Logo HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30126/index.m3u8
+#EXTINF:0 tvg-rec="0",Movieplex HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30142/index.m3u8
+#EXTINF:0 tvg-rec="0",Spectrum News 1 NY HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30148/index.m3u8
+#EXTINF:0 tvg-rec="0",Altitude Sports HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31000/index.m3u8
+#EXTINF:0 tvg-rec="0",FanDuel Sports Arizona HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31001/index.m3u8
+#EXTINF:0 tvg-rec="0",MTV2 HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31002/index.m3u8
+#EXTINF:0 tvg-rec="0",FanDuel Sports Detroit HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31003/index.m3u8
+#EXTINF:0 tvg-rec="0",FanDuel Sports Detroit Plus HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31004/index.m3u8
+#EXTINF:0 tvg-rec="0",FanDuel Sports Florida HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31005/index.m3u8
+#EXTINF:0 tvg-rec="0",FanDuel Sports Florida Plus HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31006/index.m3u8
+#EXTINF:0 tvg-rec="0",FanDuel Sports Great Lakes HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31007/index.m3u8
+#EXTINF:0 tvg-rec="0",FanDuel Sports Oklahoma HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31008/index.m3u8
+#EXTINF:0 tvg-rec="0",Newsmax TV HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31009/index.m3u8
+#EXTINF:0 tvg-rec="0",NFL Network US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31011/index.m3u8
+#EXTINF:0 tvg-rec="0",NFL RedZone HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31012/index.m3u8
+#EXTINF:0 tvg-rec="0",FanDuel Sports Southwest US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31013/index.m3u8
+#EXTINF:0 tvg-rec="0",Nick Jr. HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31014/index.m3u8
+#EXTINF:0 tvg-rec="0",FanDuel Sports New Orleans HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31015/index.m3u8
+#EXTINF:0 tvg-rec="0",NickToons HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31016/index.m3u8
+#EXTINF:0 tvg-rec="0",FanDuel Sports North HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31017/index.m3u8
+#EXTINF:0 tvg-rec="0",Outdoor Channel US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31018/index.m3u8
+#EXTINF:0 tvg-rec="0",FanDuel Sports Ohio HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31019/index.m3u8
+#EXTINF:0 tvg-rec="0",Ovation TV HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31020/index.m3u8
+#EXTINF:0 tvg-rec="0",OWN HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31021/index.m3u8
+#EXTINF:0 tvg-rec="0",FanDuel Sports Ohio Cincinnati HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31022/index.m3u8
+#EXTINF:0 tvg-rec="0",Paramount Network HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31029/index.m3u8
+#EXTINF:0 tvg-rec="0",FanDuel Sports Ohio Cleveland HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31030/index.m3u8
+#EXTINF:0 tvg-rec="0",ION Mystery HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31031/index.m3u8
+#EXTINF:0 tvg-rec="0",FanDuel Sports San Diego HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31032/index.m3u8
+#EXTINF:0 tvg-rec="0",Pets.TV HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31033/index.m3u8
+#EXTINF:0 tvg-rec="0",FanDuel Sports SoCal HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31034/index.m3u8
+#EXTINF:0 tvg-rec="0",FanDuel Sports Southeast HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31035/index.m3u8
+#EXTINF:0 tvg-rec="0",FanDuel Sports Southwest HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31036/index.m3u8
+#EXTINF:0 tvg-rec="0",QVC HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31037/index.m3u8
+#EXTINF:0 tvg-rec="0",QVC2 HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31038/index.m3u8
+#EXTINF:0 tvg-rec="0",FanDuel Sports Southwest Plus HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31039/index.m3u8
+#EXTINF:0 tvg-rec="0",Recipe.TV HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31040/index.m3u8
+#EXTINF:0 tvg-rec="0",FanDuel Sports Sun HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31041/index.m3u8
+#EXTINF:0 tvg-rec="0",Retroplex HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31042/index.m3u8
+#EXTINF:0 tvg-rec="0",FanDuel Sports West HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31043/index.m3u8
+#EXTINF:0 tvg-rec="0",FanDuel Sports West Plus HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31044/index.m3u8
+#EXTINF:0 tvg-rec="0",FanDuel Sports Wisconsin HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31046/index.m3u8
+#EXTINF:0 tvg-rec="0",FanDuel Sports Wisconsin Plus HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31047/index.m3u8
+#EXTINF:0 tvg-rec="0",beIN Sports US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31048/index.m3u8
+#EXTINF:0 tvg-rec="0",beIN Sports 2 US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31049/index.m3u8
+#EXTINF:0 tvg-rec="0",beIN Sports 3 US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31050/index.m3u8
+#EXTINF:0 tvg-rec="0",beIN Sports 4 US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31051/index.m3u8
+#EXTINF:0 tvg-rec="0",beIN Sports 5 US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31052/index.m3u8
+#EXTINF:0 tvg-rec="0",beIN Sports 6 US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31053/index.m3u8
+#EXTINF:0 tvg-rec="0",beIN Sports 7 US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31054/index.m3u8
+#EXTINF:0 tvg-rec="0",Monumental Sports Network HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31056/index.m3u8
+#EXTINF:0 tvg-rec="0",Smithsonian Channel HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31061/index.m3u8
+#EXTINF:0 tvg-rec="0",TBS HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31083/index.m3u8
+#EXTINF:0 tvg-rec="0",TCM HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31084/index.m3u8
+#EXTINF:0 tvg-rec="0",TeenNick HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31085/index.m3u8
+#EXTINF:0 tvg-rec="0",Tennis Channel HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31089/index.m3u8
+#EXTINF:0 tvg-rec="0",TLC US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31098/index.m3u8
+#EXTINF:0 tvg-rec="0",TUDN HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31103/index.m3u8
+#EXTINF:0 tvg-rec="0",FanDuel TV HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31110/index.m3u8
+
+
+#EXTINF:0 tvg-rec="0",Universal Kids HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31120/index.m3u8
+#EXTINF:0 tvg-rec="0",Universo HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31121/index.m3u8
+#EXTINF:0 tvg-rec="0",Up TV HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31123/index.m3u8
+#EXTINF:0 tvg-rec="0",USA US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31124/index.m3u8
+#EXTINF:0 tvg-rec="0",Vice HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31126/index.m3u8
+#EXTINF:0 tvg-rec="0",Willow HD US
+#EXTGRP:Play Tv  | USA
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31131/index.m3u8
+
+#EXTINF:0 tvg-rec="3",Sky Sports Mix HD 50 UK
+#EXTGRP:Play Tv | United Kingdom
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/9310/index.m3u8
+#EXTINF:0 tvg-rec="3",Premier Sports 1 HD 50 UK
+#EXTGRP:Play Tv | United Kingdom
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/2160/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sports Golf HD 50 UK
+#EXTGRP:Play Tv | United Kingdom
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/9293/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sports F1 HD 50 UK
+#EXTGRP:Play Tv | United Kingdom
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/9283/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sports Racing HD 50 UK
+#EXTGRP:Play Tv | United Kingdom
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/9335/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sports+ HD UK
+#EXTGRP:Play Tv | United Kingdom
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/9248/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sports News HD 50 UK
+#EXTGRP:Play Tv | United Kingdom
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/9314/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sports Main Event HD 50 UK
+#EXTGRP:Play Tv | United Kingdom
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/9308/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky History HD UK
+#EXTGRP:Play Tv | United Kingdom
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/16037/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sports Football HD 50 UK
+#EXTGRP:Play Tv | United Kingdom
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/9289/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sports Cricket HD 50 UK
+#EXTGRP:Play Tv | United Kingdom
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/9258/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sports Premier League HD 50 UK
+#EXTGRP:Play Tv | United Kingdom
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/9334/index.m3u8
+#EXTINF:0 tvg-rec="3",TNT Sports 1 FHD UK
+#EXTGRP:Play Tv | United Kingdom
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/2505/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sports Action HD 50 UK
+#EXTGRP:Play Tv | United Kingdom
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/9155/index.m3u8
+#EXTINF:0 tvg-rec="0",ITVBe UK
+#EXTGRP:Play Tv | United Kingdom
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19190/index.m3u8
+#EXTINF:0 tvg-rec="3",TNT Sports 2 HD UK
+#EXTGRP:Play Tv | United Kingdom
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/2506/index.m3u8
+#EXTINF:0 tvg-rec="3",Premier Sports 1 HD UK
+#EXTGRP:Play Tv | United Kingdom
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6555/index.m3u8
+#EXTINF:0 tvg-rec="3",Eurosport 2 HD UK
+#EXTGRP:Play Tv | United Kingdom
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6556/index.m3u8
+#EXTINF:0 tvg-rec="3",TNT Sports 3 HD UK
+#EXTGRP:Play Tv | United Kingdom
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6564/index.m3u8
+#EXTINF:0 tvg-rec="3",TNT Sports 1 HD UK
+#EXTGRP:Play Tv | United Kingdom
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6566/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sports Premier League HD UK
+#EXTGRP:Play Tv | United Kingdom
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7335/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sports Football HD UK
+#EXTGRP:Play Tv | United Kingdom
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7336/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sports Main Event HD UK
+#EXTGRP:Play Tv | United Kingdom
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7337/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sports Mix HD UK
+#EXTGRP:Play Tv | United Kingdom
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7339/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sports Action HD UK
+#EXTGRP:Play Tv | United Kingdom
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7340/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sports Racing HD UK
+#EXTGRP:Play Tv | United Kingdom
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7341/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sports F1 HD UK
+#EXTGRP:Play Tv | United Kingdom
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7342/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sports Cricket HD UK
+#EXTGRP:Play Tv | United Kingdom
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7343/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sports Golf HD UK
+#EXTGRP:Play Tv | United Kingdom
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7344/index.m3u8
+#EXTINF:0 tvg-rec="0",ITV1 UK
+#EXTGRP:Play Tv | United Kingdom
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19185/index.m3u8
+#EXTINF:0 tvg-rec="0",ITV2 HD UK
+#EXTGRP:Play Tv | United Kingdom
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19186/index.m3u8
+#EXTINF:0 tvg-rec="0",ITV3 +1 UK
+#EXTGRP:Play Tv | United Kingdom
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19187/index.m3u8
+#EXTINF:0 tvg-rec="0",ITV4 +1 UK
+#EXTGRP:Play Tv | United Kingdom
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19188/index.m3u8
+#EXTINF:0 tvg-rec="0",ITV4 UK
+#EXTGRP:Play Tv | United Kingdom
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19189/index.m3u8
+
+
+
+#EXTINF:0 tvg-rec="0",Eurosport 2 HD PL
+#EXTGRP:Play Tv | Poland
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/20066/index.m3u8
+#EXTINF:0 tvg-rec="0",Eurosport 1 HD PL
+#EXTGRP:Play Tv | Poland
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/20058/index.m3u8
+#EXTINF:0 tvg-rec="0",Polsat Rodzina HD PL
+#EXTGRP:Play Tv | Poland
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7301/index.m3u8
+#EXTINF:0 tvg-rec="0",Canal+ Kuchnia PL
+#EXTGRP:Play Tv | Poland
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7302/index.m3u8
+#EXTINF:0 tvg-rec="0",Polsat Sport 3 HD PL
+#EXTGRP:Play Tv | Poland
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7303/index.m3u8
+#EXTINF:0 tvg-rec="0",Polsat Sport Premium 1 HD PL
+#EXTGRP:Play Tv | Poland
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7304/index.m3u8
+#EXTINF:0 tvg-rec="0",Polsat Sport Premium 2 HD PL
+#EXTGRP:Play Tv | Poland
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7305/index.m3u8
+#EXTINF:0 tvg-rec="0",Polsat Sport Premium 3 PPV HD PL
+#EXTGRP:Play Tv | Poland
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7306/index.m3u8
+#EXTINF:0 tvg-rec="0",Polsat Sport Premium 4 PPV HD PL
+#EXTGRP:Play Tv | Poland
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7307/index.m3u8
+#EXTINF:0 tvg-rec="0",Polsat Sport Premium 5 PPV HD PL
+#EXTGRP:Play Tv | Poland
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7308/index.m3u8
+#EXTINF:0 tvg-rec="0",Polsat Sport Premium 6 PPV HD PL
+#EXTGRP:Play Tv | Poland
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7309/index.m3u8
+#EXTINF:0 tvg-rec="0",Polsat Sport 2 HD PL
+#EXTGRP:Play Tv | Poland
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7310/index.m3u8
+#EXTINF:0 tvg-rec="0",Polsat Sport Fight HD PL
+#EXTGRP:Play Tv | Poland
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7311/index.m3u8
+#EXTINF:0 tvg-rec="3",FX Comedy HD PL
+#EXTGRP:Play Tv | Poland
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6107/index.m3u8
+#EXTINF:0 tvg-rec="3",Canal+ Sport HD PL
+#EXTGRP:Play Tv | Poland
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6098/index.m3u8
+#EXTINF:0 tvg-rec="3",Canal+ Sport 2 HD PL
+#EXTGRP:Play Tv | Poland
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6099/index.m3u8
+#EXTINF:0 tvg-rec="3",Canal+ Film HD PL
+#EXTGRP:Play Tv | Poland
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6101/index.m3u8
+#EXTINF:0 tvg-rec="3",BBC Earth HD PL
+#EXTGRP:Play Tv | Poland
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6100/index.m3u8
+#EXTINF:0 tvg-rec="3",Canal+ 360 HD PL
+#EXTGRP:Play Tv | Poland
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6105/index.m3u8
+#EXTINF:0 tvg-rec="3",Canal+ Seriale HD PL
+#EXTGRP:Play Tv | Poland
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6104/index.m3u8
+#EXTINF:0 tvg-rec="3",Discovery Channel HD PL
+#EXTGRP:Play Tv | Poland
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6102/index.m3u8
+#EXTINF:0 tvg-rec="3",Discovery Channel HD PT
+#EXTGRP:Play Tv | Poland
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6103/index.m3u8
+#EXTINF:0 tvg-rec="3",Super Polsat HD PL
+#EXTGRP:Play Tv | Poland
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6109/index.m3u8
+#EXTINF:0 tvg-rec="3",Kino Polska HD PL
+#EXTGRP:Play Tv | Poland
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6088/index.m3u8
+#EXTINF:0 tvg-rec="3",FX HD PL
+#EXTGRP:Play Tv | Poland
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6108/index.m3u8
+#EXTINF:0 tvg-rec="3",Eleven Sports 2 HD PL
+#EXTGRP:Play Tv | Poland
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/2517/index.m3u8
+#EXTINF:0 tvg-rec="3",Eleven Sports 1 HD PL
+#EXTGRP:Play Tv | Poland
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/2518/index.m3u8
+#EXTINF:0 tvg-rec="3",Canal+ Sport 5 HD PL
+#EXTGRP:Play Tv | Poland
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/2519/index.m3u8
+#EXTINF:0 tvg-rec="3",TVP Sport HD PL
+#EXTGRP:Play Tv | Poland
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/2520/index.m3u8
+#EXTINF:0 tvg-rec="3",SportKlub HD PL
+#EXTGRP:Play Tv | Poland
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/2521/index.m3u8
+#EXTINF:0 tvg-rec="3",TVP Info HD PL
+#EXTGRP:Play Tv | Poland
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/961/index.m3u8
+#EXTINF:0 tvg-rec="3",Polsat Play HD PL
+#EXTGRP:Play Tv | Poland
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6087/index.m3u8
+#EXTINF:0 tvg-rec="3",Polsat Film HD PL
+#EXTGRP:Play Tv | Poland
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6086/index.m3u8
+#EXTINF:0 tvg-rec="3",Polsat Cafe HD PL
+#EXTGRP:Play Tv | Poland
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6085/index.m3u8
+#EXTINF:0 tvg-rec="3",Polsat 2 HD PL
+#EXTGRP:Play Tv | Poland
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6084/index.m3u8
+#EXTINF:0 tvg-rec="0",TVN 7 HD PL
+#EXTGRP:Play Tv | Poland
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7279/index.m3u8
+#EXTINF:0 tvg-rec="0",TVP Seriale HD PL
+#EXTGRP:Play Tv | Poland
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7281/index.m3u8
+#EXTINF:0 tvg-rec="0",TVP Polonia HD PL
+#EXTGRP:Play Tv | Poland
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7282/index.m3u8
+#EXTINF:0 tvg-rec="0",TVP Historia PL
+#EXTGRP:Play Tv | Poland
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7283/index.m3u8
+#EXTINF:0 tvg-rec="0",TVP 3 Warszawa HD PL
+#EXTGRP:Play Tv | Poland
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7284/index.m3u8
+#EXTINF:0 tvg-rec="0",TVN Style HD PL
+#EXTGRP:Play Tv | Poland
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7285/index.m3u8
+#EXTINF:0 tvg-rec="0",TVN HD PL
+#EXTGRP:Play Tv | Poland
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7286/index.m3u8
+#EXTINF:0 tvg-rec="0",TVN Fabula HD PL
+#EXTGRP:Play Tv | Poland
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7287/index.m3u8
+#EXTINF:0 tvg-rec="0",TV6 HD PL
+#EXTGRP:Play Tv | Poland
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7289/index.m3u8
+#EXTINF:0 tvg-rec="0",TV4 HD PL
+#EXTGRP:Play Tv | Poland
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7290/index.m3u8
+#EXTINF:0 tvg-rec="0",TVP 1 HD PL
+#EXTGRP:Play Tv | Poland
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7292/index.m3u8
+#EXTINF:0 tvg-rec="0",TVP 2 HD PL
+#EXTGRP:Play Tv | Poland
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7293/index.m3u8
+#EXTINF:0 tvg-rec="0",MTV HD PL
+#EXTGRP:Play Tv | Poland
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7294/index.m3u8
+#EXTINF:0 tvg-rec="0",Polsat Games HD PL
+#EXTGRP:Play Tv | Poland
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7295/index.m3u8
+#EXTINF:0 tvg-rec="0",Polsat Sport 1 HD PL
+#EXTGRP:Play Tv | Poland
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7296/index.m3u8
+#EXTINF:0 tvg-rec="0",Polsat News 2 PL
+#EXTGRP:Play Tv | Poland
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7297/index.m3u8
+#EXTINF:0 tvg-rec="0",Polsat JimJam PL
+#EXTGRP:Play Tv | Poland
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7298/index.m3u8
+#EXTINF:0 tvg-rec="0",Polsat HD PL
+#EXTGRP:Play Tv | Poland
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7299/index.m3u8
+#EXTINF:0 tvg-rec="0",Stars TV PL
+#EXTGRP:Play Tv | Poland
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19168/index.m3u8
+#EXTINF:0 tvg-rec="0",Disco Polo Music HD PL
+#EXTGRP:Play Tv | Poland
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19169/index.m3u8
+#EXTINF:0 tvg-rec="0",Polo TV HD PL
+#EXTGRP:Play Tv | Poland
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19170/index.m3u8
+#EXTINF:0 tvg-rec="0",Vox Music TV HD PL
+#EXTGRP:Play Tv | Poland
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19171/index.m3u8
+#EXTINF:0 tvg-rec="0",Eska Rock TV PL
+#EXTGRP:Play Tv | Poland
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19172/index.m3u8
+#EXTINF:0 tvg-rec="0",Eska TV Extra PL
+#EXTGRP:Play Tv | Poland
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19173/index.m3u8
+#EXTINF:0 tvg-rec="0",Eska TV PL
+#EXTGRP:Play Tv | Poland
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19174/index.m3u8
+
+
+
+
+
+
+#EXTINF:0 tvg-rec="0",Eurosport 2 HD IT
+#EXTGRP:Play Tv | Italy
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19116/index.m3u8
+#EXTINF:0 tvg-rec="0",San Marino RTV Sport HD IT
+#EXTGRP:Play Tv | Italy
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19117/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Primafila 1 HD IT
+#EXTGRP:Play Tv | Italy
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19118/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Primafila 2 HD IT
+#EXTGRP:Play Tv | Italy
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19119/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Primafila 3 HD IT
+#EXTGRP:Play Tv | Italy
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19120/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Primafila 4 HD IT
+#EXTGRP:Play Tv | Italy
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19121/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Primafila 5 HD IT
+#EXTGRP:Play Tv | Italy
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19122/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Primafila 6 HD IT
+#EXTGRP:Play Tv | Italy
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19123/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Primafila 7 HD IT
+#EXTGRP:Play Tv | Italy
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19124/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Primafila 8 HD IT
+#EXTGRP:Play Tv | Italy
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19125/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Primafila 9 HD IT
+#EXTGRP:Play Tv | Italy
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19126/index.m3u8
+#EXTINF:0 tvg-rec="0",SuperTv IT
+#EXTGRP:Play Tv | Italy
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19112/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport Calcio HD IT
+#EXTGRP:Play Tv | Italy
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19113/index.m3u8
+#EXTINF:0 tvg-rec="0",Rai 1 HD IT
+#EXTGRP:Play Tv | Italy
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19081/index.m3u8
+#EXTINF:0 tvg-rec="0",Rai 2 HD IT
+#EXTGRP:Play Tv | Italy
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19082/index.m3u8
+#EXTINF:0 tvg-rec="0",Rai 3 HD IT
+#EXTGRP:Play Tv | Italy
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19083/index.m3u8
+#EXTINF:0 tvg-rec="0",Rai 4 HD IT
+#EXTGRP:Play Tv | Italy
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19084/index.m3u8
+#EXTINF:0 tvg-rec="0",Rai 5 IT
+#EXTGRP:Play Tv | Italy
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19085/index.m3u8
+#EXTINF:0 tvg-rec="0",Rai Movie HD IT
+#EXTGRP:Play Tv | Italy
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19086/index.m3u8
+#EXTINF:0 tvg-rec="0",Rai Premium IT
+#EXTGRP:Play Tv | Italy
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19087/index.m3u8
+#EXTINF:0 tvg-rec="0",Rai Storia IT
+#EXTGRP:Play Tv | Italy
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19088/index.m3u8
+#EXTINF:0 tvg-rec="0",UniNettuno University TV IT
+#EXTGRP:Play Tv | Italy
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19089/index.m3u8
+#EXTINF:0 tvg-rec="0",Rai Scuola HD IT
+#EXTGRP:Play Tv | Italy
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19090/index.m3u8
+#EXTINF:0 tvg-rec="0",Rai 4K IT
+#EXTGRP:Play Tv | Italy
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19091/index.m3u8
+#EXTINF:0 tvg-rec="0",Rai Gulp HD IT
+#EXTGRP:Play Tv | Italy
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19092/index.m3u8
+#EXTINF:0 tvg-rec="0",Rai Italia IT
+#EXTGRP:Play Tv | Italy
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19093/index.m3u8
+#EXTINF:0 tvg-rec="0",Rai News 24 HD IT
+#EXTGRP:Play Tv | Italy
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19094/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Cinema Uno HD IT
+#EXTGRP:Play Tv | Italy
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19095/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Cinema Due HD IT
+#EXTGRP:Play Tv | Italy
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19096/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Cinema Comedy HD IT
+#EXTGRP:Play Tv | Italy
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19097/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Cinema Action HD DE
+#EXTGRP:Play Tv | Italy
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19098/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Cinema Suspense HD IT
+#EXTGRP:Play Tv | Italy
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19100/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Atlantic HD IT
+#EXTGRP:Play Tv | Italy
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19102/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport F1 HD IT
+#EXTGRP:Play Tv | Italy
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19105/index.m3u8
+#EXTINF:0 tvg-rec="0",Rai Sport HD IT
+#EXTGRP:Play Tv | Italy
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19106/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport 24 FHD IT
+#EXTGRP:Play Tv | Italy
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19107/index.m3u8
+#EXTINF:0 tvg-rec="0",Sportitalia Plus HD IT
+#EXTGRP:Play Tv | Italy
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19108/index.m3u8
+#EXTINF:0 tvg-rec="0",Super Tennis HD IT
+#EXTGRP:Play Tv | Italy
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19111/index.m3u8
